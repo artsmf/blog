@@ -222,14 +222,15 @@
   }
 }
 
+/* About Page & Author */
 .author-thumb-sm {
   max-height: 165px;
   max-width: 165px;
 }
 
 .author-about {
-  max-height: 400px;
-  max-width: 400px;
+  max-height: 200px;
+  max-width: 200px;
 }
 
 /* markdown style */
@@ -252,13 +253,15 @@
   }
 
   ul {
-    padding-left: 0;
+    padding-left: 2em;
 
     li {
+      color: $gold;
       position: relative;
       padding-left: 20px;
       margin-bottom: 15px;
       list-style-type: none;
+      text-align: left;
 
       &::before {
         position: absolute;

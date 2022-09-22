@@ -8,7 +8,7 @@
         <img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid d-block mx-auto rounded-circle mb-4 author-about">
         {{ end }}
         <h4 class="widget-title">{{ .Title | markdownify }}</h4>
-        <div class="content">
+        <div class="content" style="text-align:left;">
           {{ .Content }}
         </div>
       </div>

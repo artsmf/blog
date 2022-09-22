@@ -71,11 +71,6 @@ name = "About"
 URL = "about/"
 weight = 3
 
-[[menu.footer]]
-name = "Contact"
-URL = "contact/"
-weight = 4
-
 
 #################### default parameters ################################
 [params]
