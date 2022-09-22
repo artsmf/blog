@@ -10,14 +10,13 @@ image: "images/featured-post/post-2.jpg"
 description: "this is meta description"
 
 # taxonomies
-categories: 
-  - "HTML & CSS"
+series:
+  - "Self-Taught Atelier"
+categories:
+  - "Studio Projects/Process"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "painting"
+  - "portrait painting"
 
 # post type
 type: "post"

@@ -10,14 +10,13 @@ image: "images/post/post-6.jpg"
 description: "this is meta description"
 
 # taxonomies
-categories: 
-  - "Python"
+series:
+  - "Self-Taught Atelier"
+categories:
+  - "Studio Projects/Process"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "painting"
+  - "portrait painting"
 
 # post type
 type: "post"

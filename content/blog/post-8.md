@@ -10,14 +10,16 @@ image: "images/post/post-5.jpg"
 description: "this is meta description"
 
 # taxonomies
-categories: 
-  - "Go Language"
+categories:
+  - "Studio Projects/Process"
+  - "Video Tutorials"
+  - "An Artist's Thoughts"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
-  - "New"
+  - "painting"
+  - "mixed media"
+  - "illustration"
+  - "portrait painting"
+  - "book arts"
 
 # post type
 type: "post"

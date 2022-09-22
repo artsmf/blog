@@ -12,13 +12,15 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Android And Gaming"
+  - "Studio Projects/Process"
+  - "Video Tutorials"
+  - "An Artist's Thoughts"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "painting"
+  - "mixed media"
+  - "illustration"
+  - "portrait painting"
+  - "book arts"
 
 # post type
 type: "featured"

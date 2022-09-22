@@ -12,6 +12,21 @@
       <a href="{{ .Permalink }}" class="btn btn-outline-primary">Know More</a>
       {{ end }}
     </div>
+     <!-- series -->
+     <div class="widget">
+      <h4 class="widget-title">Series</h4>
+      {{- if isset .Site.Taxonomies "series" }}
+      {{- if not (eq (len .Site.Taxonomies.series) 0) }}
+      <ul class="list-unstyled">
+        {{- range $name, $items := .Site.Taxonomies.series }}
+        <li><a
+            href="{{ `series/` | relLangURL }}{{ $name | urlize | lower }}/">{{ $name | title | humanize }}</a>
+        </li>
+        {{- end }}
+      </ul>
+      {{- end }}
+      {{- end }}
+    </div>
     <!-- category -->
     <div class="widget">
       <h4 class="widget-title">Category</h4>
@@ -51,8 +66,8 @@
       </ul>
     </div>
     <!-- advertisement -->
-    <div class="widget">
+    <!-- <div class="widget">
       <img src="{{`images/promotion.png` | absURL}}" alt="" class="img-fluid">
-    </div>
+    </div> -->
   </div>
 </div>

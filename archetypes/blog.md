@@ -11,14 +11,18 @@ image: "images/featured-post/post-1.jpg"
 description: "this is meta description"
 
 # taxonomies
+series:
+  - "Self-Taught Atelier"
 categories:
-  - "Android And Gaming"
+  - "Studio Projects/Process"
+  - "Video Tutorials"
+  - "An Artist's Thoughts"
 tags:
-  - "Photos"
-  - "Game"
-  - "React"
-  - "Python"
-  - "New"
+  - "painting"
+  - "mixed media"
+  - "illustration"
+  - "portrait painting"
+  - "book arts"
 
 # post type
 type: "featured"
