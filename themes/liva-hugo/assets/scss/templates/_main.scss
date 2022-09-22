@@ -227,6 +227,10 @@
   max-width: 165px;
 }
 
+.author-about {
+  max-height: 400px;
+  max-width: 400px;
+}
 
 /* markdown style */
 .content {
@@ -338,6 +342,10 @@
     color: $text-color-dark;
   }
 
+}
+
+footer {
+  padding-top: 2em;
 }
 
 footer a {
