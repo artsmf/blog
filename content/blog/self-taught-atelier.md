@@ -1,23 +1,22 @@
 ---
-title: "On becoming a (self-taught) artist"
+title: "Atelier Series: On becoming an (self-taught) artist"
 date: 2022-08-06T00:35:00-04:00
 author: "Susannah Fisher"
-draft: true
+draft: false
 
 # post thumb
 image: "images/featured-post/post-1.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Designing your self-study atelier program with resources and tips to help you gain classical drawing and painting skills."
 
 # taxonomies
-series:
-  - "Self-Taught Atelier"
 categories:
-  - "Studio Projects/Process"
- 
+  - "Studio Projects & Process"
 tags:
-  - "painting"
+  - "painting studies"
+  - "drawing studies"
+  - "classical realism studies"
 
 # post type
 type: "post"

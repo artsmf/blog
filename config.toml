@@ -100,7 +100,6 @@ enable = true
 ############################ taxonomies ########################
 
 [taxonomies]
-  series = 'series'
   category = 'categories'
   tag = 'tags'
 

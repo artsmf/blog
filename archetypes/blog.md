@@ -11,8 +11,6 @@ image: "images/featured-post/post-1.jpg"
 description: "this is meta description"
 
 # taxonomies
-series:
-  - "Self-Taught Atelier"
 categories:
   - "Studio Projects/Process"
   - "Video Tutorials"
