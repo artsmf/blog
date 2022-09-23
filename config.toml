@@ -127,3 +127,10 @@ title = "youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCpIZrghBZk-VmV6OZ6HMcfw"
 
+
+############################# html used in markdown ########################
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+

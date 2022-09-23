@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/featured-post/post-1.jpg"
+image: "images/post/20220806.png"
 
 # meta description
 description: "Designing your self-study atelier program with resources and tips to help you gain classical drawing and painting skills."
@@ -36,19 +36,23 @@ But  I was not an artist.
 ## A career detour
 So I resigned myself to be happy with crafting instead and threw myself into a career in nonprofit communications.
 
-Yet my secret burning desire to be an artist persisted. I wanted to draw people from life. And every time I tried, I failed. My portraits didn't resemble the sitter. Heck, often they didn't even look human! Still, I couldn’t let this dream go. At one point I became a “Davenpeep” and took several online workshops with Jane Davenport [insert link] to learn to draw whimsical portraits, mermaids, and storybook characters. It was fun and colorful, but not exactly what I really wanted to do.
+Yet my secret burning desire to be an artist persisted. I wanted to draw people from life. And every time I tried, I failed. My portraits didn't resemble the sitter. Heck, often they didn't even look human! Still, I couldn’t let this dream go. At one point I became a “Davenpeep” and took several online workshops with [Jane Davenport](https://janedavenport.com/online-workshops/) to learn to draw whimsical portraits, mermaids, and storybook characters. It was fun and colorful, but not exactly what I really wanted to do.
 
 In 2017, I had a milestone birthday, and that became a catalyst to a whole host of events that got me off the longest detour of my life and back on the road I was meant to travel. I started an integrated marketing business, which opened up resources for me to explore art again. I went for a comfortable subject and medium - watercolor botanicals but soon became bored. I tried nature journaling, which for me was a little more engaging. Then I took a natural history illustration course that was a lot more engaging. I especially loved drawing wildlife. It was an act of discovery with a pencil, and it was sublime!
 
 I thought I had found my calling, but still something inside of me longed to make more figurative work.
 
-On a lark during the summer of 2019, I took a 5-day pastel portrait workshop with Sophie Ploeg [insert link]. She was so clear in her instructions and the course moved so fast with a clear daily goal, that you had no time for self-doubt. Plus I had no expectations that this would be any different than before. My only thought was to enjoy the materials, the camaraderie of my fellow students, and open myself up to discovery rather than get bogged down by “making art.”
+On a lark during the summer of 2019, I took a 5-day pastel portrait workshop with [Sophie Ploeg](https://artschool.sophieploeg.com/). She was so clear in her instructions and the course moved so fast with a clear daily goal, that you had no time for self-doubt. Plus I had no expectations that this would be any different than before. My only thought was to enjoy the materials, the camaraderie of my fellow students, and open myself up to discovery rather than get bogged down by “making art.”
 
 O.M.G! I actually created a decent portrait in pastels. The next week I grabbed a copyright-free photo from Pixels and tried to follow the “Ploeg Process” on my own. And I made another decent portrait!
 
 I was hooked and started researching how to create portraits and figures. This is how I found the atelier system of studying art.
 
-[insert photos]
+![pastel portrait of an old man](/images/post/20220806a.jpeg "Pastel portrait I completed during the workshop.")
+<figcaption>Pastel portrait I completed during the workshop.</figcaption>
+
+![pastel portrait of a woman](/images/post/20220806b.jpeg "Pastel portrait I completed on my own using the system I learned in the workshop.")
+<figcaption>Pastel portrait I completed on my own using the system I learned in the workshop.</figcaption>
 
 ## What is the atelier system?
 ### Definition and history
@@ -58,8 +62,7 @@ In the early 21st century, atelier-style schools of apprentices learning from ma
 
 Modern-day atelier programs students (apprentices) spend about seven hours a day, five days a week learning their craft. From my research, they spend three hours in the morning drawing from Bargue plates (more about this in a future post) and the entire afternoon working from a live model or still life setup. The instructor (or master artist) comes by to offer suggestions and help work out problems in the work. Depending on the atelier, this can happen every day or only a few days a week. There are end-of-the-term critiques, and students only progress to the next, more complex project upon successful completion of the current project. A solid foundation in drawing is acquired before moving to painting (in oils), and the complete atelier program takes anywhere from three to five years to complete. 
 
-[insert photo]
-
+![bargue plate of girl from the seine](/images/post/20220806c.png "girl from the seine")
 ## Why I’m attracted to these atelier programs and the Academic method of study
 For me, these programs fulfill my need to learn strong observation skills and the hand/eye coordination to put what I see onto paper in an organized way (step 1 - observe; step 2 - notate the perimeter of the subject, the big shape; step 3 - notate relationships of smaller shapes, angles, points, and parallels; etc, etc). Having a framework like this gives me something to lean on as I approach more complicated subjects, like a portrait.
 

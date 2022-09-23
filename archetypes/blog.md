@@ -159,9 +159,16 @@ Markdown | Less | Pretty
 
 <hr>
 
-##### Image
+##### Image Options
 
-![image](../../images/post/post-1.jpg)
+<figure>
+  <img src="/images/post/20220806a.jpeg" alt="pastel portrait of an old man" title="Pastel portrait I completed during the workshop.">
+  <figcaption>Pastel portrait I completed during the workshop.</figcaption>
+</figure>
+
+![pastel portrait of an old man](/images/post/20220806a.jpeg "Pastel portrait I completed during the workshop.")
+<figcaption>Pastel portrait I completed during the workshop.</figcaption>
+
 
 <hr>
 

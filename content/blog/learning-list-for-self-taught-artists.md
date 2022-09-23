@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/featured-post/post-1.jpg"
+image: "images/post/20220813.png"
 
 # meta description
 description: "A list of resources for the self-study classical painter"
@@ -41,7 +41,7 @@ Lessons in Classical Drawing - as well as its sister book, Lessons in Classical 
 
 Lessons in Classical Painting has the same motivating tone, and although the book is geared to oil painting I have found it invaluable for my own medium of pastel.
 #### Ellen Eagle Book
-After taking that workshop with Sophie Ploeg (see my previous post) [insert link] , I got excited about pastels and looked up everything I could about them. This is how I found Ellen Eagle’s work and her book. She wrote a complete book about pastel portrait painting, in which she generously shares her process and experience. It’s a workshop in a book. In fact, it was just last summer that I was able to take an online workshop with her. She is an authentic and giving teacher. This book is always near my studio table as I refer to it frequently. 
+After taking that workshop with Sophie Ploeg ([see my previous post](/blog/self-taught-atelier/)), I got excited about pastels and looked up everything I could about them. This is how I found Ellen Eagle’s work and her book. She wrote a complete book about pastel portrait painting, in which she generously shares her process and experience. It’s a workshop in a book. In fact, it was just last summer that I was able to take an online workshop with her. She is an authentic and giving teacher. This book is always near my studio table as I refer to it frequently. 
 #### Charles Bargue Drawing Course
 Drawing from Bargue plates seems to be a staple for all beginning atelier students. The Bargue Drawing Course emphasizes drawing the references as perfect copies. Artists learn to see distances, lengths, angles, and the relationships between them. It’s a logical way to build drawing skills. The plates start simply and progress to more complex forms. An artist’s skills grow with the course. I recommend the book but there are resources online to download Bargue plates (see Online Resources below).
 ### Other books I find useful

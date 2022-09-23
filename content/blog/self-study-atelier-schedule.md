@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/featured-post/post-1.jpg"
+image: "images/post/20220820.png"
 
 # meta description
 description: "this is meta description"
@@ -29,7 +29,7 @@ Below I outline my basic schedule since I started this in 2020 (hello, Pandemic 
 ## Planning Your Self-Study Year
 ### My Sample Schedules
 #### Full-time
-In my first year, I focused on the exercises from Lessons in Classical Drawing by Juliette Aristides (see my Resources post). Since it was 2020, I had a bit more time to devote to this so I kept to an actual atelier schedule: 3 hours in the morning and 3 hours in the afternoon, Monday to Friday. From 9 am to noon, I worked out of the book. Then from 1 pm to 4 pm, I worked on a drawing using a model from Unsplash.
+In my first year, I focused on the exercises from Lessons in Classical Drawing by Juliette Aristides ([see my Resources post](/blog/learning-list-for-self-taught-artists/)). Since it was 2020, I had a bit more time to devote to this so I kept to an actual atelier schedule: 3 hours in the morning and 3 hours in the afternoon, Monday to Friday. From 9 am to noon, I worked out of the book. Then from 1 pm to 4 pm, I worked on a drawing using a model from Unsplash.
 
 #### Part-time
 In 2021, I had work projects but could still devote 2 hours Monday to Friday in the afternoon (2 pm to 4 pm) to working from Bargue plates. I’ll be honest with you, it was hard for me to stay motivated as I find drawing from Bargue plates less than exciting. To keep me motivated, I ended up dividing up my week so that I worked on Bargue for two days and did a “free drawing” from a reference for three days of the week.
@@ -83,7 +83,10 @@ The next drawing I did was a regression. I can’t tell you how deflating it was
 
 Art really is cyclical.
 
-[insert photo]
+<figure>
+  <img src="/images/post/20220820a.png" alt="chart of art making cycles" />
+  <figcaption>Attribution: <a href="https://www.deviantart.com/shattered-earth/art/Art-Cycle-329593292">Shattered Earth</a></figcaption>
+</figure>
 
 So check in weekly by asking the following questions:
  - Did you use the time you blocked off this week? Why or why not?
