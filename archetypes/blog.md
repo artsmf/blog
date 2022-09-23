@@ -171,13 +171,3 @@ Markdown | Less | Pretty
 
 {{< youtube C0DPdy98e4c >}}
 
-
-#### Flodesk form
-
-<div id="fd-form-631e41590db2862ae393bbdc"></div>
-<script>
-  window.fd('form', {
-    formId: '631e41590db2862ae393bbdc',
-    containerEl: '#fd-form-631e41590db2862ae393bbdc'
-  });
-</script>

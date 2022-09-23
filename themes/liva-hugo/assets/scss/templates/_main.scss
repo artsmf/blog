@@ -222,6 +222,58 @@
   }
 }
 
+/* Prev/Next post links */
+.prev-next {
+  display: flex;
+  justify-content: space-between;
+}
+
+.prev,
+.next {
+  padding-left: none;
+  padding-right: none;
+  
+  a {
+    color: $gold;
+
+    &:hover {
+      color: $dkblue;
+    }
+  }
+}
+
+.prev {
+  text-align: left;
+
+  &::before {
+    // position: absolute;
+    content: "\e71b";
+    content: "\e662";
+    font-family: $icon-font;
+    font-size: 14px;
+    left: 0;
+    top: 1px;
+    color: $primary-color;
+    transition: .3s ease;
+  }
+}
+
+.next {
+  text-align: right;
+
+  &::after {
+    // position: absolute;
+    content: "\e71b";
+    content: "\e661";
+    font-family: $icon-font;
+    font-size: 14px;
+    left: 0;
+    top: 1px;
+    color: $primary-color;
+    transition: .3s ease;
+  }
+}
+
 /* About Page & Author */
 .author-thumb-sm {
   max-height: 165px;
