@@ -8,15 +8,16 @@ draft: false
 image: "images/post/20220903.jpeg"
 
 # meta description
-description: "this is meta description"
+description: "Painting with Caran D'Ache Neocolor II crayons in my sketchbook."
 
 # taxonomies
 categories:
-  - "Studio Projects/Process"
+  - "Studio Projects & Process"
 tags:
-  - "neocolor 2"
-  - "portrait painting"
-  - "sketchbook"
+  - "art supplies"
+  - "making portraits"
+  - "Neocolor II"
+  - "sketchbook experiments"
 
 # post type
 type: "post"

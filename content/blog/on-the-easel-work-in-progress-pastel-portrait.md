@@ -8,15 +8,15 @@ draft: false
 image: "images/post/20220827.jpeg"
 
 # meta description
-description: "this is meta description"
+description: "Update on recent pastel portrait painting process."
 
 # taxonomies
 categories:
-  - "Studio Projects/Process"
+  - "Studio Projects & Process"
 tags:
-  - "pastel painting"
-  - "portraits"
-  - "works in progress"
+  - "making portraits"
+  - "on the easel"
+  - "pastel portrait"
 
 # post type
 type: "post"
