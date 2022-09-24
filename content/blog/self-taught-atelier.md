@@ -12,7 +12,7 @@ description: "Designing your self-study atelier program with resources and tips 
 
 # taxonomies
 categories:
-  - "Studio Projects & Process"
+  - "Studio Projects"
 tags:
   - "art curriculum"
   - "atelier series"

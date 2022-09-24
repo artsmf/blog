@@ -12,7 +12,7 @@ description: "this is meta description"
 
 # taxonomies
 categories:
-  - "Studio Projects & Process"
+  - "Studio Projects"
   - "Video Tutorials"
   - "An Artist's Thoughts"
 tags:

@@ -12,7 +12,7 @@ description: "Update on recent pastel portrait painting process."
 
 # taxonomies
 categories:
-  - "Studio Projects & Process"
+  - "Studio Projects"
 tags:
   - "making portraits"
   - "on the easel"

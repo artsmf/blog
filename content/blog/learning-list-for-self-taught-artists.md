@@ -12,7 +12,7 @@ description: "A list of resources for the self-study classical painter"
 
 # taxonomies
 categories:
-  - "Studio Projects & Process"
+  - "Studio Projects"
 tags:
   - "art curriculum"
   - "atelier series"

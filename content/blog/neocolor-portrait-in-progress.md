@@ -12,7 +12,7 @@ description: "Painting with Caran D'Ache Neocolor II crayons in my sketchbook."
 
 # taxonomies
 categories:
-  - "Studio Projects & Process"
+  - "Studio Projects"
 tags:
   - "art supplies"
   - "making portraits"

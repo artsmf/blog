@@ -12,7 +12,7 @@ description: "Scheduling practice time and targeting what you practice will help
 
 # taxonomies
 categories:
-  - "Studio Projects & Process"
+  - "Studio Projects"
 tags:
   - "art curriculum"
   - "atelier series"
