@@ -13,7 +13,7 @@ description: "this is meta description"
 # taxonomies
 categories:
   - "Studio Projects"
-  - "Video Tutorials"
+  - "Enlightenment"
   - "An Artist's Thoughts"
 tags:
   - "painting"
