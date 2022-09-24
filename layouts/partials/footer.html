@@ -39,7 +39,7 @@
         <h6 class="mb-4">Social Contacts</h6>
         <ul class="list-unstyled">
           {{ range .Site.Params.social }}
-          <li class="mb-3"><a class="text-dark" href="{{ .link | safeURL }}">{{ .title }}</a></li>
+          <li class="mb-3"><a class="text-dark" href="{{ .link | safeURL }}" target="_blank">{{ .title }}</a></li>
           {{ end }}
         </ul>
       </div>

@@ -22,10 +22,19 @@
   padding: 0.5rem 1rem;
 }
 
-/* logo & favicon */
+/* custom CSS logo & favicon */
 .navbar-brand .img-fluid {
   height: 45%;
   width: 45%;
+}
+
+/* custom CSS navbar & footer border */
+.navigation .container .border-bottom {
+  border-bottom: .5px solid $primary-color !important;
+}
+
+.text-capitalize .container .border-top {
+  border-top: .2px solid $gold !important;
 }
 
 .mobile-view{

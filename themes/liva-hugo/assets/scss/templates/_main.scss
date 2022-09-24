@@ -151,7 +151,7 @@ figcaption {
 /* widget */
 .widgets {
   padding-left: 25px;
-  border-left: 1px solid #eee;
+  border-left: .5px solid $primary-color; /* custom CSS */
   @include desktop {
     padding-left: 0;
     border-left: 0;
@@ -202,6 +202,13 @@ figcaption {
 /* pagination */
 .pagination {
   justify-content: center;
+
+  /* custom CSS */
+  .page-item .page-link {
+    border: .5px solid $gold; 
+    border-top: 0;
+    border-bottom: 0;
+  }
 
   .page-item {
 
