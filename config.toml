@@ -46,14 +46,24 @@ URL = "plugins/search/search.js"
 # main menu
 
 [[menu.main]]
+name = "Blog"
+URL = "blog/"
+weight = 1
+
+[[menu.main]]
 name = "Work"
 URL = "work/"
-weight = 1
+weight = 2
+
+[[menu.main]]
+name = "Patreon"
+URL = "patreon/"
+weight = 3
 
 [[menu.main]]
 name = "About"
 URL = "about/"
-weight = 2
+weight = 4
 
 # footer menu
 [[menu.footer]]
@@ -67,9 +77,14 @@ URL = "work/"
 weight = 2
 
 [[menu.footer]]
+name = "Patreon"
+URL = "patreon/"
+weight = 3
+
+[[menu.footer]]
 name = "About"
 URL = "about/"
-weight = 3
+weight = 4
 
 
 #################### default parameters ################################
@@ -126,7 +141,6 @@ link = "https://pinterest.com/smfisherart"
 title = "youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCpIZrghBZk-VmV6OZ6HMcfw"
-
 
 ############################# html used in markdown ########################
 [markup]

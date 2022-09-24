@@ -22,10 +22,14 @@
   padding: 0.5rem 1rem;
 }
 
+.move-lft {
+  margin-left: 0 !important;
+}
+
 /* custom CSS logo & favicon */
 .navbar-brand .img-fluid {
-  height: 45%;
-  width: 45%;
+  height: 50%;
+  width: 50%;
 }
 
 /* custom CSS navbar & footer border */

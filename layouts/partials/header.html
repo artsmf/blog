@@ -10,17 +10,8 @@
       </button>
 
       <div class="collapse navbar-collapse text-center" id="navigation">
-        <div class="desktop-view">
-          <ul class="navbar-nav mr-auto">
-            {{ range .Site.Params.social }}
-            <li class="nav-item">
-              <a class="nav-link" href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a>
-            </li>
-            {{ end }}
-          </ul>
-        </div>
 
-        <a class="navbar-brand mx-auto desktop-view" href="{{ .Site.BaseURL }}"><img class="img-fluid header-logo"
+        <a class="navbar-brand move-lft desktop-view" href="{{ .Site.BaseURL }}"><img class="img-fluid header-logo"
             src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
 
         <ul class="navbar-nav">
@@ -44,6 +35,16 @@
           {{ end }}
           {{ end }}
         </ul>
+
+        <div class="desktop-view">
+          <ul class="navbar-nav mr-auto">
+            {{ range .Site.Params.social }}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ .link | safeURL }}" target="_blank"><i class="{{ .icon }}"></i></a>
+            </li>
+            {{ end }}
+          </ul>
+        </div>
 
         {{ if .Site.Params.search.enable }}
         {{ "<!-- search -->" | safeHTML }}
