@@ -17,6 +17,17 @@
   padding: 20px;
 }
 
+/* custom CSS to adjust the header */
+.nav-link, .navbar {
+  padding: 0.5rem 1rem;
+}
+
+/* logo & favicon */
+.navbar-brand .img-fluid {
+  height: 45%;
+  width: 45%;
+}
+
 .mobile-view{
   display: none;
   @include desktop {
