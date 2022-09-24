@@ -86,7 +86,7 @@ mobile = ""
 email = "info@susannahfisher.art"
 location = ""
 # copyright
-copyright = "| copyright &copy; 2022 Susannah Fisher  All Rights Reserved |"
+copyright = "&copy; 2022 Susannah Fisher | All Rights Reserved <br> All artwork and images of artwork are the sole property of Susannah Fisher and may not be reproduced or sold for profit without written consent by the artist."
 
 # Preloader
 [params.preloader]
