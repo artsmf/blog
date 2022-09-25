@@ -22,9 +22,26 @@ tags:
   - "portrait painting"
   - "book arts"
 
-# post type
+# post type - post or featured
 type: "featured"
 ---
+
+![title graphic alt text](/images/post/post-1.jpg "description text")
+
+Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 
+
+<!--more-->
+
+## Subhead
+Please use Heading 2 for the first level of the subhead (as above).
+### Sub-subhead
+Then Heading 3.
+### Sub-sub-subhead
+Then Heading 4, etc.
+...
+## Final Subhead
+End your post with a motivational closing that echoes the problem/desire from the headline and opening, reminds the reader of the action they need to take, and encourages them to take the first step right away.
+
 
 # Heading 1
 ## Heading 2
@@ -166,8 +183,7 @@ Markdown | Less | Pretty
   <figcaption>Pastel portrait I completed during the workshop.</figcaption>
 </figure>
 
-![pastel portrait of an old man](/images/post/20220806a.jpeg "Pastel portrait I completed during the workshop.")
-<figcaption>Pastel portrait I completed during the workshop.</figcaption>
+
 
 
 <hr>

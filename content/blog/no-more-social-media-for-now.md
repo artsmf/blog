@@ -24,6 +24,8 @@ type: "featured"
 
 As artists in the 21st century, we are told that we NEEEEEEED social media if we are going to create any type of a credible career. But do we? That's what I'm trying to figure out now because I've realized that social media no longer "sparks joy."
 
+<!--more-->
+
 ### This Is NOT About Bashing Social Media
 I love - or rather loved - social media. In the early days of social media, I was totally on board. It was entertaining. I enjoyed the Facebook boards I belonged to related to my hobbies - knitting, spinning, and embroidery. I met fiber enthusiasts from all over the world. It was all focused on sharing our projects, helping each other, and giving/receiving tips about the best places to get yarn and unspun fiber.
 

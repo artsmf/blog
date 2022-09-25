@@ -25,6 +25,8 @@ type: "post"
 
 I’m a researcher at heart, so whenever I want to learn something I hit the books, search Google, and experiment until I’ve acquired the knowledge and skills I’m interested in. It is no different for my atelier studies.
 
+<!--more-->
+
 Because I’m not in a position to take three years to study full-time in an atelier program (oh, but I would if I could!), I’ve figured out a way around that obstacle with a self-study atelier program.
 
 The program I use for myself is heavily dependent on books in place of live teachers, hours and hours of focused practice, and the occasional workshop or video as funds allow.

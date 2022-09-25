@@ -25,6 +25,8 @@ type: "post"
 
 Have you ever wanted to do something that you didn’t think you had in you to do? So you talk yourself out of it and resign yourself to settle on something different. I did that with art. In this post, I’m sharing my art story and talking about how I became a self-taught artist. And I’ll talk about why I adapted the modern atelier curriculum to teach myself how to draw.
 
+<!--more-->
+
 ### How did I become an artist? 
 I'm not one of those artists who grew up drawing and painting at the age of three. No one put a crayon in my hand so I could recreate the Sistine frescos on my bedroom walls. I didn’t grow up in a family of artists. My parents made things for home and yard, but art did not hang on our walls. 
 

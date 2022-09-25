@@ -25,6 +25,8 @@ type: "post"
 
 Any kind of self-motivated study is hard. You have to be your own advisor, teacher, grader, and administrator on top of being the student. But I’d rather take on self study than “wait until the time is right/I have XYZ/etc, etc.” Throughout the years of my atelier self-studies, I’ve rotated typically between 2 types of drawing projects: Bargue plates and free drawing. My progress is a lot slower than if I were enrolled in a program, but I am making progress. In the end that is all that matters.
 
+<!--more-->
+
 Below I outline my basic schedule since I started this in 2020 (hello, Pandemic Year, ya ole’ SOB!), but since schedules are highly personal I’ll also walk you through the process I use to plan my atelier year. And as a bonus I’ve added a materials list at the end of this post.
 
 ### Planning Your Self-Study Year
