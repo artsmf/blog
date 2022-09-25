@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Hiya! I'm Susannah..."
 date: 2019-10-29T13:49:23+06:00
 draft: false
 
@@ -13,7 +13,7 @@ description: "Figurative artist and portrait painter Susannah Fisher teaches art
 type : "about"
 ---
 
-Hiya! I'm Susannah, a painter, illustrator, and book artist using traditional materials such as pastels, charcoal, oils, gouache, colored pencil, ink, and cut paper. Painting portraits is at the heart of my art practice, and my favorite projects allow me to grow and learn.
+a painter, illustrator, and book artist using traditional materials such as pastels, charcoal, oils, gouache, colored pencil, ink, and cut paper. Painting portraits is at the heart of my art practice, and my favorite projects allow me to grow and learn.
 
 I look for stories everywhere and try to imbue all of my work - even portraiture - with some sort of emotional narrative. In my work I try to create spaces of beauty, delicious emotion, and introspection. Right now, I'm trying to create a sense of quiet with natural and delicate color harmonies and shape design.
 
