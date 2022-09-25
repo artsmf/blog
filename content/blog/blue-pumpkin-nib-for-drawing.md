@@ -12,7 +12,7 @@ description: "Review of the Brause 361 Blue Pumpkin nib for drawing."
 
 # taxonomies
 categories:
-  - "Enlightenment"
+  - "Tutorials"
 tags:
   - "art supplies"
   - "pen and ink"
