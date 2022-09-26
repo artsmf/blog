@@ -21,6 +21,8 @@ URL = "plugins/slick/slick.css"
 [[params.plugins.css]]
 URL = "plugins/themify-icons/themify-icons.css"
 [[params.plugins.css]]
+URL = "plugins/fa-icons/fa-icons.css
+[[params.plugins.css]]
 URL = "plugins/venobox/venobox.css"
 
 # JS Plugins
@@ -135,6 +137,7 @@ expire_days = 2
 [[params.social]]
 title = "pinterest"
 icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
+icon = "fa-pinterest-p">" # fa icon : 
 link = "https://pinterest.com/smfisherart"
 
 [[params.social]]
