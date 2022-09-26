@@ -14,6 +14,7 @@
           {{ if not .Params.HideDate }}
           <span class="border-bottom border-primary px-2 mx-1"></span>
           <span>{{ .PublishDate.Format "02 January 2006" }}</span>
+          <br><span class="reading-time">Reading time: {{ .ReadingTime }} minute{{ if (ne .ReadingTime 1) }}s{{ end }}</span>
           {{ end }}
         </div>
         {{ if .Params.image }}
