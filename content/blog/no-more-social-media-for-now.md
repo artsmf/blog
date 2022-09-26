@@ -19,7 +19,7 @@ tags:
   - "thoughts"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 As artists in the 21st century, we are told that we NEEEEEEED social media if we are going to create any type of a credible career. But do we? That's what I'm trying to figure out now because I've realized that social media no longer "sparks joy."
