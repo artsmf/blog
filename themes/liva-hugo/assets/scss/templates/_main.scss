@@ -179,6 +179,22 @@ figcaption {
   text-align: center;
 }
 
+.make-art {
+  background: $ltpeach;
+  margin: 5em 0 0 0;
+  padding: 3em;
+
+  a {
+    color:$dkblue;
+
+    &:hover {
+      color: $gold !important;
+    }
+  
+  }
+
+}
+
 /* widget */
 .widgets {
   padding-left: 25px;
@@ -204,10 +220,10 @@ figcaption {
     margin-bottom: 10px;
 
     a {
-      color: $text-color;
+      color: $primary-color;
 
       &:hover {
-        color: $primary-color;
+        color: $gold;
       }
     }
   }
@@ -224,7 +240,8 @@ figcaption {
       line-height: 35px;
 
       &:hover {
-        color: $white;
+        background: $gold;
+        color: $white !important;
       }
     }
   }
@@ -459,8 +476,7 @@ footer {
 footer a {
   @extend .text-dark;
   &:hover {
-    color: $primary-color !important;
-    text-decoration: underline;
+    color: $gold !important;
   }
 }
 
