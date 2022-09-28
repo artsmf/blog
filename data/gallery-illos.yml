@@ -1,0 +1,8 @@
+enable : true
+gallery:
+  - image : "images/gallery/illos/1.jpg"
+  - image : "images/gallery/illos2.jpg"
+  - image : "images/gallery/illos3.jpg"
+  - image : "images/gallery/illos4.jpg"
+  - image : "images/gallery/illos5.jpg"
+  - image : "images/gallery/illos6.jpg"

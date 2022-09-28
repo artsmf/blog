@@ -46,45 +46,53 @@ URL = "plugins/search/search.js"
 # main menu
 
 [[menu.main]]
-name = "Blog"
-URL = "blog/"
+identifier = "work"
+name = "Work"
+URL = "work/"
 weight = 1
 
 [[menu.main]]
-name = "Work"
-URL = "work/"
+name = "Illustration"
+parent = "work"
+URL = "work/illustration/"
+weight = 1
+
+[[menu.main]]
+name = "Portraits"
+parent = "work"
+URL = "work/portraits/"
 weight = 2
+
+[[menu.main]]
+name = "Blog"
+URL = "blog/"
+weight = 30
 
 [[menu.main]]
 name = "Patreon"
 URL = "patreon/"
-weight = 3
+weight = 40
 
 [[menu.main]]
 name = "About"
 URL = "about/"
-weight = 4
+weight = 50
 
 # footer menu
 [[menu.footer]]
 name = "Blog"
 URL = "blog/"
-weight = 1
-
-[[menu.footer]]
-name = "Work"
-URL = "work/"
-weight = 2
+weight = 30
 
 [[menu.footer]]
 name = "Patreon"
 URL = "patreon/"
-weight = 3
+weight = 40
 
 [[menu.footer]]
 name = "About"
 URL = "about/"
-weight = 4
+weight = 50
 
 
 #################### default parameters ################################
