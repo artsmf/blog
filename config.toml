@@ -68,10 +68,10 @@ name = "Blog"
 URL = "blog/"
 weight = 30
 
-[[menu.main]]
-name = "Patreon"
-URL = "patreon/"
-weight = 40
+#######[[menu.main]]######
+######name = "Patreon"######
+######URL = "patreon/"######
+######weight = 40#######
 
 [[menu.main]]
 name = "About"
@@ -84,10 +84,10 @@ name = "Blog"
 URL = "blog/"
 weight = 30
 
-[[menu.footer]]
-name = "Patreon"
-URL = "patreon/"
-weight = 40
+######[[menu.footer]]######
+######name = "Patreon"######
+######URL = "patreon/"######
+######weight = 40######
 
 [[menu.footer]]
 name = "About"
