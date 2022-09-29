@@ -10,6 +10,11 @@ disqusShortname = ""
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+[sitemap]
+  changefreq = 'weekly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
 ############################# Plugins ##############################
 [params.plugins]
 
