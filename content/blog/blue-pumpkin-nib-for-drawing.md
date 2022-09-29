@@ -18,7 +18,7 @@ tags:
   - "pen and ink"
 
 # post type
-type: "featured"
+type: "post"
 ---
 
 I've used the Brause 361, aka The Blue Pumpkin, in my calligraphy work. It's the only one that handles well on handmade paper and with thick inks, like Dr. Ph Martin's Bleed Proof White, however I have found my true love for the perfect dip nib for pen and ink drawing!

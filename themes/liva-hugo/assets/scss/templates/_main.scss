@@ -50,7 +50,7 @@
 /* custom CSS */
 .one-feature {
   padding: 0;
-  margin-bottom: 3em;
+  margin: 1em 0;
   border-bottom: .5px solid $dkblue;
 }
 
@@ -158,6 +158,11 @@
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.recent-three {
+  padding-bottom: 5em;
+  border-bottom: .5px solid $dkblue;
 }
 
 .small-post-border {

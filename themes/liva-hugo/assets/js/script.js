@@ -15,30 +15,30 @@
     });
 
     // featured post slider
-    const featuredPostSlider = $(".featured-post-slider");
-    featuredPostSlider.slick({
-      infinite: false, //custom
-      vertical: false,  //custom
-      verticalSwiping: false, //custom
-      arrows: false,
-      dots: false,  //custom
-      responsive: [{
-        breakpoint: 600,
-        settings: {
-          vertical: false,
-          verticalSwiping: false,
-        }
-      }]
-    });
+    // const featuredPostSlider = $(".featured-post-slider");
+    // featuredPostSlider.slick({
+      // infinite: false, //custom
+      // vertical: false,  //custom
+      // verticalSwiping: false, //custom
+      // arrows: false,
+      // dots: false,  //custom
+      // responsive: [{
+        // breakpoint: 600,
+        // settings: {
+          // vertical: false,
+          // verticalSwiping: false,
+       //  }
+      // }]
+   //  });
 
-    featuredPostSlider.on('wheel', (function(e) {
-      e.preventDefault();
-      if (e.originalEvent.deltaY > 0) {
-        $(this).slick('slickNext');
-      } else {
-        $(this).slick('slickPrev');
-      }
-    }));
+    // featuredPostSlider.on('wheel', (function(e) {
+      // e.preventDefault();
+      // if (e.originalEvent.deltaY > 0) {
+        // $(this).slick('slickNext');
+      // } else {
+        // $(this).slick('slickPrev');
+      // }
+    // }));
 
     // venobox initialize
     $('.venobox').venobox();
