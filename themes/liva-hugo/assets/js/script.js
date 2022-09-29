@@ -17,11 +17,11 @@
     // featured post slider
     const featuredPostSlider = $(".featured-post-slider");
     featuredPostSlider.slick({
-      infinite: true,
-      vertical: true,
-      verticalSwiping: true,
+      infinite: false, //custom
+      vertical: false,  //custom
+      verticalSwiping: false, //custom
       arrows: false,
-      dots: true,
+      dots: false,  //custom
       responsive: [{
         breakpoint: 600,
         settings: {

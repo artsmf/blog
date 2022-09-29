@@ -47,6 +47,13 @@
 
 /* /card */
 
+/* custom CSS */
+.one-feature {
+  padding: 0;
+  margin-bottom: 3em;
+  border-bottom: .5px solid $dkblue;
+}
+
 .featured-post {
   .card-title {
     // margin-left: -10%;
