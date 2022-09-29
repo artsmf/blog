@@ -24,7 +24,7 @@ tags:
 type: "featured"
 ---
 
-Happy October! In the studio these days, it’s mostly about Caran D’Ache Neocolor II water-soluble crayons. I’m excited to share my explorations with this intriguing medium. I’ll have videos and artwork using this medium almost exclusively throughout the month. Lately, though, I’ve been having artist block (oh, heck, I’ve been blocked since last spring and making tons of garbage art!), and I’m trying to find ways of pushing through by lighting a spark of inspiration.
+Happy October! In the studio this month, I explore Caran D’Ache Neocolor II water-soluble crayons. I’m excited to share my explorations with this intriguing medium. I’ll have videos and artwork using this medium almost exclusively throughout the month. Lately, though, I’ve been having artist block (oh, heck, I’ve been blocked since last spring and making tons of garbage art!), and I’m trying to find ways of pushing through by lighting a spark of inspiration.
 <!--more-->
 
 ### Finding Inspiration
@@ -54,7 +54,7 @@ This is one of my favorite JML exercises. I do this outside (as originally inten
 #### Try A New Art Supply
 Choose one art supply and explore it as fully as possible. Swatch it, make tests, and experiment with it. Try to make it fit your work, then try to make your work fit the medium. Try combining it with a favorite medium. Just play and see what works and what doesn’t. 
 
-This is what I’m doing this month with Caran D’Ache Neocolor II water-soluble crayons. I bought some open stock colors last spring but haven’t explored them. So all this month on the blog (and YouTube), I’ll be featuring work made with this medium and sharing my discoveries. I hope you’ll follow along, maybe try out a few of the illustration tutorials, and [let me know how it goes](mailto:info@susannahfisher.art). So let’s talk about the Neocolors.
+This is what I’m doing this month with Caran D’Ache Neocolor II water-soluble crayons. I bought some open stock colors last spring but haven’t explored them. So all this month on the blog (and YouTube), I’ll feature work made with this medium and share my discoveries. I hope you’ll follow along, maybe try out a few of the illustration tutorials, and [let me know how it goes](mailto:info@susannahfisher.art). So let’s talk about the Neocolors.
 
 ![title graphic alt text](/images/post/post-1.jpg "description text")
 
@@ -67,7 +67,7 @@ You can use them wet or dry on a myriad of surfaces: paper, cardboard, glass, wo
 You can create some beautiful washes with thin layers of crayon activated with water or opaque layers with thicker layers. Using the crayons with water creates a flat, almost gouache-like surface. You can burnish and blend them dry, which leaves the waxy layer intact for a glossier texture.
 
 ### How do I plan to use this medium?
-Throughout this month, I have videos exploring different techniques with this medium alone and in combination with other media, like gouache, color pencils, and ink, as I make illustrations for Drawtober (see below). These videos drop every Thursday.
+Throughout this month, I have videos exploring different techniques with this medium alone and in combination with other media, like gouache, color pencils, and ink. These videos drop every Thursday.
 
 #### Supplies I’ll be using
 * Neocolor II Watersoluble Crayons
@@ -78,14 +78,5 @@ Throughout this month, I have videos exploring different techniques with this me
 * Graphite pencils (my favorites are Blackwings for smudgy soft effects and Tombow Monos)
 * Paper: Strathmore Mixed Media, Cascade Illustration Board, handmade paper, and watercolor paper.
 
-### #drawtober 2022
-One of the things I loved about Instagram was the art-related tags, especially #drawtober. It’s probably the only thing I miss about social media read [why I’m taking an indefinite break here](../no-more-social-media-for-now). So I’m participating on my blog. Finished illustrations are posted on Monday with a process video posted on the following Thursday.
-
-You can find the official link to the Instagram challenge <a href="https://instagram.com/drawtober" target="_blank">here</a>, but here are the prompts for 2022 in case you want to join in:
-
-<figure>
-  <a href="https://instagram.com/drawtober" target="_blank"><img src="/images/post/20221001d.png" alt="drawtober prompts" title="#Drawtober 2022 Prompts"/></a>
-</figure>
-
-### TK
-TK
+### Using my inspiration jar
+I'm pulling prompts from the inspiration jar, of course. It would be awesome if you joined me. If you don't have Neocolor II crayons, no worries. Just choose another mediums you'd like to explore. The idea is to shake things up, try new things, glean inspiration, and make a mess! [Drop me an email to let me know how it's going.](mailto:info@susannahfisher.art)

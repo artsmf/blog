@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://susannahfisher.art/"
 languageCode = "en-us"
 title = "From The Easel"
 theme = "liva-hugo"
