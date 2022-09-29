@@ -27,7 +27,7 @@ is to provide information and camaraderie. I hope to provide my readers with too
 * My Season: I love them all, but Autumn is my favorite.
 * Lifeblood: Coffee
 * Favorite Scent: Pine mixed with sea air
-* Current Color Obsession: Kings Blue Light by Michael Harding (oil paint) - I'm adding it to my skin tone mixes to when they need to cool. It's such a delicate color, but does the job it's asked!
+* Current Color Obsession: Kings Blue Light by Michael Harding (oil paint) - I'm adding it to my skin tone mixes when they need cooling down. It's such a delicate color, but does the job it's asked!
 * Dessert Addiction: The apple tart from Baking With Less Sugar by Joanne Chang (owner of Flour Bakery in Boston, MA)
 * Creative Outlet: Knitting and making handspun yarn
 * Dream Project: Traveling around the continent in a Roadtrek Zion van recording people's stories and painting their portraits. Sort of Storycorps meets Dutch Tronies of the 16th century.
