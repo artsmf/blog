@@ -6,7 +6,6 @@ theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
-buildFuture = false
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -106,7 +105,7 @@ weight = 50
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "Inspiration, encouragement and behind-the-scenes glimpses from artist and illustrator Susannah Fisher's studio. Posts about projects, art tutorials, and thoughts about an artist's life."
+description = "Susannah Fisher is an artiist and illustrator specializing in Classical Realism art. From The Easel is a blog of inspiration, encouragement and behind-the-scenes glimpses from the artist's studio. Posts about projects, art tutorials, and thoughts about an artist's life."
 author = "Susannah Fisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"

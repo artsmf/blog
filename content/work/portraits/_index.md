@@ -7,7 +7,7 @@ draft: false
 image: ""
 
 # meta description
-description: "this is meta description"
+description: "Portrait paintings and figurative art by fine artist Susannah Fisher."
 
 # type
 type : "work/portraits"

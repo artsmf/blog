@@ -7,7 +7,7 @@ draft: false
 image: ""
 
 # meta description
-description: "this is meta description"
+description: "Illustration and narrative art by illustrator Susannah Fisher"
 
 # type
 type : "work/illustration"

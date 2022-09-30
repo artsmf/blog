@@ -8,7 +8,7 @@ draft: true
 image: "images/featured-post/post-1.jpg"
 
 # meta description
-description: "this is meta description"
+description: "Trying out Caran D'Ache Neocolor 2 water-soluble crayons for portraits and illustration projects in an attempt to get some inspiration and overcome art block."
 
 # taxonomies
 categories:
