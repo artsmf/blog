@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/featured-post/post-1.jpg"
+image: "images/post/placeholder.jpg"
 
 # meta description
 description: "this is meta description"
@@ -23,7 +23,7 @@ tags:
   - "book arts"
 
 # post type - post or featured
-type: "featured"
+type: "post"
 ---
 
 ![title graphic alt text](/images/post/post-1.jpg "description text")
