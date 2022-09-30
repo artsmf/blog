@@ -39,13 +39,13 @@ But  I was not an artist.
 ### A career detour
 So I resigned myself to be happy with crafting instead and threw myself into a career in nonprofit communications.
 
-Yet my secret burning desire to be an artist persisted. I wanted to draw people from life. And every time I tried, I failed. My portraits didn't resemble the sitter. Heck, often they didn't even look human! Still, I couldn’t let this dream go. At one point I became a “Davenpeep” and took several online workshops with [Jane Davenport](https://janedavenport.com/online-workshops/) to learn to draw whimsical portraits, mermaids, and storybook characters. It was fun and colorful, but not exactly what I really wanted to do.
+Yet my secret burning desire to be an artist persisted. I wanted to draw people from life. And every time I tried, I failed. My portraits didn't resemble the sitter. Heck, often they didn't even look human! Still, I couldn’t let this dream go. At one point I became a “Davenpeep” and took several [online workshops with Jane Davenport](https://janedavenport.com/online-workshops/) to learn to draw whimsical portraits, mermaids, and storybook characters. It was fun and colorful, but not exactly what I really wanted to do.
 
 In 2017, I had a milestone birthday, and that became a catalyst to a whole host of events that got me off the longest detour of my life and back on the road I was meant to travel. I started an integrated marketing business, which opened up resources for me to explore art again. I went for a comfortable subject and medium - watercolor botanicals but soon became bored. I tried nature journaling, which for me was a little more engaging. Then I took a natural history illustration course that was a lot more engaging. I especially loved drawing wildlife. It was an act of discovery with a pencil, and it was sublime!
 
 I thought I had found my calling, but still something inside of me longed to make more figurative work.
 
-On a lark during the summer of 2019, I took a 5-day pastel portrait workshop with [Sophie Ploeg](https://artschool.sophieploeg.com/). She was so clear in her instructions and the course moved so fast with a clear daily goal, that you had no time for self-doubt. Plus I had no expectations that this would be any different than before. My only thought was to enjoy the materials, the camaraderie of my fellow students, and open myself up to discovery rather than get bogged down by “making art.”
+On a lark during the summer of 2019, I took a [5-day pastel portrait workshop with Sophie Ploeg](https://artschool.sophieploeg.com/). She was so clear in her instructions and the course moved so fast with a clear daily goal, that you had no time for self-doubt. Plus I had no expectations that this would be any different than before. My only thought was to enjoy the materials, the camaraderie of my fellow students, and open myself up to discovery rather than get bogged down by “making art.”
 
 O.M.G! I actually created a decent portrait in pastels. The next week I grabbed a copyright-free photo from Pixels and tried to follow the “Ploeg Process” on my own. And I made another decent portrait!
 

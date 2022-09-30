@@ -1,8 +1,0 @@
-enable : true
-gallery:
-  - image : "images/gallery/portr/7.jpg"
-  - image : "images/gallery/portr/8.jpg"
-  - image : "images/gallery/portr/9.jpg"
-  - image : "images/gallery/portr/10.jpg"
-  - image : "images/gallery/portr/11.jpg"
-  - image : "images/gallery/portr/12.jpg"
