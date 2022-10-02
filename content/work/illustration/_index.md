@@ -13,4 +13,4 @@ description: "Illustration and narrative art by illustrator Susannah Fisher"
 type : "work/illustration"
 ---
 
-Illustration is my way collecting and synthesizing what I see in the world to form a personal narrative. I pull inspiration from 16th century Dutch painters, 19th century artists, Art Nouveau artists, the Golden Age illustrators, and the modern materials I have on hand.
+Illustration is my way collecting and synthesizing what I see in the world to form a personal taxonomy of life.
