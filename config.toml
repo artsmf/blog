@@ -57,15 +57,15 @@ URL = "work/"
 weight = 1
 
 [[menu.main]]
-name = "Illustration"
+name = "Drawings"
 parent = "work"
-URL = "work/illustration/"
+URL = "work/drawings/"
 weight = 1
 
 [[menu.main]]
-name = "Portraits"
+name = "Paintings"
 parent = "work"
-URL = "work/portraits/"
+URL = "work/paintings/"
 weight = 2
 
 [[menu.main]]
