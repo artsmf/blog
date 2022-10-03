@@ -2,7 +2,7 @@
 title: "My Love/Hate Relationship With Social Media And What's Next"
 date: 2022-09-17T18:15:19-04:00
 author: "Susannah Fisher"
-draft: false
+draft: true
 
 # post thumb
 image: "images/post/20220917.png"
