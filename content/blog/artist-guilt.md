@@ -8,7 +8,7 @@ draft: true
 image: "images/post/20221008a.png"
 
 # meta description
-description: "this is meta description"
+description: "Feeling guilty for making art and some ideas for pushing through."
 
 # taxonomies
 categories:
