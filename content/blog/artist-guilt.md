@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/post/placeholder.jpg"
+image: "images/post/20221008.png"
 
 # meta description
 description: "this is meta description"
@@ -22,31 +22,38 @@ tags:
 type: "post"
 ---
 
-I experienced something weird over the past few months. I felt guilty every time I worked on projects not directly related to a commission or a contract. Art is my job, so exploring new supplies or new ways of using old supplies is technically a necessary activity in my professional life. Nevertheless, I felt like I was being wicked and lazy for indulging in this “play” and had to ask myself WHY?
+I experienced something weird over the past few months. I felt guilty every time I worked on projects not directly related to a commission or a contract. Art is my job, so working in my sketchbook is technically a necessary activity in my professional life. Nevertheless, I felt like I was being wicked and lazy for indulging in this “play” and had to ask myself WHY?
 
 <!--more-->
+### Why do I feel like I shouldn’t enjoy my job?
+When I picked apart the feelings I was having, this is what came up first, and it shook me. I was raised to believe that if you didn’t resent your job, it wasn’t a real job, but I thought I had overcome all the childhood gaslighting by now. This is the behavior that was modeled by the adults in my life while growing up, and it's just straight-up wrong!
 
-### Why do I feel like I shouldn’t enjoy my work?
-When I picked apart the feelings I was having, this is what came up first, and it shook me. I was raised to believe that if you didn’t resent your job, it wasn’t a real job. It was subtle, but this is what my father modeled in his daily life. He was resentful and hated his job, but he never did anything about it. Didn’t try to retrain to do anything different or something he’d like. He was a pretty good builder of anything - once built a “grandma’s house” - and seemed to enjoy the entire process. Instead he “suffered” at a job he hated and made sure I knew that if I enjoyed my work, it wasn’t a job.
+Yet here it was, climbing out of its hole to the surface. Because I know better now, I think the guilt may be fear of failure in disguise. Fear has been an ever-present companion throughout my life, except when I’m making art. 
 
-Now I haven’t gone through life resenting my jobs - what an exhausting way to live, right? I’ve always found something to love about the work I was doing. So I was shocked that this insidious, little emotion crept into my mind. 
+Oh, don’t get me wrong - I have insecurities about my work, but when I’m actually applying paint to canvas or gouache to paper, I’m in a bubble that even fear can’t pierce. This is the zone, you’ve heard so much about.
 
 ### Why do I feel like I’m wasting my resources - time, art supplies, etc?
-The next feeling I had was that I was wasting my time and precious supplies on work that might “fail” or didn’t lead to a paycheck.  I could write a whole article on Precious Art Supply Syndrome, or PASS (ha!) (actually it’s on my list, so watch for it in a couple of weeks). I had the overwhelming feeling that I should be working on client work even though I am not behind on any of my projects.
+The next feeling I had was that I was wasting my time and precious supplies on work that might “fail.” I could write a whole article on Precious Art Supply Syndrome, or PASS (ha!). I started to think in terms of scarcity rather than abundance, and scarcity is like ambrosia to fear.
 
-I think this is part of the aforementioned feeling, but when I think about my previous job as a grant writer I worked on tertiary projects that weren’t directly related to the grant project. We called it “administrative work.” So isn’t it logical to think of experimenting with supplies as “administrative artwork”?
+It feeds the fear that you won’t have the resources to replace what you’ve used, which snowballs into fear of a lack of skill to use the “good supplies.” This becomes an avalanche of limiting beliefs that keep you from the personal projects that can help expand your skills.
+
+When I think about my previous job as a grants manager I worked on tertiary projects that used up time and resources not directly related to the grant project, but were necessary to keep my department running smoothly and productively. We called these supportive tasks  “administrative work.” So isn’t it logical to think of experimenting with supplies, working in sketchbooks, and trying out new techniques (or practicing existing ones) as “administrative artwork”?
 
 ### Why am I afraid of messing up?
 Then there is the whole host of feelings associated with perfectionism. That everything I make has to be perfect and consumable by clients, customers, and social media. I love working in my sketchbook and learning by doing, but I constantly battle with making crap art not being valuable.
 
-You’ve heard it before - you have to make a lot of crap to get to the good stuff. I can tell you from experience this is true, but even I struggle with this. One of my favorite things to watch on YouTube is sketchbook tours. Probably not a good idea for me since these tours set unrealistic expectations for artists, but i love it! Sometimes our sketchbooks are filled with perfect pages of finished art (well, maybe other people’s - not mine), but seriously that’s so rare. Most of the time it’s filled with scribbles, abandoned work, notes, and the occasional “I suck!” written in a frustrated, heavy hand.
+You’ve heard it before - you have to make a lot of crap to get to the good stuff. I can tell you from experience this is true, but I struggle with this. One of my favorite things to watch on YouTube is sketchbook tours. Probably not a good idea for me since these tours set unrealistic expectations for artists, but I love it! Sometimes our sketchbooks are filled with perfect pages of finished art (well, maybe other people’s - not mine), but seriously that’s so rare. Most of the time it’s filled with scribbles, abandoned work, notes, and the occasional “I suck!” written in a frustrated, heavy hand.
 
 And that’s how it’s supposed to be.
-
-### Play is just another word for practice
-I wish I had all the answers, but I only know practice is incredibly valuable for anything you do personally or professionally, including art. No one is born knowing how to do anything (seriously, have you been around a baby?), but we have an incredible aptitude for learning.
-
 ### How am I dealing with these emotions?
-I’m pushing forward and telling myself that practice and experimentation are part of my work. I remind myself that no sketchbook work means I won’t grow my skills or learn about new media that may end up being perfect for future artwork.
+#### Practice
+I'm literally working through it in my sketchbooks. I acknowledge the guilt and where it comes from, but I keep working anyway. Practice is incredibly valuable for anything you do personally or professionally, including art. No one is born knowing how to do anything (seriously, have you been around a baby?), but we have an incredible aptitude for learning.
+
+I know that I see amazing results when I practice, practice, practice, and my confidence increases. But part of practicing is accepting that there will be setbacks that you just have to work through. It's just part of the process.
+#### The Zone
+Remember that bubble that even fear and guilt can’t pierce? I will do anything and everything to get into that state, such as giving myself a personal project. I like to use <a href="https://www.creativepeptalk.com/" target="_blank">Andy J Pizza's</a> Creative Side Quest plan to outline the parameters and give myself benchmarks. I choose to immerse myself in a project rather than give oxygen to stifling emotions like guilt and fear. It sounds so easy on paper, but I can tell you from experience even the smallest act of picking up a brush and putting that first mark down is enough to get started. Nothing grandiose, just take it baby step by baby step and see where it leads.
+
+Do you feel guilty taking time to work in your sketchbook? [Let me know](mailto:info@susannahfisher.art) - I’d love to hear from you.
+
 
 

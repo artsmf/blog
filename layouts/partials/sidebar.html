@@ -12,6 +12,23 @@
       <a href="{{ .Permalink }}" class="btn btn-outline-primary">Know More</a>
       {{ end }}
     </div>
+
+    <!-- project category -->
+    <div class="widget">
+      <h4 class="widget-title">Projects</h4>
+      {{- if isset .Site.Taxonomies "genres" }}
+      {{- if not (eq (len .Site.Taxonomies.genres) 0) }}
+      <ul class="list-unstyled">
+        {{- range $name, $items := .Site.Taxonomies.genres }}
+        <li class="category-li"><a
+            href="{{ `genres/` | relLangURL }}{{ $name | urlize | lower }}/">{{ $name | title | humanize }}</a>
+        </li>
+        {{- end }}
+      </ul>
+      {{- end }}
+      {{- end }}
+    </div>
+    
     <!-- category -->
     <div class="widget">
       <h4 class="widget-title">Category</h4>
@@ -27,6 +44,7 @@
       {{- end }}
       {{- end }}
     </div>
+
     <!-- Tags -->
     <div class="widget">
       <h4 class="widget-title">Tag</h4>

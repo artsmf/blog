@@ -51,32 +51,37 @@ URL = "plugins/search/search.js"
 # main menu
 
 [[menu.main]]
-identifier = "work"
-name = "Work"
-URL = "work/"
+name = "Projects"
+URL = "projects/"
 weight = 1
 
-[[menu.main]]
-name = "Drawings"
-parent = "work"
-URL = "work/drawings/"
-weight = 1
+###### [[menu.main]]
+###### identifier = "workshops"
+###### name = "Workshops"
+###### URL = "workshops/"
+###### weight = 2
 
-[[menu.main]]
-name = "Paintings"
-parent = "work"
-URL = "work/paintings/"
-weight = 2
+###### [[menu.main]]
+###### name = "Book Arts"
+###### parent = "workshops"
+###### URL = "workshops/book-arts/"
+###### weight = 1
+
+###### [[menu.main]]
+###### name = "Visual Journaling"
+###### parent = "workshops"
+###### URL = "workshops/journaling/"
+###### weight = 2
 
 [[menu.main]]
 name = "Blog"
 URL = "blog/"
 weight = 30
 
-#######[[menu.main]]######
-######name = "Patreon"######
-######URL = "patreon/"######
-######weight = 40#######
+#######[[menu.main]]
+######name = "Patreon"
+######URL = "patreon/"
+######weight = 40
 
 [[menu.main]]
 name = "About"
@@ -84,6 +89,7 @@ URL = "about/"
 weight = 50
 
 # footer menu
+
 [[menu.footer]]
 name = "Blog"
 URL = "blog/"
@@ -129,6 +135,7 @@ enable = true
 
 [taxonomies]
   category = 'categories'
+  genre = 'genres' # custom
   tag = 'tags'
 
 ############################ news letter ########################

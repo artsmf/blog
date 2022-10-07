@@ -1,6 +1,6 @@
 ---
 title: "How To Make A Realistic Portrait With Caran D'Ache Neocolor II Crayons"
-date: 2022-10-06T00:37:51-04:00
+date: 2022-10-15T00:37:51-04:00
 author: "Susannah Fisher"
 draft: true
 
@@ -25,7 +25,7 @@ tags:
 type: "post"
 ---
 
-Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 
+All month long I've dedicated my sketchbook practice to working with Caran D'Ache Neocolor II water-solube crayons. Since portraits are my favorite subject, I thought I'd play with portraits in crayon for a bit and film a little tutorial for you. 
 
 <!--more-->
 

@@ -44,13 +44,13 @@
         </ul>
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Categories</h6>
-        {{- if isset .Site.Taxonomies "categories" }}
-        {{- if not (eq (len .Site.Taxonomies.categories) 0) }}
+        <h6 class="mb-4">Fresh From The Easel</h6>
+        {{- if isset .Site.Taxonomies "genres" }}
+        {{- if not (eq (len .Site.Taxonomies.genres) 0) }}
         <ul class="list-unstyled">
-          {{- range $name, $items := .Site.Taxonomies.categories }}
+          {{- range $name, $items := .Site.Taxonomies.genres }}
           <li class="mb-3"><a class="text-dark"
-              href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}/">{{ $name | title | humanize }}</a>
+              href="{{ `genres/` | relLangURL }}{{ $name | urlize | lower }}/">{{ $name | title | humanize }}</a>
           </li>
           {{- end }}
         </ul>

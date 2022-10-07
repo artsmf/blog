@@ -1,31 +1,26 @@
 {{ define "main" }}
 
-<!-- featured post -->
-<section class="section-sm one-feature">
+<!-- hero area -->
+<section class="section-sm">
   <div class="container">
     <div class="row justify-content-center">
-      <div class="col-10 featured-post-slider">
-        <!-- slider item -->
-        {{ range first 1 .Site.RegularPages }}  <!-- custom -->
+      <div class="col-10">
+        <!-- recent project -->
+        {{ range first 1 ( where .Site.RegularPages "Type" "projects" )}}
         <article class="card featured-post">
           <div class="row no-gutters align-items-center">
-            <div class="col-md-5">
+            <div class="col-md-7">
               {{ if .Params.Image }}
-              <img src="{{ .Params.Image | absURL }}" class="card-img" alt="{{ .Title | markdownify }}">
+              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+              </a>              
               {{ end }}
             </div>
-            <div class="col-md-6 offset-md-1">
+            <div class="col-md-4 offset-md-1">
               <div class="card-body">
-                <div class="mb-3 post-meta">
-                  <span>By {{ .Site.Params.Author }}</span>
-                  {{ if not .Params.HideDate }}
-                  <span class="border-bottom border-primary px-2 mx-1"></span>
-                  <span>{{ .PublishDate.Format "02 January 2006" }}</span>
-                  {{ end }}
-                </div>
                 <a href="{{ .Permalink }}"
                   class="h1 font-weight-bold d-block text-dark mb-4 card-title">{{ .Title | markdownify }}</a>
                 <p class="card-text">{{.Summary}}...</p>
+                <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
               </div>
             </div>
           </div>
@@ -35,13 +30,16 @@
     </div>
   </div>
 </section>
-<!-- /featured post -->
+<!-- /hero area -->
 
 <!-- recent post -->
-<section class="recent-three">
+<!-- <section class="recent-three">
   <div class="container">
-    <div class="row">
-      {{ range first 3 (after 1 .Site.RegularPages)}}
+    <div class="row justify-content-center" style="padding-bottom: 3em;">
+      <h4>Recently on the blog...</h4>
+    </div>
+    <div class="row">      
+      {{ range first 3 (where .Site.RegularPages "Type" "post")}}
       <div class="col-lg-4 small-post-border">
         <article class="media">
           {{ if .Params.Image }}
@@ -63,47 +61,36 @@
       {{ end }}
     </div>
   </div>
-</section>
+</section> -->
 <!-- /recent post -->
 
-<!-- blog post -->
-<section class="section pb-0">
+<!-- projects -->
+<section class="section pb-0 fp-projects">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8 mb-5 mb-lg-0">
+      <div class="col-12 mb-5 mb-lg-0">
         <div class="row">
-          {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+          {{ $paginator := .Paginate ( first 9 (where .Site.RegularPages "Type" "projects")) }}
           {{ range $paginator.Pages }}
-          <div class="col-md-6 mb-4">
+          <div class="col-md-4 mb-4">
             <article class="card">
               {{ if .Params.Image }}
-              <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="card-img-top fp-card" alt="{{ .Title | markdownify }}"></a>
               {{ end }}
-              <div class="card-body px-0">
-                {{ range .Params.Categories }}
-                <a href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"
-                  class="text-primary">{{ . | title | humanize }}</a>
-                {{ end }}
+              <div class="card-body px-0 fp-card-title">
                 <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
-                <div class="mb-3 post-meta">
-                  <span>By {{ .Site.Params.Author }}</span>
-                  {{ if not .Params.HideDate }}
-                  <span class="border-bottom border-primary px-2 mx-1"></span>
-                  <span>{{ .PublishDate.Format "02 January 2006" }}</span>
-                  {{ end }}
-                </div>
-                <p class="card-text">{{ .Summary }}</p>
-                <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
+                <!-- {{ range .Params.Genres }}
+                <a href="{{ `genres/` | relLangURL }}{{ . | urlize | lower }}"
+                  class="text-primary">{{ . | title | humanize }}</a>
+                {{ end }} -->
+                <!-- <p class="card-text">{{ .Summary }}</p>
+                <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a> -->
               </div>
             </article>
           </div>
           {{ end }}
         </div>
       </div>
-      <!-- sidebar -->
-      {{ partial "sidebar.html" . }}
-      <!-- /sidebar -->
-
       <!-- pagination -->
       <div class="col-12 mt-5">
         {{ template "_internal/pagination.html" . }}
@@ -111,6 +98,45 @@
     </div>
   </div>
 </section>
-<!-- /blog post -->
+<!-- /projects -->
+
+<!-- featured post -->
+<section class="section-sm">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-10">
+        <h4>Recently on the blog...</h4>
+        <!-- slider item -->
+        {{ range first 1 ( where .Site.RegularPages "Type" "post" )}}
+        <article class="card one-feature">
+          <div class="row no-gutters align-items-center">
+            <div class="col-md-5">
+              {{ if .Params.Image }}
+              <img src="{{ .Params.Image | absURL }}" class="card-img" alt="{{ .Title | markdownify }}">
+              {{ end }}
+            </div>
+            <div class="col-md-6 offset-md-1">
+              <div class="card-body">
+                <div class="mb-3 post-meta">
+                  <span>By {{ .Site.Params.Author }}</span>
+                  {{ if not .Params.HideDate }}
+                  <span class="border-bottom border-primary px-2 mx-1"></span>
+                  <span>{{ .PublishDate.Format "02 January 2006" }}</span>
+                  {{ end }}
+                </div>
+                <a href="{{ .Permalink }}"
+                  class="h1 font-weight-bold d-block text-dark mb-4 card-title">{{ .Title | markdownify }}</a>
+                <p class="card-text">{{.Summary}}...</p>
+                <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
+              </div>
+            </div>
+          </div>
+        </article>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /featured post -->
 
 {{ end }}
