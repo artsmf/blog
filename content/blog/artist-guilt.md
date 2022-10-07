@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/post/20221008.png"
+image: "images/post/20221008a.png"
 
 # meta description
 description: "this is meta description"
@@ -38,6 +38,11 @@ The next feeling I had was that I was wasting my time and precious supplies on w
 It feeds the fear that you won’t have the resources to replace what you’ve used, which snowballs into fear of a lack of skill to use the “good supplies.” This becomes an avalanche of limiting beliefs that keep you from the personal projects that can help expand your skills.
 
 When I think about my previous job as a grants manager I worked on tertiary projects that used up time and resources not directly related to the grant project, but were necessary to keep my department running smoothly and productively. We called these supportive tasks  “administrative work.” So isn’t it logical to think of experimenting with supplies, working in sketchbooks, and trying out new techniques (or practicing existing ones) as “administrative artwork”?
+
+<figure>
+  <img src="/images/post/20221008.png" alt="figure pencil sketches in small sketchbook" title="Experimenting with Vanderpoel figures and then applying to a circus performer sketch.">
+  <figcaption>Experimenting with Vanderpoel figures and then applying to a circus performer sketch.</figcaption>
+</figure>
 
 ### Why am I afraid of messing up?
 Then there is the whole host of feelings associated with perfectionism. That everything I make has to be perfect and consumable by clients, customers, and social media. I love working in my sketchbook and learning by doing, but I constantly battle with making crap art not being valuable.
