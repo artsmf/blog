@@ -1,12 +1,12 @@
 {{ define "main" }}
 
 <!-- hero area -->
-<section class="section-sm">
+<section class="section-sm hero">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-10">
-        <!-- recent project -->
-        {{ range first 1 ( where .Site.RegularPages "Type" "projects" )}}
+        <!-- featured project -->
+        {{ range first 1 ( where .Site.RegularPages "Type" "featured-project" )}}
         <article class="card featured-post">
           <div class="row no-gutters align-items-center">
             <div class="col-md-7">
@@ -32,8 +32,44 @@
 </section>
 <!-- /hero area -->
 
+<!-- projects -->
+<section class="section pb-0 fp-projects">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 mb-5 mb-lg-0">
+        <div class="row">
+          {{ $paginator := .Paginate ( first 9 (where .Site.RegularPages "Type" "projects")) }}
+          {{ range $paginator.Pages }}
+          <div class="col-md-4 mb-4">
+            <article class="card">
+              {{ if .Params.Image }}
+              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="card-img-top fp-card" alt="{{ .Title | markdownify }}"></a>
+              {{ end }}
+             <!-- <div class="card-body px-0 fp-card-title">
+                <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
+                {{ range .Params.Genres }}
+                <a href="{{ `genres/` | relLangURL }}{{ . | urlize | lower }}"
+                  class="text-primary">{{ . | title | humanize }}</a>
+                {{ end }} -->
+                <!-- <p class="card-text">{{ .Summary }}</p>
+                <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
+              </div> -->
+            </article>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+      <!-- pagination -->
+      <div class="col-12 mt-5">
+        {{ template "_internal/pagination.html" . }}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /projects -->
+
 <!-- recent post -->
-<!-- <section class="recent-three">
+<section class="recent-three">
   <div class="container">
     <div class="row justify-content-center" style="padding-bottom: 3em;">
       <h4>Recently on the blog...</h4>
@@ -61,52 +97,16 @@
       {{ end }}
     </div>
   </div>
-</section> -->
+</section>
 <!-- /recent post -->
 
-<!-- projects -->
-<section class="section pb-0 fp-projects">
-  <div class="container">
-    <div class="row">
-      <div class="col-12 mb-5 mb-lg-0">
-        <div class="row">
-          {{ $paginator := .Paginate ( first 9 (where .Site.RegularPages "Type" "projects")) }}
-          {{ range $paginator.Pages }}
-          <div class="col-md-4 mb-4">
-            <article class="card">
-              {{ if .Params.Image }}
-              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="card-img-top fp-card" alt="{{ .Title | markdownify }}"></a>
-              {{ end }}
-              <div class="card-body px-0 fp-card-title">
-                <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
-                <!-- {{ range .Params.Genres }}
-                <a href="{{ `genres/` | relLangURL }}{{ . | urlize | lower }}"
-                  class="text-primary">{{ . | title | humanize }}</a>
-                {{ end }} -->
-                <!-- <p class="card-text">{{ .Summary }}</p>
-                <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a> -->
-              </div>
-            </article>
-          </div>
-          {{ end }}
-        </div>
-      </div>
-      <!-- pagination -->
-      <div class="col-12 mt-5">
-        {{ template "_internal/pagination.html" . }}
-      </div>
-    </div>
-  </div>
-</section>
-<!-- /projects -->
-
-<!-- featured post -->
+<!-- featured post 
 <section class="section-sm">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-10">
         <h4>Recently on the blog...</h4>
-        <!-- slider item -->
+        slider item 
         {{ range first 1 ( where .Site.RegularPages "Type" "post" )}}
         <article class="card one-feature">
           <div class="row no-gutters align-items-center">
@@ -137,6 +137,6 @@
     </div>
   </div>
 </section>
-<!-- /featured post -->
+/featured post -->
 
 {{ end }}

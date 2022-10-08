@@ -1,6 +1,6 @@
 ---
 title: "The Storefront Series"
-date: 2022-10-06T14:27:27-04:00
+date: 2022-10-17T00:27:27-04:00
 author: "Susannah Fisher"
 draft: true
 

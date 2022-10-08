@@ -47,6 +47,10 @@
 
 /* CUSTOM */
 
+// .hero {
+//   padding-top: 0 !important;
+// }
+
 .fp-projects {
   padding-top: 0;
 }
@@ -78,6 +82,25 @@
     @include tablet {
       margin-left: 0;
       font-size: 30px;
+    }
+  }
+
+  .card-body {
+
+    a {
+      color: $dkblue;
+
+      &:hover {
+        color: $gold;
+      }
+    }
+
+    p a {
+      color: $dkblue !important;
+
+      &:hover {
+        color: $gold !important;
+      }
     }
   }
 
@@ -160,6 +183,29 @@
   }
 }
 
+/* custom */
+
+.card {
+  .card-body {
+
+    a {
+      color: $dkblue;
+
+      &:hover {
+        color: $gold;
+      }
+    }
+
+    p a {
+      color: $dkblue !important;
+
+      &:hover {
+        color: $gold !important;
+      }
+    }
+  }
+}
+
 .post-meta {
   span {
     color: #444;
@@ -219,7 +265,7 @@ figcaption {
   padding: 3em;
 
   a {
-    color:$dkblue;
+    color:$dkblue !important;
 
     &:hover {
       color: $gold !important;

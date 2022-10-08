@@ -1,6 +1,6 @@
 ---
 title: "Cider Press Party"
-date: 2022-10-06T14:24:52-04:00
+date: 2022-10-10T00:24:52-04:00
 author: "Susannah Fisher"
 draft: true
 
@@ -14,7 +14,7 @@ description: "this is meta description"
 genres:
   - "Illustration"
 
-type: "projects"
+type: "featured-project"
 ---
 
 Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 
