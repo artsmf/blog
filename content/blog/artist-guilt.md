@@ -2,7 +2,7 @@
 title: "Why Do I Feel So Guilty For Playing With My Art Supplies?"
 date: 2022-10-08T00:30:04-04:00
 author: "Susannah Fisher"
-draft: true
+draft: false
 
 # post thumb
 image: "images/post/20221008a.png"
