@@ -1,21 +1,26 @@
 ---
-title: "Flue Vaccine"
-date: 2022-10-06T14:27:27-04:00
+title: "How Exercising Art Supply Minimalism Can Help Your Creative Practice"
+date: 2022-10-15T00:26:33-04:00
 author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/projects/placeholder.jpeg"
+image: "images/post/placeholder.jpg"
 
 # meta description
 description: "this is meta description"
 
 # taxonomies
-genres:
-  - "Illustration"
+categories:
+  - "An Artist's Thoughts"
+tags:
+  - ""
 
-type: "projects"
+# post type - post or featured
+type: "post"
 ---
+
+![title graphic alt text](/images/post/post-1.jpg "description text")
 
 Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 
 
