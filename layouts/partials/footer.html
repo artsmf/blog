@@ -17,7 +17,7 @@
         <a href="{{ .Site.BaseURL }}"><img src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}"></a>
       </div> -->
       {{ if or  .Site.Params.mobile .Site.Params.location .Site.Params.email }}         
-      <div class="col-lg-3 col-sm-6 mb-5">
+      <div class="col-lg-6 col-sm-6 mb-5">
         <h6 class="mb-4">Contact Me</h6>
         <ul class="list-unstyled">
           {{ if .Site.Params.mobile }}
@@ -42,20 +42,6 @@
           <li class="mb-3"><a class="text-dark" href="{{ .link | safeURL }}" target="_blank">{{ .title }}</a></li>
           {{ end }}
         </ul>
-      </div>
-      <div class="col-lg-3 col-sm-6 mb-5">
-        <h6 class="mb-4">Fresh From The Easel</h6>
-        {{- if isset .Site.Taxonomies "genres" }}
-        {{- if not (eq (len .Site.Taxonomies.genres) 0) }}
-        <ul class="list-unstyled">
-          {{- range $name, $items := .Site.Taxonomies.genres }}
-          <li class="mb-3"><a class="text-dark"
-              href="{{ `genres/` | relLangURL }}{{ $name | urlize | lower }}/">{{ $name | title | humanize }}</a>
-          </li>
-          {{- end }}
-        </ul>
-        {{- end }}
-        {{- end }}
       </div>
       <div class="col-lg-3 col-sm-6 mb-5">
         <h6 class="mb-4">Quick Links</h6>

@@ -1,11 +1,11 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Book Arts"
+date: 2022-10-08T14:57:21-04:00
 author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/projects/placeholder.jpeg"
+image: "images/projects/headers/book-arts.png"
 
 # meta description
 description: "this is meta description"

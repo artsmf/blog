@@ -83,10 +83,10 @@
       margin-left: 0;
       font-size: 30px;
     }
-  }
+  } 
 
   .card-body {
-
+    
     a {
       color: $dkblue;
 
@@ -102,6 +102,7 @@
         color: $gold !important;
       }
     }
+
   }
 
   &-slider {
@@ -187,6 +188,12 @@
 
 .card {
   .card-body {
+    .project-title {
+      text-align: center;
+      padding: 0 !important;
+      margin-top: 0 !important;
+      margin-bottom: 0 !important;
+    }
 
     a {
       color: $dkblue;
@@ -434,6 +441,19 @@ figcaption {
   max-height: 200px;
   max-width: 200px;
 }
+
+/* search results page */
+
+#search-results {
+  h4 a {
+    color: $dkblue;
+
+    &:hover {
+      color: $gold;
+    }
+  }
+}
+
 
 /* markdown style */
 .content {

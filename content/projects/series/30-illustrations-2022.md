@@ -10,10 +10,6 @@ image: "images/projects/placeholder.jpeg"
 # meta description
 description: "Illustrations of places, objects, and imagination from illustrator Susannah Fisher"
 
-# taxonomies
-genres:
-  - "Illustration"
-
 type: "projects"
 ---
 

@@ -1,28 +1,19 @@
 ---
-title: "The Storefront Series"
-date: 2022-10-17T00:27:27-04:00
+title: "Fine Art"
+date: 2022-10-08T14:57:35-04:00
 author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/projects/placeholder.jpeg"
+image: "images/projects/headers/fine-art.png"
 
 # meta description
 description: "this is meta description"
 
-# taxonomies
-genres:
-  - "Illustration"
-
-tags:
-  - "The Storefront Series"
-
 type: "projects"
 ---
 
-The Flue Vaccine
-Sleeps With The Fishes
-
+Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 
 
 <!--more-->
 

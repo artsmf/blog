@@ -1,6 +1,6 @@
 ---
-title: "Cider Press Party"
-date: 2022-10-10T00:24:52-04:00
+title: "Sample"
+date: 2022-10-08T14:12:49-04:00
 author: "Susannah Fisher"
 draft: true
 
@@ -10,11 +10,7 @@ image: "images/projects/placeholder.jpeg"
 # meta description
 description: "this is meta description"
 
-# taxonomies
-genres:
-  - "Illustration"
-
-type: "featured-project"
+type: "projects"
 ---
 
 Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 

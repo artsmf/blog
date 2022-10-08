@@ -1,0 +1,85 @@
+{{ define "main" }}
+
+<section class="section-sm">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <h4 class="widget-title">{{ .Title | markdownify }}</h4>
+        <div class="content" style="text-align:center;">
+          <h3>Oh, dear! Not finding what you're looking for?</h3>
+          <p>Below are the most recent projects and blog posts - perhaps this is what you seek? Or <a href="mailto:info@susannahfisher.art">send me an email</a>, and I'll try to help.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- projects -->
+<section class="section pb-0 fp-projects">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 mb-5 mb-lg-0">
+          <div class="row">
+            {{ $paginator := .Paginate ( first 9 (where .Site.RegularPages "Type" "projects")) }}
+            {{ range $paginator.Pages }}
+            <div class="col-md-4 mb-4">
+              <article class="card">
+                {{ if .Params.Image }}
+                <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="card-img-top fp-card" alt="{{ .Title | markdownify }}"></a>
+                {{ end }}
+               <!-- <div class="card-body px-0 fp-card-title">
+                  <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
+                  {{ range .Params.Genres }}
+                  <a href="{{ `genres/` | relLangURL }}{{ . | urlize | lower }}"
+                    class="text-primary">{{ . | title | humanize }}</a>
+                  {{ end }} -->
+                  <!-- <p class="card-text">{{ .Summary }}</p>
+                  <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
+                </div> -->
+              </article>
+            </div>
+            {{ end }}
+          </div>
+        </div>
+        <!-- pagination -->
+        <div class="col-12 mt-5">
+          {{ template "_internal/pagination.html" . }}
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- /projects -->
+  
+  <!-- recent post -->
+  <section class="recent-three">
+    <div class="container">
+      <div class="row justify-content-center" style="padding-bottom: 3em;">
+        <h4>Recently on the blog...</h4>
+      </div>
+      <div class="row">      
+        {{ range first 3 (where .Site.RegularPages "Type" "post")}}
+        <div class="col-lg-4 small-post-border">
+          <article class="media">
+            {{ if .Params.Image }}
+            <div class="recent-post-thumb mr-3" style="background-image: url('{{ .Params.Image | absURL }}');"></div>
+            {{ end }}
+            <div class="media-body">
+              <div class="mb-3 post-meta">
+                <span>By {{ .Site.Params.Author }}</span>
+                {{ if not .Params.HideDate }}
+                <span class="border-bottom border-primary px-2 mx-1"></span>
+                <span>{{ .PublishDate.Format "02 Jan 2006" }}</span>
+                {{ end }}
+              </div>
+              <a href="{{ .Permalink }}" class="h5 d-block mb-3">{{ .Title | markdownify }}</a>
+              <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
+            </div>
+          </article>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <!-- /recent post -->
+
+{{ end }}
