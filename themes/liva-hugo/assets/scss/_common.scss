@@ -63,10 +63,15 @@ a:hover {
   padding-top: 150px;
   padding-bottom: 150px;
 
+  // CUSTOM
   &-sm {
-    padding-top: 80px;
-    padding-bottom: 80px;
-  }
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+  // &-sm {
+  //   padding-top: 80px;
+  //   padding-bottom: 80px;
+  // }
 
   &-title {
     margin-bottom: 30px;

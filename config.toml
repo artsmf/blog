@@ -49,39 +49,73 @@ URL = "plugins/search/search.js"
 [menu]
 
 # main menu
+# Projects
 
-[[menu.main]]
-name = "Projects"
-URL = "/projects"
-weight = 1
+# [[menu.main]]
+# identifier = "projects"
+# name = "Projects"
+# URL = "/projects"
+# weight = 1
 
-###### [[menu.main]]
-###### identifier = "workshops"
-###### name = "Workshops"
-###### URL = "workshops/"
-###### weight = 2
+# [[menu.main]]
+# name = "Portraits"
+# parent = "projects"
+# URL = "projects/portraits/"
+# weight = 1
 
-###### [[menu.main]]
-###### name = "Book Arts"
-###### parent = "workshops"
-###### URL = "workshops/book-arts/"
-###### weight = 1
+# [[menu.main]]
+# name = "Book Arts"
+# parent = "projects"
+# URL = "projects/book-arts/"
+# weight = 2
 
-###### [[menu.main]]
-###### name = "Visual Journaling"
-###### parent = "workshops"
-###### URL = "workshops/journaling/"
-###### weight = 2
+# [[menu.main]]
+# name = "Illustration"
+# parent = "projects"
+# URL = "projects/illustration/"
+# weight = 3
+
+# [[menu.main]]
+# name = "Mail Art"
+# parent = "projects"
+# URL = "projects/mail-art/"
+# weight = 4
+
+# Workshops
+
+# [[menu.main]]
+# identifier = "workshops"
+# name = "Workshops"
+# URL = "workshops/"
+# weight = 2
+
+# [[menu.main]]
+# name = "Book Arts"
+# parent = "workshops"
+# URL = "workshops/book-arts/"
+# weight = 1
+
+# [[menu.main]]
+# name = "Visual Journaling"
+# parent = "workshops"
+# URL = "workshops/journaling/"
+# weight = 2
+
+# Blog
 
 [[menu.main]]
 name = "Blog"
 URL = "blog/"
 weight = 30
 
-#######[[menu.main]]
-######name = "Patreon"
-######URL = "patreon/"
-######weight = 40
+# Patreon
+
+# [[menu.main]]
+# name = "Patreon"
+# URL = "patreon/"
+# weight = 40
+
+# About
 
 [[menu.main]]
 name = "About"
@@ -90,20 +124,25 @@ weight = 50
 
 # footer menu
 
-[[menu.footer]]
-name = "Projects"
-URL = "projects/"
-weight = 20
+# [[menu.footer]]
+# name = "Projects"
+# URL = "projects/"
+# weight = 20
+
+# [[menu.footer]]
+# name = "Workshops"
+# URL = "workshops/"
+# weight = 25
 
 [[menu.footer]]
 name = "Blog"
 URL = "blog/"
 weight = 30
 
-######[[menu.footer]]######
-######name = "Patreon"######
-######URL = "patreon/"######
-######weight = 40######
+# [[menu.footer]]
+# name = "Patreon"
+# URL = "patreon/"
+# weight = 40
 
 [[menu.footer]]
 name = "About"
