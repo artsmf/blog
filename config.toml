@@ -51,17 +51,17 @@ URL = "plugins/search/search.js"
 # main menu
 # Projects
 
-# [[menu.main]]
-# identifier = "projects"
-# name = "Projects"
-# URL = "/projects"
-# weight = 1
+[[menu.main]]
+identifier = "projects"
+name = "Projects"
+URL = "/projects"
+weight = 1
 
-# [[menu.main]]
-# name = "Portraits"
-# parent = "projects"
-# URL = "projects/portraits/"
-# weight = 1
+[[menu.main]]
+name = "Portraits"
+parent = "projects"
+URL = "projects/portraits/"
+weight = 1
 
 # [[menu.main]]
 # name = "Book Arts"

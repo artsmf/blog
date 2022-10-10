@@ -23,6 +23,7 @@ On the blog, you'll find [practical tutorials](/categories/tutorials/index.html)
 #### My goal for this space...
 is to provide information and camaraderie. I hope to provide my readers with tools, tips and inspiration I had or wished I had as I worked to develop my artistic practice. If you'd like to see a specific tutorial, or ask a question related to the topics on this site, just [send me an email](mailto:info@susannahfisher.art).
 #### A little bit about me...
+* My Favorite Subject: Faces, people - I love painting portraits more than anything.
 * Favorite Scent: Pine mixed with sea air
 * Current Color Obsession: Kings Blue Light by Michael Harding (oil paint) - I'm adding it to my skin tone mixes when they need cooling down. It's such a delicate color, but does the job it's asked!
 * Influences:  They run the gamut from 16th century Dutch painters to late 19th century artists to Art Nouveau to modern illustrators like Maira Kalman.
