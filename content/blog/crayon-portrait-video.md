@@ -21,7 +21,7 @@ tags:
   - "water-soluble media"
   - "crayons"
 
-# post type - post or featured
+# post type - post or featured or featured-project
 type: "post"
 ---
 
