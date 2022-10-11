@@ -14,10 +14,8 @@ description: "Designing your self-study atelier program with resources and tips 
 categories:
   - "Studio Projects"
 tags:
-  - "art curriculum"
-  - "atelier series"
-  - "classical realism"
-  - "self taught artist"
+  - "self-directed atelier"
+  - "supplies"
 
 # post type
 type: "post"

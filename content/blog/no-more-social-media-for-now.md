@@ -13,10 +13,8 @@ description: "Trying a no social media experiment for the rest of 2022."
 # taxonomies
 categories:
   - "An Artist's Thoughts"
+
 tags:
-  - "art journey"
-  - "social media for artists"
-  - "thoughts"
 
 # post type
 type: "post"

@@ -15,12 +15,18 @@ categories:
   - "Studio Projects"
   - "Tutorials"
   - "An Artist's Thoughts"
+  
 tags:
   - "painting"
-  - "mixed media"
+  - "drawing"
   - "illustration"
   - "portrait painting"
+  - "calligraphy"
+  - "mail art"
   - "book arts"
+  - "self-directed atelier"
+  - "supplies"
+  - "sketchbook"
 
 # post type - post or featured
 type: "post"

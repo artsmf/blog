@@ -13,12 +13,10 @@ description: "Trying out Caran D'Ache Neocolor 2 water-soluble crayons for portr
 # taxonomies
 categories:
   - "An Artist's Thoughts"
+
 tags:
-  - "sketchbook experiments"
-  - "Caran D’Ache Neocolor II"
-  - "water-soluble media"
-  - "crayons"
-  - "finding inspiration"
+  - "supplies"
+  - "sketchbook"
 
 # post type - post or featured
 type: "post"

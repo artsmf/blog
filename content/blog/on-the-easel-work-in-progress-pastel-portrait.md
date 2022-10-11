@@ -13,10 +13,10 @@ description: "Update on recent pastel portrait painting process."
 # taxonomies
 categories:
   - "Studio Projects"
+
 tags:
-  - "making portraits"
-  - "on the easel"
-  - "pastel portrait"
+  - "painting"
+  - "portrait painting"
 
 # post type
 type: "post"

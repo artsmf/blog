@@ -13,13 +13,14 @@ description: "this is meta description"
 # taxonomies
 categories:
   - "Tutorials"
+
 tags:
-  - "mixed media"
+  - "painting"
+  - "drawing"
+  - "illustration"
   - "portrait painting"
-  - "sketchbook experiments"
-  - "Caran D’Ache Neocolor II"
-  - "water-soluble media"
-  - "crayons"
+  - "supplies"
+  - "sketchbook"
 
 # post type - post or featured or featured-project
 type: "post"

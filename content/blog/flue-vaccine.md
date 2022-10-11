@@ -13,11 +13,18 @@ description: "this is meta description"
 # taxonomies
 categories:
   - "Studio Projects"
+
 tags:
   - "painting"
-  - "mixed media"
+  - "drawing"
   - "illustration"
-  - "The Weird Storefront Series"
+  - "portrait painting"
+  - "calligraphy"
+  - "mail art"
+  - "book arts"
+  - "self-directed atelier"
+  - "supplies"
+  - "sketchbook"
 
 # post type - post or featured
 type: "post"

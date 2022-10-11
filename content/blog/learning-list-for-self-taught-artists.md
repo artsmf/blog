@@ -13,11 +13,9 @@ description: "A list of resources for the self-study classical painter"
 # taxonomies
 categories:
   - "Studio Projects"
+
 tags:
-  - "art curriculum"
-  - "atelier series"
-  - "classical realism"
-  - "self taught artist"
+  - "self-directed atelier"
 
 # post type
 type: "post"

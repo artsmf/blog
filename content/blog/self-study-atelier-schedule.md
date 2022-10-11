@@ -13,11 +13,10 @@ description: "Scheduling practice time and targeting what you practice will help
 # taxonomies
 categories:
   - "Studio Projects"
+
 tags:
-  - "art curriculum"
-  - "atelier series"
-  - "classical realism"
-  - "self taught artist"
+  - "self-directed atelier"
+  - "supplies"
 
 # post type
 type: "post"

@@ -13,10 +13,8 @@ description: "Feeling guilty for making art and some ideas for pushing through."
 # taxonomies
 categories:
   - "An Artist's Thoughts"
+
 tags:
-  - "artist's emotions"
-  - "guilt"
-  - "artist pep talk"
 
 # post type - post or featured
 type: "post"
