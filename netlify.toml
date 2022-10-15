@@ -6,6 +6,16 @@ command = "hugo --minify --gc"
 HUGO_VERSION = "0.87.0"
 HUGO_BASEURL = "/"
 
+[context.production.environment] # CUSTOM to fix GSC errors in sitemap
+    HUGO_ENV = "production"
+    NODE_ENV = "production"
+
+[context.deploy-preview] # CUSTOM to fix GSC errors in sitemap
+    command = "hugo -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy] # CUSTOM to fix GSC errors in sitemap
+    command = "hugo -b $DEPLOY_PRIME_URL"
+
 [[headers]]
 for = "/*" # This defines which paths this specific [[headers]] block will cover.
 

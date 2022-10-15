@@ -2,7 +2,7 @@
 title: "Portrait of a Lady, 2019"
 date: 2019-10-10T13:31:29-04:00
 author: "Susannah Fisher"
-draft: true
+draft: false
 
 # post thumb
 image: "images/projects/portrait-of-a-lady.jpeg"
