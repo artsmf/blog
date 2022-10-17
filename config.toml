@@ -63,11 +63,11 @@ parent = "projects"
 URL = "projects/portraits/"
 weight = 1
 
-# [[menu.main]]
-# name = "Nature Journals"
-# parent = "projects"
-# URL = "projects/nature-journals/"
-# weight = 2
+[[menu.main]]
+name = "Nature Journals"
+parent = "projects"
+URL = "projects/nature-journals/"
+weight = 2
 
 # [[menu.main]]
 # name = "Illustration"
@@ -114,10 +114,10 @@ name = "Blog"
 URL = "blog/"
 weight = 30
 
-# [[menu.main]]
-# name = "Learning Communities"
-# URL = "learning-communities/"
-# weight = 35
+[[menu.main]]
+name = "Learning Communities"
+URL = "learning-communities/"
+weight = 35
 
 # About
 
