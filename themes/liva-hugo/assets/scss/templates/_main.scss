@@ -78,6 +78,7 @@
 .featured-post {
   .card-title {
     // margin-left: -10%;
+    text-transform: capitalize;
 
     @include tablet {
       margin-left: 0;
@@ -197,6 +198,7 @@
 
     a {
       color: $dkblue;
+      text-transform: capitalize;
 
       &:hover {
         color: $gold;

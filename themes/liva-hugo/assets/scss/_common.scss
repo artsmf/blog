@@ -119,6 +119,11 @@ a:hover {
 
 .text-primary {
   color: $primary-color !important;
+  text-transform: capitalize;
+}
+
+.text-title {
+  text-transform: capitalize;
 }
 
 .text-dark {
