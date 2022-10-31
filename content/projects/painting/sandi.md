@@ -14,5 +14,8 @@ type: "projects"
 ---
 
 <figcaption>Pastel on pumice board, 7in x 5in</figcaption>
-I made this painting while watching one of Sandi Hester's Bits Of An Artist's Life videos on YouTube.
+I made this painting while watching one of Sandi Hester's Bits Of An Artist's Life videos on YouTube.<br>
+
+<br>
+<center><a href="https://buy.stripe.com/8wM2ar66tfEKcpicMO" class="btn btn-outline-primary" target="_blank">Purchase $250</a></center>
 

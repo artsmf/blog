@@ -1,6 +1,6 @@
 ---
 title: "Come Inside My Cozy Home Studio - I'd Love To Show You Around"
-date: 2022-11-05T00:44:21-04:00
+date: 2022-11-22T00:44:21-04:00
 author: "Susannah Fisher"
 draft: true
 

@@ -1,6 +1,6 @@
 ---
-title: "Woo Hoo! What got done, what did not, and why I still feel satisfied"
-date: 2022-11-15T00:13:05-04:00
+title: "I don't know how to be an artist. Isn't it just a big beautiful learning curve?"
+date: 2022-11-05T00:00:29-04:00
 author: "Susannah Fisher"
 draft: true
 
@@ -8,14 +8,14 @@ draft: true
 image: "images/post/placeholder.jpg"
 
 # meta description
-description: "this is meta description"
+description: "I don't know how to be an artist. Isn't it just a big beautiful learning curve?"
 
 # taxonomies
 categories:
-  - "Studio Projects"
+  - "An Artist's Thoughts"
   
 tags:
-  - "supplies"
+  - "self-directed atelier"
 
 # post type - post or featured
 type: "post"

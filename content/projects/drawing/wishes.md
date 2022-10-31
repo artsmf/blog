@@ -14,7 +14,15 @@ type: "projects"
 ---
 
 <figcaption>Graphite on paper, 6.5in x 9in</figcaption>
-This was the first conceptual portrait I made. It's less about likeness and more about expressing the hopefulness of wishing on a dandelion. 
+
+TK
+
+<br>
+<br>
+<center><a href="https://buy.stripe.com/00g02jeCZdwC4WQ7ss" class="btn btn-outline-primary" target="_blank">Purchase $470</a></center>
+
+
+
 
 
 
