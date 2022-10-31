@@ -15,7 +15,7 @@ type: "projects"
 
 <figcaption>Graphite on paper, 6.5in x 9in</figcaption>
 
-TK
+Dandelions are a fascinating wildflower, and the lore of sending your wishes into the world on a wisp of wind has captivated me since childhood. This piece is a graphite study for a future painting, but I love the soft, glowy effect of working with graphite on ivory paper.
 
 <br>
 <br>

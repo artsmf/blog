@@ -14,7 +14,7 @@ type: "projects"
 ---
 
 <figcaption>Charcoal, sanguine and pastel on paper, 14.5in x 11.5in</figcaption>
-This was a breakthrough piece for me in terms of likeness, technique, and materials.
+This was a breakthrough piece for me in terms of likeness, technique, and materials. I used the Trois Crayons technique, which has become a favorite. Trois Crayons refers to using charcoal with red and white chalk. In this piece I use Nitram charcoal and hard pastels in sanguine and warm white instead of the traditional chalk.
 
 <br>
 <br>
