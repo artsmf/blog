@@ -222,6 +222,11 @@ icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
 link = "https://pinterest.com/smfisherart"
 
 [[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/principlesofuncertainty/"
+
+[[params.social]]
 title = "youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCpIZrghBZk-VmV6OZ6HMcfw"
