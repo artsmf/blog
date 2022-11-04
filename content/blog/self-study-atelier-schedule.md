@@ -86,7 +86,7 @@ The next drawing I did was a regression. I can’t tell you how deflating it was
 Art really is cyclical.
 
 <figure>
-  <img src="/images/post/20220820a.png" alt="chart of art making cycles" />
+  <img src="/images/post/20220820a.jpg" alt="chart of art making cycles" />
   <figcaption>Attribution: <a href="https://www.deviantart.com/shattered-earth/art/Art-Cycle-329593292">Shattered Earth</a></figcaption>
 </figure>
 

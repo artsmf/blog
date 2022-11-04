@@ -11,7 +11,7 @@
           <div class="row no-gutters align-items-center">
             <div class="col-md-7">
               {{ if .Params.Image }}
-              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="{{ $.Page.Title }}" class="card-img-top" alt="{{ .Title | markdownify }}">
               </a>              
               {{ end }}
             </div>
@@ -43,7 +43,7 @@
           <div class="col-md-4 mb-4">
             <article class="card">
               {{ if .Params.Image }}
-              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="card-img-top fp-card" alt="{{ .Title | markdownify }}"></a>
+              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="{{ $.Page.Title }}" class="card-img-top fp-card" alt="{{ .Title | markdownify }}"></a>
               {{ end }}
              <!-- <div class="card-body px-0 fp-card-title">
                 <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>

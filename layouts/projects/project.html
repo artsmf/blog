@@ -2,7 +2,7 @@
     <article class="card">
         <div class="card-body">
             {{ if .Params.Image }}
-        <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+        <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="{{ $.Page.Title }}" class="card-img-top" alt="{{ .Title | markdownify }}">
         </a>
         {{ end }}
         </div>

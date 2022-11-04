@@ -38,7 +38,7 @@ It feeds the fear that you won’t have the resources to replace what you’ve u
 When I think about my previous job as a grants manager I worked on tertiary projects that used up time and resources not directly related to the grant project, but were necessary to keep my department running smoothly and productively. We called these supportive tasks  “administrative work.” So isn’t it logical to think of experimenting with supplies, working in sketchbooks, and trying out new techniques (or practicing existing ones) as “administrative artwork”?
 
 <figure>
-  <img src="/images/post/20221008.png" alt="figure pencil sketches in small sketchbook" title="Experimenting with Vanderpoel figures and then applying to a circus performer sketch.">
+  <img src="/images/post/20221008.jpg" alt="figure pencil sketches in small sketchbook" title="Experimenting with Vanderpoel figures and then applying to a circus performer sketch.">
   <figcaption>Experimenting with Vanderpoel figures and then applying to a circus performer sketch.</figcaption>
 </figure>
 

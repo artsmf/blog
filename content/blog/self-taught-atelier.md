@@ -49,10 +49,10 @@ O.M.G! I actually created a decent portrait in pastels. The next week I grabbed 
 
 I was hooked and started researching how to create portraits and figures. This is how I found the atelier system of studying art.
 
-![pastel portrait of an old man](/images/post/20220806a.jpeg "Pastel portrait I completed during the workshop.")
+![pastel portrait of an old man](/images/post/20220806a.jpg "Pastel portrait I completed during the workshop.")
 <figcaption>Pastel portrait I completed during the workshop.</figcaption>
 
-![pastel portrait of a woman](/images/post/20220806b.jpeg "Pastel portrait I completed on my own using the system I learned in the workshop.")
+![pastel portrait of a woman](/images/post/20220806b.jpg "Pastel portrait I completed on my own using the system I learned in the workshop.")
 <figcaption>Pastel portrait I completed on my own using the system I learned in the workshop.</figcaption>
 
 ### What is the atelier system?
@@ -63,7 +63,7 @@ In the early 21st century, atelier-style schools of apprentices learning from ma
 
 Modern-day atelier programs students (apprentices) spend about seven hours a day, five days a week learning their craft. From my research, they spend three hours in the morning drawing from Bargue plates (more about this in a future post) and the entire afternoon working from a live model or still life setup. The instructor (or master artist) comes by to offer suggestions and help work out problems in the work. Depending on the atelier, this can happen every day or only a few days a week. There are end-of-the-term critiques, and students only progress to the next, more complex project upon successful completion of the current project. A solid foundation in drawing is acquired before moving to painting (in oils), and the complete atelier program takes anywhere from three to five years to complete. 
 
-![bargue plate of girl from the seine](/images/post/20220806c.png "girl from the seine")
+![bargue plate of girl from the seine](/images/post/20220806c.jpg "girl from the seine")
 ### Why I’m attracted to these atelier programs and the Academic method of study
 For me, these programs fulfill my need to learn strong observation skills and the hand/eye coordination to put what I see onto paper in an organized way (step 1 - observe; step 2 - notate the perimeter of the subject, the big shape; step 3 - notate relationships of smaller shapes, angles, points, and parallels; etc, etc). Having a framework like this gives me something to lean on as I approach more complicated subjects, like a portrait.
 

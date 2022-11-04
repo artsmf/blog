@@ -27,22 +27,22 @@ I am determined to finish this painting this weekend since it's been on my easel
 But I think I've put too much pressure on myself to "get it right" instead of just get what is. So to hold myself accountable, here is my progress thus far. I'll publish the finished piece early next week.
 
 <figure>
-  <img src="/images/post/20220827a.jpeg" alt="charcoal drawing on pumice board" title="After prepping the pumice board (which I make myself), I make the initial sketch in charcoal.">
+  <img src="/images/post/20220827a.jpg" alt="charcoal drawing on pumice board" title="After prepping the pumice board (which I make myself), I make the initial sketch in charcoal.">
   <figcaption>After prepping the pumice board (which I make myself), I make the initial sketch in charcoal.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/post/20220827.jpeg" alt="pastel painting progress portrait of mum" title="I added a bit of chalk before adding some background color to give myself a sense of the value scale.">
+  <img src="/images/post/20220827.jpg" alt="pastel painting progress portrait of mum" title="I added a bit of chalk before adding some background color to give myself a sense of the value scale.">
   <figcaption>I added a bit of chalk before adding some background color to give myself a sense of the value scale.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/post/20220827b.jpeg" alt="pastel painting progress portrait of mum" title="Next I lay in the initial blocks of color. I'm paying attention to value and the underlying color temperature at this stage..">
+  <img src="/images/post/20220827b.jpg" alt="pastel painting progress portrait of mum" title="Next I lay in the initial blocks of color. I'm paying attention to value and the underlying color temperature at this stage..">
   <figcaption>Next I lay in the initial blocks of color. I'm paying attention to value and the underlying color temperature at this stage.</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/post/20220827c.jpeg" alt="pastel painting progress portrait of mum" title="The portrait is getting closer to where it needs to be. At this point I can see I need to correct color/hue, but the temperature is correct. Once I do that I can begin to add details and textures.">
+  <img src="/images/post/20220827c.jpg" alt="pastel painting progress portrait of mum" title="The portrait is getting closer to where it needs to be. At this point I can see I need to correct color/hue, but the temperature is correct. Once I do that I can begin to add details and textures.">
   <figcaption>The portrait is getting closer to where it needs to be. At this point I can see I need to correct color/hue, but the temperature is correct. Once I do that I can begin to add details and textures.</figcaption>
 </figure>
 
