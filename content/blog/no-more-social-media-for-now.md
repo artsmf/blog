@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/post/20220917.png"
+image: "images/post/20220917.jpg"
 
 # meta description
 description: "Trying a no social media experiment for the rest of 2022."

@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/post/20220903.jpeg"
+image: "images/post/20220903.jpg"
 
 # meta description
 description: "Painting with Caran D'Ache Neocolor II crayons in my sketchbook."

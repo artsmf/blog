@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/post/20221015.png"
+image: "images/post/20221015.jpg"
 
 # meta description
 description: "an artist learns that the path to success is learning to master the act of bouncing back and remaining flexible"

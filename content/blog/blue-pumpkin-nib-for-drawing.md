@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/post/20220910.jpeg"
+image: "images/post/20220910.jpg"
 
 # meta description
 description: "Review of the Brause 361 Blue Pumpkin nib for drawing."

@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/projects/portrait-of-a-lady.jpeg"
+image: "images/projects/portrait-of-a-lady.jpg"
 
 # meta description
 description: "pastel portrait of a woman"

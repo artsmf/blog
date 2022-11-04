@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/projects/headers/book-arts.png"
+image: "images/projects/headers/book-arts.jpg"
 
 # meta description
 description: "Book artist Susannah Fisher creates structures to hold her narrative illustrations."

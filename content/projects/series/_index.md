@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/projects/headers/series.png"
+image: "images/projects/headers/series.jpg"
 
 # meta description
 description: "this is meta description"

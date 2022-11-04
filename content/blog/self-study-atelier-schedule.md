@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/post/20220820.png"
+image: "images/post/20220820.jpg"
 
 # meta description
 description: "Scheduling practice time and targeting what you practice will help you learn how to draw quicker."

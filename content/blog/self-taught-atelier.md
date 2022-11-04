@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/post/20220806.png"
+image: "images/post/20220806.jpg"
 
 # meta description
 description: "Designing your self-study atelier program with resources and tips to help you gain classical drawing and painting skills."

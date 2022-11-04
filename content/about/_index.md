@@ -4,7 +4,7 @@ date: 2019-10-29T13:49:23+06:00
 draft: false
 
 # image
-image: "images/selfie.png"
+image: "images/selfie.jpg"
 
 # meta description
 description: "Figurative artist and portrait painter Susannah Fisher accepts commissions for portrait painting and drawing."

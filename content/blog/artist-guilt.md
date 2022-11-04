@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/post/20221008a.png"
+image: "images/post/20221008a.jpg"
 
 # meta description
 description: "Feeling guilty for making art and some ideas for pushing through."

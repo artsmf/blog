@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/projects/headers/mail-art.png"
+image: "images/projects/headers/mail-art.jpg"
 
 # meta description
 description: "Beautiful calligraphy, thoughful pen and ink illustrations, and sweet embellishments by artist Susannah Fisher."

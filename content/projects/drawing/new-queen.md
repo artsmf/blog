@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/projects/new-queen.jpeg"
+image: "images/projects/new-queen.jpg"
 
 # meta description
 description: "Graphite study"

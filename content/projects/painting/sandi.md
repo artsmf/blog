@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/projects/sandi.jpeg"
+image: "images/projects/sandi.jpg"
 
 # meta description
 description: "Pastel portrait of YouTuber Sandi Hester"

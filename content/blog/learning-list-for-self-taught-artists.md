@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/post/20220813.png"
+image: "images/post/20220813.jpg"
 
 # meta description
 description: "A list of resources for the self-study classical painter"

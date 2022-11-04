@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/post/20220827.jpeg"
+image: "images/post/20220827.jpg"
 
 # meta description
 description: "Update on recent pastel portrait painting process."

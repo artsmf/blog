@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/projects/nell.jpeg"
+image: "images/projects/nell.jpg"
 
 # meta description
 description: "Graphite drawing of nell and her cat"

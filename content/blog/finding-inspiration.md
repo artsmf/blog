@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/post/20221001.png"
+image: "images/post/20221001.jpg"
 
 # meta description
 description: "Trying out Caran D'Ache Neocolor 2 water-soluble crayons for portraits and illustration projects in an attempt to get some inspiration and overcome art block."

@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/projects/ava.jpeg"
+image: "images/projects/ava.jpg"
 
 # meta description
 description: "Trois Crayons drawing using charcoal, sangine and a bit of white pastel."

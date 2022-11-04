@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/projects/wishes.png"
+image: "images/projects/wishes.jpg"
 
 # meta description
 description: "Graphite drawing of a woman making a wish."

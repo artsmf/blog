@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/projects/headers/illustration.png"
+image: "images/projects/headers/illustration.jpg"
 
 # meta description
 description: "Illustration by artist Susannah Fisher"

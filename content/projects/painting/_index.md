@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/projects/headers/portraits.png"
+image: "images/projects/headers/portraits.jpg"
 
 # meta description
 description: "Portrait painting and drawing by artist Susannah Fisher. She makes portraits using oil paint, soft pastels, or charcoal."
