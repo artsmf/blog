@@ -7,6 +7,9 @@ draft: true
 # post thumb
 image: "images/projects/placeholder.jpeg"
 
+#alt-text
+alt_text:  "abc"
+
 # meta description
 description: "Illustrations of places, objects, and imagination from illustrator Susannah Fisher"
 

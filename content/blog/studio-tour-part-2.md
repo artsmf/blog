@@ -7,6 +7,9 @@ draft: true
 # post thumb
 image: "images/post/placeholder.jpg"
 
+#alt-text
+alt_text:  "abc"
+
 # meta description
 description: "home studio tour of artist and freelance illustrator Susannah Fisher"
 

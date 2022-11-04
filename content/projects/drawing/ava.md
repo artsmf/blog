@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/projects/ava.jpg"
 
+#alt-text
+alt_text:  "portrait drawing of a young woman"
+
 # meta description
 description: "Trois Crayons drawing using charcoal, sangine and a bit of white pastel."
 

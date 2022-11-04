@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/projects/nell.jpg"
 
+#alt-text
+alt_text:  "graphite portrait of Nell with her cat Salem"
+
 # meta description
 description: "Graphite drawing of nell and her cat"
 

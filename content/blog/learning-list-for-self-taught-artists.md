@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/post/20220813.jpg"
 
+#alt-text
+alt_text:  "gouache painting of a stack of books"
+
 # meta description
 description: "A list of resources for the self-study classical painter"
 

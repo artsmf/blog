@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/post/20220820.jpg"
 
+#alt-text
+alt_text:  "photo of hands writing in a bullet journal"
+
 # meta description
 description: "Scheduling practice time and targeting what you practice will help you learn how to draw quicker."
 

@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/projects/sandi.jpg"
 
+#alt-text
+alt_text:  "pastel painting of sandi"
+
 # meta description
 description: "Pastel portrait of YouTuber Sandi Hester"
 

@@ -7,6 +7,9 @@ draft: true
 # post thumb
 image: "images/projects/headers/illustration.jpg"
 
+#alt-text
+alt_text:  "graphic that says illustration"
+
 # meta description
 description: "Illustration by artist Susannah Fisher"
 

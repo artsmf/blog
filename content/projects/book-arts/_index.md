@@ -7,6 +7,9 @@ draft: true
 # post thumb
 image: "images/projects/headers/book-arts.jpg"
 
+#alt-text
+alt_text:  "graphic that says book arts"
+
 # meta description
 description: "Book artist Susannah Fisher creates structures to hold her narrative illustrations."
 

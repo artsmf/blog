@@ -7,6 +7,9 @@ draft: true
 # post thumb
 image: "images/post/placeholder.jpg"
 
+#alt-text
+alt_text:  "abc"
+
 # meta description
 description: "I don't know how to be an artist. Isn't it just a big beautiful learning curve?"
 

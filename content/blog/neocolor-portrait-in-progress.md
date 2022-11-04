@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/post/20220903.jpg"
 
+#alt-text
+alt_text:  "unfinished sketch of a portrait"
+
 # meta description
 description: "Painting with Caran D'Ache Neocolor II crayons in my sketchbook."
 

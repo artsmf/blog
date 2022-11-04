@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/projects/new-queen.jpg"
 
+#alt-text
+alt_text:  "graphite drawing of a woman holding a crown made of crystals on her head to keep it from falling off"
+
 # meta description
 description: "Graphite study"
 

@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/post/20220910.jpg"
 
+#alt-text
+alt_text:  "video cover image of sketchbook page"
+
 # meta description
 description: "Review of the Brause 361 Blue Pumpkin nib for drawing."
 

@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/post/20221001.jpg"
 
+#alt-text
+alt_text:  "mixed media sketch of a jar with slips of paper in it"
+
 # meta description
 description: "Trying out Caran D'Ache Neocolor 2 water-soluble crayons for portraits and illustration projects in an attempt to get some inspiration and overcome art block."
 

@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/projects/portrait-of-a-lady.jpg"
 
+#alt-text
+alt_text:  "pastel portrait"
+
 # meta description
 description: "pastel portrait of a woman"
 

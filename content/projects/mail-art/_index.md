@@ -7,6 +7,9 @@ draft: true
 # post thumb
 image: "images/projects/headers/mail-art.jpg"
 
+#alt-text
+alt_text:  "graphic that says mail art"
+
 # meta description
 description: "Beautiful calligraphy, thoughful pen and ink illustrations, and sweet embellishments by artist Susannah Fisher."
 

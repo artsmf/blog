@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/post/20221008a.jpg"
 
+#alt-text
+alt_text:  "sketch in pencil of an elderly woman laughing while wearing a hat"
+
 # meta description
 description: "Feeling guilty for making art and some ideas for pushing through."
 

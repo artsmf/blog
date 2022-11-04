@@ -6,6 +6,9 @@ draft: true
 # image
 image: ""
 
+#alt-text
+alt_text:  "abc"
+
 # meta description
 description: "TK"
 

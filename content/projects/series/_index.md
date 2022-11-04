@@ -7,6 +7,9 @@ draft: true
 # post thumb
 image: "images/projects/headers/series.jpg"
 
+#alt-text
+alt_text:  "graphic what says series"
+
 # meta description
 description: "this is meta description"
 

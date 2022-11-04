@@ -7,6 +7,9 @@ draft: true
 # post thumb
 image: "images/post/20220917.jpg"
 
+#alt-text
+alt_text:  "graphic of young artist looking at her mobile phone"
+
 # meta description
 description: "Trying a no social media experiment for the rest of 2022."
 

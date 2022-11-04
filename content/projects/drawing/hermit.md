@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/projects/hermit02.jpg"
 
+#alt-text
+alt_text:  "Portrait drawing of an elderly man"
+
 # meta description
 description: "Trois Crayons drawing using charcoal, sangine and a bit of white pastel."
 

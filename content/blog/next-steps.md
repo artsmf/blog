@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/post/20221015.jpg"
 
+#alt-text
+alt_text:  "sketch of a chateau"
+
 # meta description
 description: "an artist learns that the path to success is learning to master the act of bouncing back and remaining flexible"
 

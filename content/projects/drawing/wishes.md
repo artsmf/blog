@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/projects/wishes.jpg"
 
+#alt-text
+alt_text:  "graphite drawing of woman blowing on a dandelion"
+
 # meta description
 description: "Graphite drawing of a woman making a wish."
 

@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/post/20220827.jpg"
 
+#alt-text
+alt_text:  "unfinished pastel painting of a woman"
+
 # meta description
 description: "Update on recent pastel portrait painting process."
 

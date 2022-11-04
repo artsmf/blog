@@ -7,6 +7,9 @@ draft: false
 # post thumb
 image: "images/projects/headers/portraits.jpg"
 
+#alt-text
+alt_text:  "graphic that says portraits"
+
 # meta description
 description: "Portrait painting and drawing by artist Susannah Fisher. She makes portraits using oil paint, soft pastels, or charcoal."
 

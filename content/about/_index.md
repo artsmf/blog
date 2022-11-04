@@ -6,6 +6,9 @@ draft: false
 # image
 image: "images/selfie.jpg"
 
+#alt-text
+alt_text:  "selfie photograph"
+
 # meta description
 description: "Figurative artist and portrait painter Susannah Fisher accepts commissions for portrait painting and drawing."
 
