@@ -1,5 +1,5 @@
 ---
-title: "Portraits"
+title: "Painting"
 date: 2022-10-08T14:57:35-04:00
 author: "Susannah Fisher"
 draft: false

@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://susannahfisher.art/"
 languageCode = "en-us"
-title = "From The Easel"
+title = "Susannah Fisher"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
@@ -69,29 +69,17 @@ parent = "projects"
 URL = "projects/drawing/"
 weight = 2
 
-# [[menu.main]]
-# name = "Nature Journals"
-# parent = "projects"
-# URL = "projects/nature-journals/"
-# weight = 2
+[[menu.main]]
+name = "Illustration"
+parent = "projects"
+URL = "projects/illustration/"
+weight = 3
 
-# [[menu.main]]
-# name = "Illustration"
-# parent = "projects"
-# URL = "projects/illustration/"
-# weight = 3
-
-# [[menu.main]]
-# name = "Book Arts"
-# parent = "projects"
-# URL = "projects/book-arts/"
-# weight = 4
-
-# [[menu.main]]
-# name = "Mail Art"
-# parent = "projects"
-# URL = "projects/mail-art/"
-# weight = 5
+[[menu.main]]
+name = "Series"
+parent = "projects"
+URL = "projects/series/"
+weight = 4
 
 # Workshops
 
@@ -132,10 +120,10 @@ name = "About"
 URL = "about/"
 weight = 50
 
-# [[menu.main]]
-# name = "Shop"
-# URL = "https://shop.susannahfisher.art/"
-# weight = 60
+[[menu.main]]
+name = "Shop"
+URL = "https://shop.susannahfisher.art/"
+weight = 60
 
 # footer menu
 
@@ -172,7 +160,7 @@ weight = 50
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = ""
 home = "Home"
 # Meta data
 description = "Susannah Fisher is an artiist and illustrator specializing in Classical Realism art. From The Easel is a blog of inspiration, encouragement and behind-the-scenes glimpses from the artist's studio. Posts about projects, art tutorials, and thoughts about an artist's life."
