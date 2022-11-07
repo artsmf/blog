@@ -81,6 +81,26 @@ parent = "projects"
 URL = "projects/series/"
 weight = 4
 
+# Series
+
+[[menu.main]]
+identifier = "series"
+name = "Series"
+URL = "/projects/series/"
+weight = 2
+
+[[menu.main]]
+name = "Folktale Week 2022"
+parent = "series"
+URL = "projects/series/folktaleweek2022/"
+weight = 1
+
+[[menu.main]]
+name = "30 Sketchbook Prompts"
+parent = "series"
+URL = "projects/series/30-sketchbook-prompts/"
+weight = 2
+
 # Workshops
 
 # [[menu.main]]
