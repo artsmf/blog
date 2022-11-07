@@ -1,7 +1,7 @@
 ---
 title: "Learning Communities"
 date: 2022-10-12T20:24:23-04:00
-draft: false
+draft: true
 
 # meta description
 description: ""

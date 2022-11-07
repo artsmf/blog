@@ -96,10 +96,28 @@ URL = "projects/series/folktaleweek2022/"
 weight = 1
 
 [[menu.main]]
+name = "Hygge"
+parent = "series"
+URL = "projects/series/hygge/"
+weight = 2
+
+[[menu.main]]
+name = "Amelie"
+parent = "series"
+URL = "projects/series/amelie/"
+weight = 3
+
+[[menu.main]]
+name = "100 Heads"
+parent = "series"
+URL = "projects/series/100-heads/"
+weight = 4
+
+[[menu.main]]
 name = "30 Sketchbook Prompts"
 parent = "series"
 URL = "projects/series/30-sketchbook-prompts/"
-weight = 2
+weight = 5
 
 # Workshops
 

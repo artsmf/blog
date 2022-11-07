@@ -1,8 +1,8 @@
 ---
 title: "Why jumping feet first into your next project is a fabulous idea"
-date: 2022-11-06T17:58:40-05:00
+date: 2022-11-12T00:58:40-05:00
 author: "Susannah Fisher"
-draft: false
+draft: true
 
 # post thumb
 image: "images/post/20221112.jpg"

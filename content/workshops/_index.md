@@ -1,7 +1,7 @@
 ---
 title: "Workshops"
 date: 2022-09-22T11:00:06-04:00
-draft: false
+draft: true
 
 # image
 image: ""
