@@ -39,7 +39,7 @@
           {{ end }}
         </ul>
 
-        <!-- <div class="desktop-view">
+        <div class="desktop-view">
           <ul class="navbar-nav mr-auto">
             {{ range .Site.Params.social }}
             <li class="nav-item">
@@ -47,9 +47,9 @@
             </li>
             {{ end }}
           </ul>
-        </div> -->
+        </div>
 
-        <!-- {{ if .Site.Params.search.enable }}
+        {{ if .Site.Params.search.enable }}
         {{ "<!-- search -->" | safeHTML }}
         <div class="search pl-lg-4">
           <button id="searchOpen" class="search-btn"><i class="ti-search"></i></button>
@@ -60,7 +60,7 @@
             <button id="searchClose" class="search-close"><i class="ti-close text-dark"></i></button>
           </div>
         </div>
-        {{ end }} -->
+        {{ end }}
 
         {{ if .Site.Params.navButton.enable }}
         {{ "<!-- get start btn -->" | safeHTML }}
