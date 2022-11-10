@@ -119,6 +119,12 @@ parent = "series"
 URL = "projects/series/30-sketchbook-prompts/"
 weight = 5
 
+[[menu.main]]
+name = "Ladyhawk"
+parent = "series"
+URL = "projects/series/ladyhawk/"
+weight = 5
+
 # Workshops
 
 # [[menu.main]]
@@ -250,7 +256,12 @@ link = "https://pinterest.com/smfisherart"
 [[params.social]]
 title = "substack"
 icon = "ti-gift" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://anilluminatedlife.substack.com/"
+
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/principlesofuncertainty/"
 
 [[params.social]]
 title = "youtube"
