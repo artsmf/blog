@@ -39,8 +39,3 @@ is to provide information and camaraderie. I hope to provide my readers with too
 
 I've lived many places all over the United States, but found home in New England. I live near a national park and work from a studio that overlooks the woods where a Barred Owl family resides. When I’m not making art, I’m voraciously reading, taking long walks, knitting, and trying to be a better human.
 
-***
-### Let's Work Together
-For work inquiries, or to say hello, [please email me](mailto:info@susannahfisher.art).<br> 
-Interested in learning with me? Visit the [Learning Communities page](/learning-communities/).<br>
-For studio updates, news, and upcoming workshops, sign up for my newsletter below.<br>

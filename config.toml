@@ -254,11 +254,6 @@ icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
 link = "https://pinterest.com/smfisherart"
 
 [[params.social]]
-title = "substack"
-icon = "ti-gift" # themify icon : https://themify.me/themify-icons
-link = "https://anilluminatedlife.substack.com/"
-
-[[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/principlesofuncertainty/"
