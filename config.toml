@@ -95,22 +95,22 @@ parent = "series"
 URL = "projects/series/folktaleweek2022/"
 weight = 1
 
-[[menu.main]]
-name = "Hygge"
-parent = "series"
-URL = "projects/series/hygge/"
-weight = 2
+# [[menu.main]]
+# name = "Hygge"
+# parent = "series"
+# URL = "projects/series/hygge/"
+# weight = 2
+
+# [[menu.main]]
+# name = "Amelie"
+# parent = "series"
+# URL = "projects/series/amelie/"
+# weight = 3
 
 [[menu.main]]
-name = "Amelie"
+name = "Painted Ladies"
 parent = "series"
-URL = "projects/series/amelie/"
-weight = 3
-
-[[menu.main]]
-name = "100 Heads"
-parent = "series"
-URL = "projects/series/100-heads/"
+URL = "projects/series/painted-ladies/"
 weight = 4
 
 [[menu.main]]
@@ -119,11 +119,11 @@ parent = "series"
 URL = "projects/series/30-sketchbook-prompts/"
 weight = 5
 
-[[menu.main]]
-name = "Ladyhawk"
-parent = "series"
-URL = "projects/series/ladyhawk/"
-weight = 5
+# [[menu.main]]
+# name = "Ladyhawk"
+# parent = "series"
+# URL = "projects/series/ladyhawk/"
+# weight = 5
 
 # Workshops
 

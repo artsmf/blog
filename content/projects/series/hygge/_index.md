@@ -2,7 +2,7 @@
 title: "Hygge"
 date: 2022-11-07T08:15:06-05:00
 author: "Susannah Fisher"
-draft: false
+draft: true
 
 # post thumb
 image: "images/projects/placeholder.jpeg"
