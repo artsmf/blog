@@ -89,11 +89,11 @@ name = "Series"
 URL = "/projects/series/"
 weight = 2
 
-[[menu.main]]
-name = "Folktale Week 2022"
-parent = "series"
-URL = "projects/series/folktaleweek2022/"
-weight = 1
+# [[menu.main]]
+# name = "Folktale Week 2022"
+# parent = "series"
+# URL = "projects/series/folktaleweek2022/"
+# weight = 1
 
 # [[menu.main]]
 # name = "Hygge"
@@ -111,19 +111,19 @@ weight = 1
 name = "Painted Ladies"
 parent = "series"
 URL = "projects/series/painted-ladies/"
-weight = 4
+weight = 1
 
 [[menu.main]]
 name = "30 Sketchbook Prompts"
 parent = "series"
 URL = "projects/series/30-sketchbook-prompts/"
-weight = 5
+weight = 2
 
 # [[menu.main]]
 # name = "Ladyhawk"
 # parent = "series"
 # URL = "projects/series/ladyhawk/"
-# weight = 5
+# weight = 3
 
 # Workshops
 
@@ -171,10 +171,15 @@ weight = 60
 
 # footer menu
 
-# [[menu.footer]]
-# name = "Projects"
-# URL = "projects/"
-# weight = 20
+[[menu.footer]]
+name = "Projects"
+URL = "projects/"
+weight = 20
+
+[[menu.footer]]
+name = "Series"
+URL = "projects/series/"
+weight = 25
 
 # [[menu.footer]]
 # name = "Workshops"

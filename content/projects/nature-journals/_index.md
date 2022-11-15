@@ -2,7 +2,7 @@
 title: "Nature Journals"
 date: 2022-10-12T20:37:01-04:00
 author: "Susannah Fisher"
-draft: false
+draft: true
 
 # post thumb
 image: "images/projects/placeholder.jpeg"
