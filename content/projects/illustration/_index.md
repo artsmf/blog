@@ -2,7 +2,7 @@
 title: "Illustration"
 date: 2022-10-08T14:20:02-04:00
 author: "Susannah Fisher"
-draft: false
+draft: true
 
 # post thumb
 image: "images/projects/headers/illustration.jpg"

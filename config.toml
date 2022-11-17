@@ -69,55 +69,43 @@ parent = "projects"
 URL = "projects/drawing/"
 weight = 2
 
-[[menu.main]]
-name = "Illustration"
-parent = "projects"
-URL = "projects/illustration/"
-weight = 3
+# [[menu.main]]
+# name = "Illustration"
+# parent = "projects"
+# URL = "projects/illustration/"
+# weight = 3
 
-[[menu.main]]
-name = "Series"
-parent = "projects"
-URL = "projects/series/"
-weight = 4
+# [[menu.main]]
+# # name = "Series"
+# parent = "projects"
+# URL = "projects/series/"
+# weight = 4
 
 # Series
 
-[[menu.main]]
-identifier = "series"
-name = "Series"
-URL = "/projects/series/"
-weight = 2
-
 # [[menu.main]]
-# name = "Folktale Week 2022"
-# parent = "series"
-# URL = "projects/series/folktaleweek2022/"
-# weight = 1
+# identifier = "series"
+# name = "Series"
+# URL = "/projects/series/"
+# weight = 2
 
 # [[menu.main]]
 # name = "Hygge"
 # parent = "series"
 # URL = "projects/series/hygge/"
+# weight = 1
+
+# [[menu.main]]
+# name = "Painted Ladies"
+# parent = "series"
+# URL = "projects/series/painted-ladies/"
 # weight = 2
 
 # [[menu.main]]
-# name = "Amelie"
+# name = "30 Sketchbook Prompts"
 # parent = "series"
-# URL = "projects/series/amelie/"
+# URL = "projects/series/30-sketchbook-prompts/"
 # weight = 3
-
-[[menu.main]]
-name = "Painted Ladies"
-parent = "series"
-URL = "projects/series/painted-ladies/"
-weight = 1
-
-[[menu.main]]
-name = "30 Sketchbook Prompts"
-parent = "series"
-URL = "projects/series/30-sketchbook-prompts/"
-weight = 2
 
 # [[menu.main]]
 # name = "Ladyhawk"
@@ -125,37 +113,12 @@ weight = 2
 # URL = "projects/series/ladyhawk/"
 # weight = 3
 
-# Workshops
-
-# [[menu.main]]
-# identifier = "workshops"
-# name = "Workshops"
-# URL = "workshops/"
-# weight = 2
-
-# [[menu.main]]
-# name = "Book Arts"
-# parent = "workshops"
-# URL = "workshops/book-arts/"
-# weight = 1
-
-# [[menu.main]]
-# name = "Visual Journaling"
-# parent = "workshops"
-# URL = "workshops/journaling/"
-# weight = 2
-
 # Blog
 
 [[menu.main]]
 name = "Blog"
 URL = "blog/"
 weight = 30
-
-# [[menu.main]]
-# name = "Learning Communities"
-# URL = "learning-communities/"
-# weight = 35
 
 # About
 
@@ -176,14 +139,9 @@ name = "Projects"
 URL = "projects/"
 weight = 20
 
-[[menu.footer]]
-name = "Series"
-URL = "projects/series/"
-weight = 25
-
 # [[menu.footer]]
-# name = "Workshops"
-# URL = "workshops/"
+# name = "Series"
+# URL = "projects/series/"
 # weight = 25
 
 [[menu.footer]]
@@ -191,20 +149,15 @@ name = "Blog"
 URL = "blog/"
 weight = 30
 
-# [[menu.footer]]
-# name = "Learning Communities"
-# URL = "learning-communities/"
-# weight = 40
-
 [[menu.footer]]
 name = "About"
 URL = "about/"
 weight = 50
 
-# [[menu.footer]]
-# name = "Shop"
-# URL = "https://shop.susannahfisher.art/"
-# weight = 60
+[[menu.footer]]
+name = "Shop"
+URL = "https://shop.susannahfisher.art/"
+weight = 60
 
 
 #################### default parameters ################################
@@ -261,7 +214,7 @@ link = "https://pinterest.com/smfisherart"
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "https://www.instagram.com/principlesofuncertainty/"
+link = "https://www.instagram.com/fisherportraits/"
 
 [[params.social]]
 title = "youtube"
