@@ -2,7 +2,7 @@
 baseURL = "https://susannahfisher.art/"
 languageCode = "en-us"
 title = "Susannah Fisher"
-theme = "liva-hugo"
+theme = "fte"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
