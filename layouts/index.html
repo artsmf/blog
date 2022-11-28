@@ -1,35 +1,8 @@
 {{ define "main" }}
 
 <!-- hero area -->
-<section class="section-sm hero">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-10">
-        <!-- featured project -->
-        {{ range first 1 ( where .Site.RegularPages "Type" "featured-project" )}}
-        <article class="card featured-post">
-          <div class="row no-gutters align-items-center">
-            <div class="col-md-7">
-              {{ if .Params.Image }}
-              <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="{{ .Params.alt_text }}" class="card-img-top" alt="{{ .Title | markdownify }}">
-              </a>              
-              {{ end }}
-            </div>
-            <div class="col-md-4 offset-md-1">
-              <div class="card-body">
-                <a href="{{ .Permalink }}"
-                  class="h1 font-weight-bold d-block text-dark mb-4 card-title">{{ .Title | markdownify }}</a>
-                <p class="card-text">{{.Summary}}</p>
-                <!-- <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a> -->
-              </div>
-            </div>
-          </div>
-        </article>
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
+{{ "<!-- feature -->" | safeHTML }}
+{{ partial "feature.html" . }}
 <!-- /hero area -->
 
 <!-- projects -->
@@ -37,75 +10,14 @@
 {{ partial "gallery.html" . }}
 <!-- /projects -->
 
-<!-- recent post -->
-<!-- <section class="recent-three">
-  <div class="container">
-    <div class="row justify-content-center" style="padding-bottom: 3em;">
-      <h4>Recently on the blog...</h4>
-    </div>
-    <div class="row">      
-      {{ range first 3 (where .Site.RegularPages "Type" "post")}}
-      <div class="col-lg-4 small-post-border">
-        <article class="media">
-          {{ if .Params.Image }}
-          <div class="recent-post-thumb mr-3" style="background-image: url('{{ .Params.Image | absURL }}');"></div>
-          {{ end }}
-          <div class="media-body">
-            <div class="mb-3 post-meta">
-              <span>By {{ .Site.Params.Author }}</span>
-              {{ if not .Params.HideDate }}
-              <span class="border-bottom border-primary px-2 mx-1"></span>
-              <span>{{ .PublishDate.Format "02 Jan 2006" }}</span>
-              {{ end }}
-            </div>
-            <a href="{{ .Permalink }}" class="h5 d-block mb-3">{{ .Title | markdownify }}</a>
-            <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
-          </div>
-        </article>
-      </div>
-      {{ end }}
-    </div>
-  </div>
-</section> -->
-<!-- /recent post -->
+<!-- workshops -->
+{{ "<!-- workshops -->" | safeHTML }}
+{{ partial "workshops.html" . }}
+<!-- /workshops -->
 
-<!-- featured post 
-<section class="section-sm">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-10">
-        <h4>Recently on the blog...</h4>
-        slider item 
-        {{ range first 1 ( where .Site.RegularPages "Type" "post" )}}
-        <article class="card one-feature">
-          <div class="row no-gutters align-items-center">
-            <div class="col-md-5">
-              {{ if .Params.Image }}
-              <img src="{{ .Params.Image | absURL }}" class="card-img" alt="{{ .Title | markdownify }}">
-              {{ end }}
-            </div>
-            <div class="col-md-6 offset-md-1">
-              <div class="card-body">
-                <div class="mb-3 post-meta">
-                  <span>By {{ .Site.Params.Author }}</span>
-                  {{ if not .Params.HideDate }}
-                  <span class="border-bottom border-primary px-2 mx-1"></span>
-                  <span>{{ .PublishDate.Format "02 January 2006" }}</span>
-                  {{ end }}
-                </div>
-                <a href="{{ .Permalink }}"
-                  class="h1 font-weight-bold d-block text-dark mb-4 card-title">{{ .Title | markdownify }}</a>
-                <p class="card-text">{{.Summary}}...</p>
-                <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
-              </div>
-            </div>
-          </div>
-        </article>
-        {{ end }}
-      </div>
-    </div>
-  </div>
-</section>
-/featured post -->
+<!-- recent post -->
+{{ "<!-- latest -->" | safeHTML }}
+{{ partial "recents.html" . }}
+<!-- /recent post -->
 
 {{ end }}

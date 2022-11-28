@@ -2,7 +2,7 @@
 baseURL = "https://susannahfisher.art/"
 languageCode = "en-us"
 title = "Susannah Fisher"
-theme = "fte"
+theme = "pou"
 summaryLength = "10"
 paginate = 6
 disqusShortname = ""
@@ -52,34 +52,9 @@ URL = "plugins/search/search.js"
 # Projects
 
 [[menu.main]]
-identifier = "projects"
-name = "Projects"
-URL = "/projects"
+name = "Work"
+URL = "work/"
 weight = 1
-
-[[menu.main]]
-name = "Painting"
-parent = "projects"
-URL = "projects/painting/"
-weight = 1
-
-[[menu.main]]
-name = "Drawing"
-parent = "projects"
-URL = "projects/drawing/"
-weight = 2
-
-# [[menu.main]]
-# name = "Illustration"
-# parent = "projects"
-# URL = "projects/illustration/"
-# weight = 3
-
-# [[menu.main]]
-# # name = "Series"
-# parent = "projects"
-# URL = "projects/series/"
-# weight = 4
 
 # Series
 
@@ -120,23 +95,34 @@ name = "Blog"
 URL = "blog/"
 weight = 30
 
+# Workshops
+
+[[menu.main]]
+name = "Workshops"
+URL = "workshops/"
+weight = 40
+
+
 # About
 
 [[menu.main]]
 name = "About"
 URL = "about/"
-weight = 50
+weight = 60
+
+# Shop
 
 [[menu.main]]
 name = "Shop"
 URL = "https://shop.susannahfisher.art/"
-weight = 60
+weight = 70
+
 
 # footer menu
 
 [[menu.footer]]
-name = "Projects"
-URL = "projects/"
+name = "Work"
+URL = "work/"
 weight = 20
 
 # [[menu.footer]]
