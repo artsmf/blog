@@ -4,7 +4,7 @@
   height: 100%;
   text-align: center;
   width: 100%;
-  background: $ltpeach;
+  background: $ashgray;
 
   margin: 0;
   padding: 0;
@@ -12,7 +12,7 @@
 
     p {
       padding-top: 1%;
-      color: #333 !important;
+      color: $white !important;
       font-family: Raleway, sans;
       font-size: 1em;
       font-weight: 400;
@@ -21,12 +21,12 @@
 }
 
 .announcement a { 
-  color: $gold;
+  color: $link;
   font-weight: 500; 
 }
 
 .announcement a:hover {
-  color: $peach;
+  color: $link-hover;
 }
 
 /* card */
@@ -62,7 +62,7 @@
       width: 100%;
       height: 100%;
       background: rgba(0, 0, 0, 0.6);
-      color: #ffffff;
+      color: $white;
       font-family: 'Quicksand', sans-serif;
       display: flex;
       flex-direction: column;
@@ -133,8 +133,8 @@
 .one-feature {
   padding: 3em;
   margin: 1em;
-  background: $ltpeach;
-  border: .8px solid $peach;
+  background: $gainsboro;
+  border: .8px solid $brnsugar;
   border-radius: 6%;
 }
 
@@ -152,18 +152,18 @@
   .card-body {
     
     a {
-      color: $dkblue;
+      color: $link;
 
       &:hover {
-        color: $gold;
+        color: $link-hover;
       }
     }
 
     p a {
-      color: $dkblue !important;
+      color: $link !important;
 
       &:hover {
-        color: $gold !important;
+        color: $link-hover !important;
       }
     }
 
@@ -260,19 +260,19 @@
     }
 
     a {
-      color: $dkblue;
+      color: $link;
       text-transform: capitalize;
 
       &:hover {
-        color: $gold;
+        color: $link-hover;
       }
     }
 
     p a {
-      color: $dkblue !important;
+      color: $link !important;
 
       &:hover {
-        color: $gold !important;
+        color: $link-hover !important;
       }
     }
   }
@@ -280,7 +280,7 @@
 
 .post-meta {
   span {
-    color: #444;
+    color: $text-color;
     font-weight: 300;
   }
 
@@ -325,21 +325,21 @@
 }
 
 figcaption {
-  color: $dkblue;
+  color: $brnsugar;
   font-style: italic;
   text-align: center;
 }
 
 .make-art {
-  background: $ltpeach;
+  background: $gainsboro;
   margin: 5em 0 0 0;
   padding: 3em;
 
   a {
-    color:$dkblue !important;
+    color:$link !important;
 
     &:hover {
-      color: $gold !important;
+      color: $link-hover !important;
     }
   
   }
@@ -374,7 +374,7 @@ figcaption {
       color: $primary-color;
 
       &:hover {
-        color: $gold;
+        color: $link-hover;
       }
     }
   }
@@ -391,7 +391,7 @@ figcaption {
       line-height: 35px;
 
       &:hover {
-        background: $gold;
+        background: $primary-color;
         color: $white !important;
       }
     }
@@ -404,7 +404,7 @@ figcaption {
 
   /* custom CSS */
   .page-item .page-link {
-    border: .5px solid $gold; 
+    border: .5px solid $brnsugar; 
     border-top: 0;
     border-bottom: 0;
   }
@@ -455,10 +455,10 @@ figcaption {
   padding-right: none;
   
   a {
-    color: $gold;
+    color: $link;
 
     &:hover {
-      color: $dkblue;
+      color: $link-hover;
     }
   }
 }
@@ -510,10 +510,10 @@ figcaption {
 
 #search-results {
   h4 a {
-    color: $dkblue;
+    color: $link;
 
     &:hover {
-      color: $gold;
+      color: $link-hover;
     }
   }
 }
@@ -542,7 +542,7 @@ figcaption {
     padding-left: 2em;
 
     li {
-      color: $gold;
+      color: $text-color;
       position: relative;
       padding-left: 20px;
       margin-bottom: 15px;
@@ -578,11 +578,11 @@ figcaption {
     }
 
     thead {
-      background: darken($color: $gray, $amount: 2);
+      background: darken($color: $ashgray, $amount: 2);
     }
 
     tbody {
-      background: $gray;
+      background: $ashgray;
 
       td {
         text-align: left !important;
@@ -593,7 +593,7 @@ figcaption {
 
   blockquote {
     padding: 20px;
-    background: $gray;
+    background: $gainsboro;
     border-left: 3px solid $primary-color;
 
     p {
@@ -606,7 +606,7 @@ figcaption {
 
   pre {
     padding: 10px 20px;
-    background: $gray;
+    background: $ashgray;
 
     code {
       border: 0;
@@ -616,7 +616,7 @@ figcaption {
   }
 
   a {
-    color: $primary-color;
+    color: $link;
 
     &:hover {
       text-decoration: underline;
@@ -625,7 +625,7 @@ figcaption {
 
   code {
     padding: 3px 5px;
-    background: $gray;
+    background: $gainsboro;
     border: 1px solid $border-color;
     border-radius: 3px;
     color: $text-color-dark;
@@ -640,7 +640,7 @@ footer {
 footer a {
   @extend .text-dark;
   &:hover {
-    color: $gold !important;
+    color: $primary-color !important;
   }
 }
 
@@ -649,7 +649,7 @@ footer a {
 /* Other Custom CSS */
 
 .section-border {
-  border-bottom: 0.5px solid $dkblue !important;
+  border-bottom: 0.5px solid $border-color !important;
   padding: 5% 0;
 }
 
@@ -658,5 +658,5 @@ hr {
   height: 0;
   margin-top: 1rem;
   border: 0;
-  border-top: 0.5px solid $dkblue !important;
+  border-top: 0.5px solid $border-color !important;
 }

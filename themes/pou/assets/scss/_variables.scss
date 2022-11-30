@@ -1,19 +1,23 @@
 // Color Variables
-$primary-color: #83c9c9;
-$text-color: #333333;
-$text-color-dark: #333333;
-$text-color-light: #959595;
+$primary-color: #be6e46;
+$text-color: #373737;
+$text-color-dark: #373737;
+$text-color-light: #acbdba;
 $body-color: #fff;
-$border-color: #ddf0f0;
+$border-color: #ae8e1c;
 $black: #000;
 $white: #fff;
-$gray: #f4fcff;
-$ltpeach: #fcebe8;
-$peach: #EE8F7E;
-$ltblue: #edf7f7;
-$blue: #DDF0F0;
-$dkblue: #83c9c9;
-$gold: #D49041;
+
+$header: $text-color-light;
+$rule: $border-color;
+$link: $border-color;
+$link-hover: $primary-color;
+
+$jet: #373737;
+$ashgray: #acbdba;
+$gainsboro: #cddddd;
+$dkgoldenrod: #ae8e1c;
+$brnsugar: #be6e46;
 
 // Font Variables
 $primary-font: 'Raleway', sans-serif;

@@ -21,7 +21,7 @@
 
 .btn-primary {
   background: $primary-color;
-  color: $white;
+  color: $white !important;
   border-color: $primary-color;
 
   &:active,
@@ -44,6 +44,6 @@
   &.active {
     background: $primary-color !important;
     border-color: $primary-color !important;
-    color: $white;
+    color: $white !important;
   }
 }

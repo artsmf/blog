@@ -5,15 +5,20 @@
 {{ partial "feature.html" . }}
 <!-- /hero area -->
 
+<!-- newsletter -->
+{{ "<!-- newsletter -->" | safeHTML }}
+{{ partial "optin.html" . }}
+<!--- /newsletter -->
+
 <!-- projects -->
 {{ "<!-- gallery -->" | safeHTML }}
 {{ partial "gallery.html" . }}
 <!-- /projects -->
 
-<!-- workshops -->
-{{ "<!-- workshops -->" | safeHTML }}
-{{ partial "workshops.html" . }}
-<!-- /workshops -->
+<!-- promotions -->
+{{ "<!-- promotions -->" | safeHTML }}
+{{ partial "promos.html" . }}
+<!-- /promotions -->
 
 <!-- recent post -->
 {{ "<!-- latest -->" | safeHTML }}

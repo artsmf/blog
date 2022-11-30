@@ -1,0 +1,19 @@
+
+<section class="section pb-0 fp-projects">
+    <div class="container">
+      <div class="row">
+        <div class="col-12 mb-5 mb-lg-0">
+          <div class="row">
+            {{ range first 3 ( where .Site.Pages "Type" "workshops" )}}
+            <div class="col-md-4 mb-4">
+              <article class="card">
+                {{ if .Params.Image }}
+                <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="{{ .Params.alt_text }}" class="card-img-top fp-card" alt="{{ .Title | markdownify }}"></a>
+                {{ end }}
+              </article>
+            </div>
+            {{ end }}
+          </div>
+      </div>
+    </div>
+  </section>  
