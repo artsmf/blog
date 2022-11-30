@@ -5,15 +5,15 @@
 {{ partial "feature.html" . }}
 <!-- /hero area -->
 
-<!-- newsletter -->
-{{ "<!-- newsletter -->" | safeHTML }}
-{{ partial "optin.html" . }}
-<!--- /newsletter -->
-
 <!-- projects -->
 {{ "<!-- gallery -->" | safeHTML }}
 {{ partial "gallery.html" . }}
 <!-- /projects -->
+
+<!-- about -->
+{{ "<!-- about -->" | safeHTML }}
+{{ partial "bio.html" . }}
+<!--- /about -->
 
 <!-- promotions -->
 {{ "<!-- promotions -->" | safeHTML }}
@@ -24,5 +24,11 @@
 {{ "<!-- latest -->" | safeHTML }}
 {{ partial "recents.html" . }}
 <!-- /recent post -->
+
+<!-- newsletter -->
+{{ "<!-- newsletter -->" | safeHTML }}
+{{ partial "optin.html" . }}
+<!--- /newsletter -->
+
 
 {{ end }}
