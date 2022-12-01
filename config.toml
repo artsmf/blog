@@ -95,11 +95,11 @@ name = "Blog"
 URL = "blog/"
 weight = 30
 
-# Workshops
+# Shop
 
 [[menu.main]]
-name = "Workshops"
-URL = "workshops/"
+name = "Shop"
+URL = "https://shop.susannahfisher.art/"
 weight = 40
 
 
@@ -110,12 +110,7 @@ name = "About"
 URL = "about/"
 weight = 60
 
-# Shop
 
-[[menu.main]]
-name = "Shop"
-URL = "https://shop.susannahfisher.art/"
-weight = 70
 
 
 # footer menu
@@ -192,20 +187,20 @@ expire_days = 2
 
 
 ############################# social site ########################
+# [[params.social]]
+# title = "pinterest"
+# icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
+# link = "https://pinterest.com/smfisherart"
+
 [[params.social]]
-title = "pinterest"
-icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
-link = "https://pinterest.com/smfisherart"
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://www.instagram.com/principlesofuncertainty/"
 
 # [[params.social]]
-# title = "instagram"
-# icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-# link = "https://www.instagram.com/fisherportraits/"
-
-[[params.social]]
-title = "youtube"
-icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-link = "https://www.youtube.com/channel/UCpIZrghBZk-VmV6OZ6HMcfw"
+# title = "youtube"
+# icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+# link = "https://www.youtube.com/channel/UCdVu9BrqFKk9AmqARq3AmRw"
 
 ############################# html used in markdown ########################
 [markup]

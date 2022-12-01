@@ -10,25 +10,14 @@
 {{ partial "gallery.html" . }}
 <!-- /projects -->
 
-<!-- about -->
-{{ "<!-- about -->" | safeHTML }}
-{{ partial "bio.html" . }}
-<!--- /about -->
-
-<!-- promotions -->
-{{ "<!-- promotions -->" | safeHTML }}
-{{ partial "promos.html" . }}
-<!-- /promotions -->
-
 <!-- recent post -->
 {{ "<!-- latest -->" | safeHTML }}
 {{ partial "recents.html" . }}
 <!-- /recent post -->
 
-<!-- newsletter -->
-{{ "<!-- newsletter -->" | safeHTML }}
-{{ partial "optin.html" . }}
-<!--- /newsletter -->
-
+<!-- promotions -->
+{{ "<!-- promotions -->" | safeHTML }}
+{{ partial "promos.html" . }}
+<!-- /promotions -->
 
 {{ end }}
