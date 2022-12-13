@@ -2,7 +2,7 @@
 title: "Advent Challenge 2022"
 date: 2022-11-23T15:11:30-05:00
 author: "Susannah Fisher"
-draft: true
+draft: false
 
 # post thumb
 image: "images/projects/placeholder.jpeg"

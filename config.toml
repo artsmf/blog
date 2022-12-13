@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://susannahfisher.art/"
 languageCode = "en-us"
-title = "Principles of Uncertainty"
+title = "Susannah Fisher"
 theme = "pou"
 summaryLength = "10"
 paginate = 6
@@ -53,8 +53,27 @@ URL = "plugins/search/search.js"
 
 [[menu.main]]
 name = "Work"
+identifier = "work"
 URL = "work/"
 weight = 1
+
+[[menu.main]]
+name = "Illustration"
+parent = "work"
+URL = "work/illustration/"
+weight = 1
+
+# [[menu.main]]
+# name = "Fine Art"
+# parent = "work"
+# URL = "work/fineart/"
+# weight = 2
+
+[[menu.main]]
+name = "Sketchbook"
+parent = "work"
+URL = "work/sketchbook/"
+weight = 3
 
 # Series
 
@@ -92,7 +111,7 @@ weight = 1
 
 [[menu.main]]
 name = "Blog"
-URL = "https://susannahfish.substack.com/"
+URL = "https://blog.susannahfisher.art"
 weight = 30
 
 # Shop
@@ -127,7 +146,7 @@ weight = 20
 
 [[menu.footer]]
 name = "Blog"
-URL = "https://susannahfish.substack.com/"
+URL = "https://blog.susannahfisher.art/"
 weight = 30
 
 [[menu.footer]]

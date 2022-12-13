@@ -2,7 +2,7 @@
 title: "30 Sketchbook Prompts"
 date: 2022-11-06T19:01:48-05:00
 author: "Susannah Fisher"
-draft: true
+draft: false
 
 # post thumb
 image: "images/projects/placeholder.jpeg"
