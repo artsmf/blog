@@ -2,7 +2,7 @@
 title: "Talent"
 date: 2022-11-06T19:22:29-05:00
 author: "Susannah Fisher"
-draft: true
+draft: false
 
 # post thumb
 image: "images/projects/placeholder.jpeg"

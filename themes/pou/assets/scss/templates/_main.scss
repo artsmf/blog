@@ -307,13 +307,13 @@
 
 .small-post-border {
   &:not(:last-child) {
-    border-right: 1px solid $border-color;
+    border-bottom: 1px solid $border-color;
 
     @include desktop {
       border-right: 0;
       border-bottom: 1px solid $border-color;
+      margin-top: 20px;
       margin-bottom: 20px;
-      padding-bottom: 20px;
     }
   }
 }

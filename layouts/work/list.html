@@ -1,11 +1,11 @@
 {{ define "main" }}
 
-<!-- blog post -->
-<section class="section-sm">
+<!-- items -->
+<section class="section section-space">
   <div class="container">
     <div class="row">
-      <div class="col-lg-12 mb-5 mb-lg-0">
-        <div class="row" data-masonry='{"percentPosition": true }'>
+      <div class="col-12 mb-5 mb-lg-0">
+        <div class="row" data-masonry='{"percentPosition": false }'>
           {{ $paginator := .Paginate .Data.Pages }}
           {{ range $paginator.Pages }}
           {{ .Render "post" }}
@@ -27,7 +27,7 @@
 
 <!-- newsletter -->
 {{ "<!-- newsletter -->" | safeHTML }}
-{{ partial "optin.html" . }}
+<!-- {{ partial "optin.html" . }} -->
 <!--- /newsletter -->
 
 {{ end }}

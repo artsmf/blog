@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<section class="section-sm section-space">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-10">
+                <article class="card featured-post">
+                    <div class="row align-items-center">
+                        <div class="col-md-4">
+                            {{ if .Params.Image }}
+                        <img src="{{ .Params.Image | absURL }}" alt="{{ .Params.alt_text }}" class="img-fluid d-block mx-auto mb-4">
+                        {{ end }}
+                        </div>
+                        <div class="col-md-7">
+                        <div class="card-body">
+                            <div class="content" style="text-align:center;">
+                                {{ .Content }}
+                            <a href="{{ .Permalink }}" class="btn btn-outline-primary">Tell Me More!</a>
+                        </div>
+                    </div>
+                </article>
+            </div>
+        </div>
+    </div>
+</section>
+
+{{ end }}

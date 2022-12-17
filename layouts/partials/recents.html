@@ -1,23 +1,20 @@
-<section class="recent-three section-space">
-    <div class="container">
-      <div>
-        <h3>Recently on the blog..</h3>
-      </div>
-      <div class="row">      
-        {{ range first 3 (where .Site.RegularPages "Type" "post")}}
-        <div class="col-lg-4 small-post-border">
-          <article class="media">
-            {{ if .Params.Image }}
-            <div class="recent-post-thumb mr-3" style="background-image: url('{{ .Params.Image | absURL }}');"></div>
-            {{ end }}
-            <div class="media-body">
-              <div class="mb-3 post-meta">
-              <a href="{{ .Permalink }}" class="h5 d-block mb-3">{{ .Title | markdownify }}</a>
-              <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
-            </div>
-          </article>
-        </div>
+  <section class="widget">
+    <h4 class="widget-title">Recent Posts</h4>
+    {{ range first 5 (where .Site.RegularPages "Type" "post")}}
+    <div class="col-lg-12">
+      <article class="media">
+        {{ if .Params.Image }}
+        <div class="recent-post-thumb mr-3" style="background-image: url('{{ .Params.Image | absURL }}');"></div>
         {{ end }}
-      </div>
+        <div class="media-body">
+          <div class="mb-3 post-meta">
+          <a href="{{ .Permalink }}" class="h5 d-block mb-3">{{ .Title | markdownify }}</a>
+          {{ if not .Params.HideDate }}
+          <span class="date-stamp">{{ .PublishDate.Format "02 January 2006" }}</span>
+          {{ end }}
+          <!-- <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a> -->
+        </div>
+      </article>
     </div>
+      {{ end }}
   </section>

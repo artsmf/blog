@@ -1,16 +1,16 @@
 {{ define "main" }}
 
 <!-- blog post -->
-<section class="section-sm">
+<section class="section-sm section-space">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mb-5 mb-lg-0">
-        <div class="row" data-masonry='{"percentPosition": true }'>
+        <!-- <div class="row" data-masonry='{"percentPosition": true }'> -->
           {{ $paginator := .Paginate .Data.Pages }}
           {{ range $paginator.Pages }}
           {{ .Render "post" }}
           {{ end }}
-        </div>
+        <!-- </div> -->
       </div>
       <!-- sidebar -->
       {{ partial "sidebar.html" . }}

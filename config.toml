@@ -63,11 +63,11 @@ parent = "work"
 URL = "work/illustration/"
 weight = 1
 
-# [[menu.main]]
-# name = "Fine Art"
-# parent = "work"
-# URL = "work/fineart/"
-# weight = 2
+[[menu.main]]
+name = "Fine Art"
+parent = "work"
+URL = "work/fineart/"
+weight = 2
 
 [[menu.main]]
 name = "Sketchbook"
@@ -111,8 +111,15 @@ weight = 3
 
 [[menu.main]]
 name = "Blog"
-URL = "https://blog.susannahfisher.art"
+URL = "/blog/"
 weight = 30
+
+# Patreon
+
+[[menu.main]]
+name = "Patreon"
+URL = "/patreon/"
+weight = 35
 
 # Shop
 
@@ -146,13 +153,18 @@ weight = 20
 
 [[menu.footer]]
 name = "Blog"
-URL = "https://blog.susannahfisher.art/"
+URL = "/blog/"
 weight = 30
 
 [[menu.footer]]
 name = "About"
 URL = "about/"
 weight = 50
+
+[[menu.footer]]
+name = "Patreon"
+URL = "/patreon/"
+weight = 55
 
 [[menu.footer]]
 name = "Shop"
@@ -206,20 +218,20 @@ expire_days = 2
 
 
 ############################# social site ########################
-# [[params.social]]
-# title = "pinterest"
-# icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
-# link = "https://pinterest.com/smfisherart"
+[[params.social]]
+title = "pinterest"
+icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
+link = "https://pinterest.com/smfisherart"
 
 [[params.social]]
 title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/principlesofuncertainty/"
 
-# [[params.social]]
-# title = "youtube"
-# icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-# link = "https://www.youtube.com/channel/UCdVu9BrqFKk9AmqARq3AmRw"
+[[params.social]]
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCdVu9BrqFKk9AmqARq3AmRw"
 
 ############################# html used in markdown ########################
 [markup]

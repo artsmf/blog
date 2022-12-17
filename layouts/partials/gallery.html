@@ -1,14 +1,14 @@
 
 <section class="section pb-0 fp-projects section-space">
     <div class="container">
-       <div>
+       <!-- <div>
         <h3>Projects</h3>
         <p>Paintings, Drawings, Artists' Books & Zines, Sketchbooks</p>
-      </div>
+      </div> -->
       <div class="row">
         <div class="col-12 mb-5 mb-lg-0">
           <div class="row" data-masonry='{"percentPosition": true }'>
-            {{ $paginator := .Paginate ( first 3 (where .Site.Pages "Params.tag" "front")) }}
+            {{ $paginator := .Paginate ( first 24 (where .Site.Pages "Params.tag" "front")) }}
             {{ range $paginator.Pages }}
             <div class="col-md-4 mb-4">
               <article class="card">

@@ -13,7 +13,7 @@ alt_text:  "abc"
 # meta description
 description: "this is meta description"
 
-tag: "add tag"
+tag: "front"
 
 type: "work"
 ---
