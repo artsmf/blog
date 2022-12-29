@@ -25,5 +25,14 @@
         <li>For studio updates, news, and upcoming workshops, <a href="https://view.flodesk.com/pages/632b9faec2a8e2d5905d653e" target="_blank">sign up for my newsletter</a>.</li>
       </ul>
     </div>
+
+    <div class="widget">
+
+      <!-- favorite links -->
+      {{ "<!-- favorites list -->" | safeHTML }}
+      {{ partial "favorites.html" . }}
+      <!-- /favorite links -->
+
+    </div>
   </div>
 </div>

@@ -107,16 +107,12 @@ weight = 3
 # URL = "projects/series/ladyhawk/"
 # weight = 3
 
-
-
 # Blog
 
-[[menu.main]]
-name = "Blog"
-URL = "/blog/"
-weight = 3
-
-# The Principles of Unconventional Living
+# [[menu.main]]
+# name = "Blog"
+# URL = "/blog/"
+# weight = 3
 
 # Patreon
 
