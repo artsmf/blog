@@ -2,7 +2,7 @@
 
 <!-- hero area -->
 {{ "<!-- feature -->" | safeHTML }}
-<!-- {{ partial "feature.html" . }} -->
+{{ partial "feature.html" . }}
 <!-- /hero area -->
 
 <!-- projects -->
@@ -12,7 +12,12 @@
 
 <!-- promotions -->
 {{ "<!-- promotions -->" | safeHTML }}
-<!-- {{ partial "promos.html" . }} -->
+{{ partial "promos.html" . }}
+<!-- /promotions -->
+
+<!-- email optin -->
+{{ "<!-- optin -->" | safeHTML }}
+{{ partial "optin.html" . }}
 <!-- /promotions -->
 
 {{ end }}

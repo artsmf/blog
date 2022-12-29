@@ -1,8 +1,8 @@
 ---
-title: "Fine Art"
-date: 2022-12-07T09:23:06-05:00
+title: "Book Arts"
+date: 2022-12-29T14:05:10-05:00
 author: "Susannah Fisher"
-draft: true
+draft: false
 
 # post thumb
 image: "images/projects/placeholder.jpeg"

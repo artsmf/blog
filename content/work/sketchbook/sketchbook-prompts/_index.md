@@ -1,5 +1,5 @@
 ---
-title: "30 Sketchbook Prompts"
+title: "Sketchbook Prompts"
 date: 2022-11-06T19:01:48-05:00
 author: "Susannah Fisher"
 draft: false
@@ -13,7 +13,7 @@ alt_text:  "abc"
 # meta description
 description: "this is meta description"
 
-tag: "front"
+tag: ""
 
 type: "work"
 ---

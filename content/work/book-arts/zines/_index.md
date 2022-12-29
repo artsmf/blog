@@ -1,8 +1,8 @@
 ---
-title: "Fine Art"
-date: 2022-12-07T09:23:06-05:00
+title: "Zines"
+date: 2022-12-29T14:06:03-05:00
 author: "Susannah Fisher"
-draft: true
+draft: false
 
 # post thumb
 image: "images/projects/placeholder.jpeg"
@@ -15,7 +15,7 @@ description: "this is meta description"
 
 summary: ""
 
-tag: ""
+tag: "front"
 
 type: "work"
 ---

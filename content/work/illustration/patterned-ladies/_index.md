@@ -1,5 +1,5 @@
 ---
-title: "Painted Ladies"
+title: "Patterned Ladies"
 date: 2022-11-07T08:27:09-05:00
 author: "Susannah Fisher"
 draft: false
