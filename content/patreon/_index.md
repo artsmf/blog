@@ -7,14 +7,14 @@ draft: false
 image: "images/placeholder.jpg"
 
 #alt-text
-alt_text:  "illustrated self-portrait"
+alt_text:  "Patreon artwork with text and image"
 
 # meta description
-description: "Figurative artist and portrait painter Susannah Fisher accepts commissions for portrait painting and drawing."
+description: "TK"
 
 # type
 type : "patreon"
 ---
-# Patreon Subscription Title
+# Blah Blah Society
 ## Subtitle 
 Brief description of what's insider of my Patreon

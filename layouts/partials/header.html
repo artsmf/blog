@@ -1,5 +1,5 @@
 {{ "<!-- banner -->" | safeHTML }}
-<!-- {{ partial "banner.html" . }} -->
+{{ partial "banner.html" . }}
 
 {{ "<!-- navigation -->" | safeHTML }}
 <header class="navigation">
@@ -25,6 +25,7 @@
               aria-expanded="false">
               {{ .Name }}
             </a>
+
             <div class="dropdown-menu">
               {{ range .Children }}
               <a class="dropdown-item" href="{{ .URL | absURL }}">{{ .Name }}</a>
