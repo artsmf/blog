@@ -1,3 +1,9 @@
+.navstack {
+  display: flex;
+  flex-direction: column;
+  border-bottom: solid 1px $brnsugar;
+}
+
 .nav-item{
   margin: 0;
 
@@ -23,7 +29,7 @@
 }
 
 .navbar-nav {
-  padding-left: 30%;
+  padding-left: 0%;
 }
 
 .move-lft {
@@ -36,8 +42,8 @@
 
 /* custom CSS logo & favicon */
 .navbar-brand .img-fluid {
-  height: 75%;
-  width: 75%;
+  height: 15%;
+  width: 15%;
 }
 
 .navbar-brand {

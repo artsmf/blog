@@ -68,10 +68,17 @@ weight = 3
 
 # Blog
 
-# [[menu.main]]
-# name = "Blog"
-# URL = "/blog/"
-# weight = 4
+[[menu.main]]
+name = "Blog"
+URL = "/blog/"
+weight = 4
+
+# Email Optin
+
+[[menu.main]]
+name = "Make A Zine"
+URL = "/email/"
+weight = 5
 
 # Patreon
 
@@ -120,7 +127,7 @@ weight = 100
 
 #################### default parameters ################################
 [params]
-logo = ""
+logo = "/images/cupcake.jpg"
 home = "Home"
 # Meta data
 description = "Susannah Fisher is an illustrator and book artist."
