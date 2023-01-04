@@ -15,7 +15,9 @@
                         <div class="card-body">
                             <div class="content" style="text-align:center;">
                                 {{ .Content }}
-                            <a href="{{ .Permalink }}" class="btn btn-primary">Tell Me More!</a>
+                                <a href="https://patreon.com/susannahfisher?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link" target="_blank" class="btn btn-primary">I'd love to join your Patreon!</a>
+
+                            </div>
                         </div>
                     </div>
                 </article>
@@ -23,5 +25,10 @@
         </div>
     </div>
 </section>
+
+<!-- Patreon -->
+{{ "<!-- Patreon description -->" | safeHTML }}
+{{ partial "patreon.html" . }}
+<!-- /Patreon descriptio -->
 
 {{ end }}

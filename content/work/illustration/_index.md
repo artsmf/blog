@@ -20,6 +20,5 @@ tag: ""
 type: "work"
 ---
 
-<figcaption>TK tk</figcaption>
-Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 
+My visual storytelling projects. Some will become part of an artists' book, and others stand alone or are commissioned or end up on merch in my shop.
 

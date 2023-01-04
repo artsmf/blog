@@ -20,6 +20,4 @@ tag: ""
 type: "work"
 ---
 
-<figcaption>TK tk</figcaption>
-Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 
-
+Making books is one of the most satisfying projects in my studio. I love the sculptural aspect of folding and sewing paper and board. I love illustrating the covers and pages. I love that it's art that can be held in the hand - studied and enjoyed as it's held close.

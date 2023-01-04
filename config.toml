@@ -52,54 +52,59 @@ URL = "plugins/search/search.js"
 # Work
 
 [[menu.main]]
+name = "Sketchbooks"
+URL = "work/sketchbook/"
+weight = 1
+
+[[menu.main]]
 name = "Illustration"
 URL = "work/illustration/"
-weight = 1
+weight = 2
+
+[[menu.main]]
+name = "Fine Art"
+URL = "work/fineart/"
+weight = 3
 
 [[menu.main]]
 name = "Book Arts"
 URL = "work/book-arts/"
-weight = 2
-
-[[menu.main]]
-name = "Sketchbook"
-URL = "work/sketchbook/"
-weight = 3
+weight = 4
 
 # Blog
 
 [[menu.main]]
 name = "Blog"
 URL = "/blog/"
-weight = 4
+weight = 5
 
 # Email Optin
 
 [[menu.main]]
 name = "Make A Zine"
 URL = "/email/"
-weight = 5
+weight = 6
 
 # Patreon
 
 [[menu.main]]
 name = "Patreon"
 URL = "/patreon/"
-weight = 5
+weight = 7
 
 # Shop
 
 [[menu.main]]
 name = "Shop"
 URL = "https://shop.susannahfisher.art/"
-weight = 6
+weight = 8
 
 # About
 
 [[menu.main]]
-name = "About"
+name = "About & Contact"
 URL = "about/"
-weight = 7
+weight = 9
 
 
 # footer menu
@@ -110,7 +115,7 @@ URL = "work/"
 weight = 20
 
 [[menu.footer]]
-name = "About"
+name = "About & Contact"
 URL = "about/"
 weight = 50
 
@@ -130,7 +135,7 @@ weight = 100
 logo = "/images/cupcake.jpg"
 home = "Home"
 # Meta data
-description = "Susannah Fisher is an illustrator and book artist."
+description = "Susannah Fisher is a figurative artist, illustrator and book artist."
 author = "Susannah Fisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
@@ -139,7 +144,7 @@ mobile = ""
 email = "info@susannahfisher.art"
 location = ""
 # copyright
-copyright = "&copy; 2022 Susannah Fisher | All Rights Reserved <br> All artwork and images of artwork are the sole property of Susannah Fisher and may not be reproduced or sold for profit without written consent by the artist."
+copyright = "&copy; 2023 Susannah Fisher | All Rights Reserved <br> All artwork and images of artwork are the sole property of Susannah Fisher and may not be reproduced or sold for profit without written consent by the artist.<br>Web design & development by the artist using HUGO static site generator."
 
 # Preloader
 [params.preloader]

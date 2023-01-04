@@ -2,7 +2,7 @@
 title: "Fine Art"
 date: 2022-12-07T09:23:06-05:00
 author: "Susannah Fisher"
-draft: true
+draft: false
 
 # post thumb
 image: "images/projects/placeholder.jpeg"
@@ -20,6 +20,5 @@ tag: ""
 type: "work"
 ---
 
-<figcaption>TK tk</figcaption>
-Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 
+Portraiture is at the heart of all my work, but especially the subject I gravitate towards in my fine art work. I work mostly in Trois Crayons (charcoal, sangine and white pastel) drawing, pastel painting, and oil painting. Occasionally you'll find graphite drawings, too.
 

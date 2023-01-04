@@ -1,5 +1,5 @@
 ---
-title: "Sketchbook"
+title: "Work"
 date: 2022-09-22T11:00:06-04:00
 draft: false
 
@@ -18,4 +18,3 @@ tag: ""
 
 type: "featured-project"
 ---
-

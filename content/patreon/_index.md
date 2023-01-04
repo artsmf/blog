@@ -15,6 +15,6 @@ description: "TK"
 # type
 type : "patreon"
 ---
-# Blah Blah Society
-## Subtitle 
-Brief description of what's insider of my Patreon
+# Let's Play With Paper And Paint
+## Subtitle Illustration and Book Arts Tutorials
+Inside my Patreon you'll find tutorials, posts, behind-the-scenes planning and sketchbook tours, and much more all about making illustrated books.

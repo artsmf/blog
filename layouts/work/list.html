@@ -4,6 +4,19 @@
 <section class="section section-space">
   <div class="container">
     <div class="row">
+      <div class="col-lg-8 mx-auto text-center">
+        <h4 class="widget-title">{{ .Title | markdownify }}</h4>
+        <div class="content">
+          {{ .Content }}
+        </div>
+      </div>
+    </div> <!-- /row -->
+  </div> <!-- /containter -->
+</section>
+
+<section class="section section-space">
+  <div class="container">
+    <div class="row">
       <div class="col-12 mb-5 mb-lg-0">
         <div class="row" data-masonry='{"percentPosition": false }'>
           {{ $paginator := .Paginate .Data.Pages }}
@@ -12,18 +25,14 @@
           {{ end }}
         </div>
       </div>
-      <!-- sidebar -->
-      <!-- {{ partial "sidebar.html" . }} -->
-      <!-- /sidebar -->
-
+      
       <!-- pagination -->
       <div class="col-12 mt-5">
         {{ template "_internal/pagination.html" . }}
       </div>
-    </div>
-  </div>
+    </div> <!-- /row -->
+  </div> <!-- /container -->
 </section>
-<!-- /blog post -->
 
 <!-- newsletter -->
 {{ "<!-- newsletter -->" | safeHTML }}

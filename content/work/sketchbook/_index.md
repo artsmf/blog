@@ -1,5 +1,5 @@
 ---
-title: "Sketchbook"
+title: "Sketchbooks"
 date: 2022-12-15T09:24:20-05:00
 author: "Susannah Fisher"
 draft: false
@@ -20,6 +20,4 @@ tag: ""
 type: "work"
 ---
 
-<figcaption>TK tk</figcaption>
-Start your post with an attention-grabbing opening that empathizes with a problem or desire in the reader’s mind. Use short sentences and paragraphs together with the occasional rhetorical question to draw the reader into the post. 
-
+My sketchbooks are the foundation of all my work. It's where I experiment with materials, get ideas out of my head and onto paper, and practice my technique. They are guaranteed to be messy and ugly.
