@@ -15,6 +15,6 @@ description: "TK"
 # type
 type : "patreon"
 ---
-# Let's Play With Paper And Paint
-## Subtitle Illustration and Book Arts Tutorials
-Inside my Patreon you'll find tutorials, posts, behind-the-scenes planning and sketchbook tours, and much more all about making illustrated books.
+# We're Making Illustrated Books
+## Let's Play With Cloth, Paper, Scissors, Paint, Pencils...
+Each month inside my Patreon you'll find an illustrated book project with tutorials, posts, behind-the-scenes planning and sketchbook tours, and much more to support your endeavors.
