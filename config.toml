@@ -51,83 +51,83 @@ URL = "plugins/search/search.js"
 # main menu
 # Work
 
-# [[menu.main]]
-# name = "Sketchbooks"
-# URL = "work/sketchbook/"
-# weight = 1
+[[menu.main]]
+name = "Sketchbooks"
+URL = "work/sketchbook/"
+weight = 1
 
-# [[menu.main]]
-# name = "Illustration"
-# # URL = "work/illustration/"
-# weight = 2
+[[menu.main]]
+name = "Illustration"
+URL = "work/illustration/"
+weight = 2
 
-# [[menu.main]]
-# name = "Fine Art"
-# URL = "work/fineart/"
-# weight = 3
+[[menu.main]]
+name = "Fine Art"
+URL = "work/fineart/"
+weight = 3
 
-# [[menu.main]]
-# name = "Book Arts"
-# URL = "work/book-arts/"
-# weight = 4
+[[menu.main]]
+name = "Book Arts"
+URL = "work/book-arts/"
+weight = 4
 
 # Blog
 
-# [[menu.main]]
-# name = "Blog"
-# URL = "/blog/"
-# weight = 5
+[[menu.main]]
+name = "Blog"
+URL = "/blog/"
+weight = 5
 
 # Email Optin
 
-# [[menu.main]]
-# name = "Make A Zine"
-# URL = "/email/"
-# weight = 6
+[[menu.main]]
+name = "Make A Zine"
+URL = "/email/"
+weight = 6
 
 # Patreon
 
-# [[menu.main]]
-# name = "Patreon"
-# URL = "/patreon/"
-# # weight = 7
+[[menu.main]]
+name = "Patreon"
+URL = "/patreon/"
+weight = 7
 
 # Shop
 
 [[menu.main]]
-# name = "Shop"
-# URL = "https://shop.susannahfisher.art/"
-# weight = 8
+name = "Shop"
+URL = "https://shop.susannahfisher.art/"
+weight = 8
 
 # About
 
 [[menu.main]]
-# name = "About & Contact"
-# URL = "about/"
-# weight = 9
+name = "About & Contact"
+URL = "about/"
+weight = 9
 
 
 # footer menu
 
-# [[menu.footer]]
-# name = "Work"
-# URL = "work/"
+[[menu.footer]]
+name = "Work"
+URL = "work/"
 weight = 20
 
-# [[menu.footer]]
-# name = "About & Contact"
-# URL = "about/"
-# weight = 50
+[[menu.footer]]
+name = "About & Contact"
+URL = "about/"
+weight = 50
 
-# [[menu.footer]]
-# # name = "Patreon"
-# URL = "/patreon/"
-# weight = 60
+[[menu.footer]]
+name = "Patreon"
+URL = "/patreon/"
+weight = 60
 
-# [[menu.footer]]
-# name = "Shop"
-# URL = "https://shop.susannahfisher.art/"
-# weight = 100
+[[menu.footer]]
+name = "Shop"
+URL = "https://shop.susannahfisher.art/"
+weight = 100
 
 
 #################### default parameters ################################
@@ -186,10 +186,10 @@ title = "instagram"
 icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
 link = "https://www.instagram.com/principlesofuncertainty/"
 
-# [[params.social]]
-# title = "youtube"
-# icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-# link = "https://www.youtube.com/channel/UCdVu9BrqFKk9AmqARq3AmRw"
+[[params.social]]
+title = "youtube"
+icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCdVu9BrqFKk9AmqARq3AmRw"
 
 ############################# html used in markdown ########################
 [markup]
