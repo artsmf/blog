@@ -184,7 +184,7 @@ link = "https://pinterest.com/smfisherart"
 [[params.social]]
 title = "youtube"
 icon = "ti-youtube" # themify icon : https://themify.me/themify-icons
-link = "https://www.youtube.com/channel/UCdVu9BrqFKk9AmqARq3AmRw"
+link = "https://www.youtube.com/channel/UCQKZ8RTDGfRjXtAN8IS4Wqw"
 
 ############################# html used in markdown ########################
 [markup]
