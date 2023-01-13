@@ -5,7 +5,7 @@ title = "Susannah Fisher"
 theme = "pou"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "smfblog"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
@@ -180,11 +180,6 @@ expire_days = 2
 title = "pinterest"
 icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
 link = "https://pinterest.com/smfisherart"
-
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "https://www.instagram.com/principlesofuncertainty/"
 
 [[params.social]]
 title = "youtube"

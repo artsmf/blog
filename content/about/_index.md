@@ -16,7 +16,7 @@ description: "Figurative artist and portrait painter Susannah Fisher accepts com
 type : "about"
 ---
 
-**a painter, illustrator, and book artist**. I use traditional materials such as pastels, charcoal, oils, gouache, colored pencil, and ink - althought not necessarily all at the same time! Painting portraits is at the heart of my art practice, and while I like to incorporate other subjects, the body of my work is figurative.
+**a painter, illustrator, and book artist**. I use traditional materials such as pastels, charcoal, oils, gouache, colored pencil, and ink. Painting portraits is at the heart of my art practice, and while I like to incorporate other subjects, the body of my work is figurative.
 #### I'm a self-directed artist...
 I use the term "self-directed" instead of "self-taught" because I've had help along the way, but I've had to [develop my own curriculum](/tags/self-taught-artist/) and be very self-disciplined. I've worked with some stellar instructors such as <a href="https://robertliberace.com" target="_blank">Robert Liberace</a>, <a href="http://www.corneliahernes.com/" target="_blank">Cornelia Hernes</a>, <a href="https://www.stephenbaumanartwork.com/" target="_blank">Stephen Bauman</a>, and <a href="https://www.sophieploeg.com/" target="_blank">Sophie Ploeg</a> along the way. These artists taught me how to make portraits. I also collect [terrific books](../blog/learning-list-for-self-taught-artists/) about art making, watch YouTube tutorials, and am a member of the Portrait Society of America, which has an awesome yearly conference and a Wednesday demo series. **And I practice A LOT.**
 #### Recently, I've begun to explore illustration...
