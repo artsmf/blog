@@ -16,5 +16,5 @@ summary: ""
 
 tag: ""
 
-type: "featured-project"
+type: "work"
 ---
