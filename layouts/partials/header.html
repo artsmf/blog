@@ -1,9 +1,14 @@
 {{ "<!-- banner -->" | safeHTML }}
 {{ partial "banner.html" . }}
 
+
 {{ "<!-- navigation -->" | safeHTML }}
 <header class="navigation">
   <div class="container">
+    <div class="kofi">
+      <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#be6e46', 'K3K1HUJNM');kofiwidget2.draw();</script> 
+    </div>
+
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-white bg-transparent pl-0">
       <a class="navbar-brand mobile-view" href="{{ .Site.BaseURL }}"><img class="img-fluid"
@@ -39,6 +44,7 @@
           {{ end }}
           {{ end }}
         </ul>
+
 
         <!-- <div class="desktop-view">
           <ul class="navbar-nav mr-auto">
