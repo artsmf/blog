@@ -15,8 +15,8 @@
                         <div class="card-body">
                             <div class="content" style="text-align:center;">
                                 {{ .Content }}
-                                <a href="https://patreon.com/susannahfisher?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link" target="_blank" class="btn btn-primary">I'd love to join your Patreon!</a>
-
+                                <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Oooo, I want in, please!', '#be6e46', 'K3K1HUJNM');kofiwidget2.draw();</script> 
+                                <p style="color:#be6e46; font-size:.9em; font-style: italic; font-weight: 500; padding:0; margin:0;">Click the "Membership" button to choose a tier.</p>
                             </div>
                         </div>
                     </div>
@@ -26,9 +26,9 @@
     </div>
 </section>
 
-<!-- Patreon -->
-{{ "<!-- Patreon description -->" | safeHTML }}
-{{ partial "patreon.html" . }}
-<!-- /Patreon descriptio -->
+<!-- Kofi -->
+{{ "<!-- Kofi description -->" | safeHTML }}
+{{ partial "kofi.html" . }}
+<!-- /Kofi description -->
 
 {{ end }}

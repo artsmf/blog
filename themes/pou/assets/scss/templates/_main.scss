@@ -672,16 +672,35 @@ hr {
   padding-bottom: 1rem;
 }
 
-.patreon {
+.comments {
+  margin-top: 3rem;
+}
+
+/* backgrounds */
+
+.gainsboro {
+  background-color: $gainsboro;
+  padding: 3rem;
+}
+
+.ashgrey {
+  background-color: $ashgray;
+  padding: 3rem;
+}
+
+/* kofi */
+
+.kofi {
   display: flex;
   flex-flow: row wrap;
 
 }
 
-.comments {
-  margin-top: 3rem;
-}
-
 .kofi-footer {
   margin: 2rem 0;
+}
+
+.content * {
+  margin-bottom: 2%;
+  margin-top: 1em;
 }

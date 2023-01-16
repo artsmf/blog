@@ -13,9 +13,9 @@ alt_text:  "abc"
 # meta description
 description: "Sketching 100 portraits in my mixed media journal."
 
-tag: ""
+tag: "front"
 
-type: "featured-project"
+type: "work"
 ---
 
 <figcaption>Ongoing until I reach 100 portraits.</figcaption>

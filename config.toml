@@ -85,11 +85,11 @@ name = "Make A Zine"
 URL = "/email/"
 weight = 6
 
-# Patreon
+# Learn
 
 [[menu.main]]
-name = "Patreon"
-URL = "/patreon/"
+name = "Learn"
+URL = "/learn/"
 weight = 7
 
 # Shop
@@ -118,11 +118,6 @@ weight = 20
 name = "About & Contact"
 URL = "about/"
 weight = 50
-
-[[menu.footer]]
-name = "Patreon"
-URL = "/patreon/"
-weight = 60
 
 [[menu.footer]]
 name = "Shop"
