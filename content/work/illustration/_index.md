@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/projects/placeholder.jpeg"
+image: "images/projects/placeholder.jpg"
 
 #alt-text
 alt_text:  "abc"
@@ -15,7 +15,7 @@ description: "this is meta description"
 
 summary: ""
 
-tag: ""
+tag: "front"
 
 type: "work"
 ---

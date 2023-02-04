@@ -52,24 +52,19 @@ URL = "plugins/search/search.js"
 # Work
 
 [[menu.main]]
-name = "Sketchbooks"
-URL = "work/sketchbook/"
-weight = 1
-
-[[menu.main]]
 name = "Illustration"
 URL = "work/illustration/"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "Fine Art"
 URL = "work/fineart/"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Book Arts"
 URL = "work/book-arts/"
-weight = 4
+weight = 3
 
 # Blog
 
@@ -81,7 +76,7 @@ weight = 5
 # Email Optin
 
 [[menu.main]]
-name = "Make A Zine"
+name = "Free Bookplates"
 URL = "/email/"
 weight = 6
 
@@ -89,14 +84,14 @@ weight = 6
 
 [[menu.main]]
 name = "Learn"
-URL = "/learn/"
+URL = "/workshops/"
 weight = 7
 
 # Shop
 
 [[menu.main]]
 name = "Shop"
-URL = "https://shop.susannahfisher.art/"
+URL = "https://seamaidenpress.com/"
 weight = 8
 
 # About
@@ -110,18 +105,18 @@ weight = 9
 # footer menu
 
 [[menu.footer]]
-name = "Work"
-URL = "work/"
+name = "Naturalist's Notebook Newsletter"
+URL = "https://thenaturalistsnotebook.substack.com/"
 weight = 20
 
 [[menu.footer]]
-name = "About & Contact"
-URL = "about/"
-weight = 50
+name = "workshops"
+URL = "workshops/"
+weight = 30
 
 [[menu.footer]]
 name = "Shop"
-URL = "https://shop.susannahfisher.art/"
+URL = "https://seamaidenpress.com/"
 weight = 100
 
 
@@ -154,7 +149,6 @@ enable = true
 
 [taxonomies]
   category = 'categories'
-  genre = 'genres' # custom
   tag = 'tags'
 
 ############################ news letter ########################
@@ -175,6 +169,16 @@ expire_days = 2
 title = "pinterest"
 icon = "ti-pinterest" # themify icon : https://themify.me/themify-icons
 link = "https://pinterest.com/smfisherart"
+
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://instagram.com/susannahssketchbook"
+
+[[params.social]]
+title = "instagram"
+icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+link = "https://instagram.com/naturalists_notebook/"
 
 [[params.social]]
 title = "youtube"

@@ -1,0 +1,30 @@
+<section class="section-sm section-space">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-10 featured-post-slider">
+          <!-- featured project -->
+          {{ range ( where .Site.RegularPages "Type" "featured-workshop" )}}
+          <article class="card featured-post">
+            <div class="row no-gutters align-items-center">
+              <div class="col-md-7">
+                {{ if .Params.Image }}
+                <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="{{ .Params.alt_text }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+                </a>              
+                {{ end }}
+              </div>
+              <div class="col-md-4 offset-md-1">
+                <div class="card-body">
+                  <a href="{{ .Permalink }}"
+                    class="h1 font-weight-bold d-block text-dark mb-4 card-title">{{ .Title | markdownify }}</a>
+                  <p class="card-text">{{.Summary}}</p>
+                  <a href="{{ .Permalink }}" class="btn btn-primary">read more</a>
+                </div>
+              </div>
+            </div>
+          </article>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+

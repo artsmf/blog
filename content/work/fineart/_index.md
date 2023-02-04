@@ -2,10 +2,10 @@
 title: "Fine Art"
 date: 2022-12-07T09:23:06-05:00
 author: "Susannah Fisher"
-draft: false
+draft: true
 
 # post thumb
-image: "images/projects/placeholder.jpeg"
+image: "images/projects/placeholder.jpg"
 
 #alt-text
 alt_text:  "abc"
@@ -15,7 +15,7 @@ description: "this is meta description"
 
 summary: ""
 
-tag: ""
+tag: "front"
 
 type: "work"
 ---

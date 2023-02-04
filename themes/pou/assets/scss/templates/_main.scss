@@ -4,7 +4,7 @@
   height: 100%;
   text-align: center;
   width: 100%;
-  background: $gainsboro;
+  background: $brnsugar;
 
   margin: 0;
   padding: 0;
@@ -13,20 +13,20 @@
     p {
       padding-top: 1%;
       color: $white !important;
-      font-family: Raleway, sans;
+      font-family: Montserrat, sans-serif;
       font-size: 1em;
-      font-weight: 400;
+      font-weight: 500;
       letter-spacing: .2em;
     }
 }
 
 .announcement a { 
-  color: $text-color-dark;
+  color: $white;
   font-weight: 500; 
 }
 
 .announcement a:hover {
-  color: $link-hover;
+  color: $gainsboro;
 }
 
 /* card */
@@ -693,7 +693,12 @@ hr {
 .kofi {
   display: flex;
   flex-flow: row wrap;
+}
 
+.member-title {
+  color: $brnsugar;
+  text-align: center;
+  margin-bottom: 1em;
 }
 
 .kofi-footer {

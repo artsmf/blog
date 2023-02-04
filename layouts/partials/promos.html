@@ -1,28 +1,29 @@
 
-<section class="section pb-0 fp-projects section-space">
+<section class="section pb-0 section-space">
     <div class="container">
       <div>
-        <h3>Creating Book Arts & Illustration</h3>
+        <h3>Courses</h3>
       </div>
       <div class="row">
         <div class="col-12 mb-5 mb-lg-0">
-          <div class="row">
-            <div class="col">
-              <a href="https://ko-fi.com/susannahfisher" target="_blank"><img src="images/promo-kofi.jpg"></a>
-              <!-- {{ range first 2 ( where .Site.Pages "Type" "workshops" )}}
-              <div class="col mb-4">
-                <article class="card">
-                  {{ if .Params.Image }}
-                  <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="{{ .Params.alt_text }}" class="card-img-top fp-card" alt="{{ .Title | markdownify }}"></a>
-                  {{ end }}
-                </article>
-              </div>
-              {{ end }} -->
+          <div class="row" data-masonry='{"percentPosition": false }'>
+            {{ $paginator := .Paginate ( first 3 (where .Site.Pages "Params.tag" "workshop")) }}
+            {{ range $paginator.Pages }}
+            <div class="col-md-4 mb-4">
+              <article class="card">
+                {{ if .Params.Image }}
+                <a href="{{ .Permalink }}"><img src="{{ .Params.Image | absURL }}" alt="{{ .Params.alt_text }}" class="card-img-top fp-card" alt="{{ .Title | markdownify }}"></a>
+                {{ end }}
+
+                <div class="image__overlay image__overlay--blur">
+                  <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
+                  <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
+               </div>
+
+              </article>
             </div>
-            <!-- <div class="col">
-              <a href="https://www.patreon.com/susannahfisher" target="_blank"><img src="images/placeholder.jpg"></a>
-            </div> -->
-          </div>
+            {{ end }}
+          
       </div>
     </div>
-  </section>  
+  </section>

@@ -1,33 +1,42 @@
 {{ define "main" }}
 
-<section class="section-sm">
+<!-- items -->
+<section class="section section-space">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
-        <!-- {{ if .Params.Image }}
-        <img src="{{ .Params.Image | absURL }}" alt="" class="img-fluid d-block mx-auto rounded-circle mb-4 author-about">
-        {{ end }} -->
         <h4 class="widget-title">{{ .Title | markdownify }}</h4>
-        <div class="content  workshop-title">
+        <div class="content">
           {{ .Content }}
         </div>
       </div>
-    </div>
-  </div>
+    </div> <!-- /row -->
+  </div> <!-- /containter -->
 </section>
 
-<section class="main">
+<section class="section section-space">
   <div class="container">
-    <div class="row" data-masonry='{"percentPosition": true }'>
-      {{- $images := .Resources.ByType "image" -}}
-      {{ range $images }}
-      <div class="col-6 col-md-4 col-xl-3 pb-3 px-2">
-        <img src="{{ .RelPermalink }}" height="{{ .Height }}" width="{{ .Width }}" alt="Gallery Image" class="img-fluid">
+    <div class="row">
+      <div class="col-12 mb-5 mb-lg-0">
+        <div class="row" data-masonry='{"percentPosition": false }'>
+          {{ $paginator := .Paginate .Data.Pages }}
+          {{ range $paginator.Pages }}
+          {{ .Render "post" }}
+          {{ end }}
+        </div>
       </div>
-      {{ end }}
-    </div>
-  </div>
+      
+      <!-- pagination -->
+      <div class="col-12 mt-5">
+        {{ template "_internal/pagination.html" . }}
+      </div>
+    </div> <!-- /row -->
+  </div> <!-- /container -->
 </section>
-<br>
+
+<!-- newsletter -->
+{{ "<!-- newsletter -->" | safeHTML }}
+<!-- {{ partial "optin.html" . }} -->
+<!--- /newsletter -->
 
 {{ end }}

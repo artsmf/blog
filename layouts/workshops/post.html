@@ -1,0 +1,13 @@
+<div class="col-md-4 mb-4">
+    <article class="card">
+        {{ if .Params.Image }}
+        <img src="{{ .Params.Image | absURL }}" class="card-img-top" alt="{{ .Title | markdownify }}">
+        {{ end }}
+        
+        <div class="image__overlay image__overlay--blur">
+            <a href="{{ .Permalink }}" class="h5 d-block my-3">{{ .Title | markdownify }}</a>
+        <a href="{{ .Permalink }}" class="btn btn-outline-primary">read more</a>
+        </div>
+        
+    </article>
+</div>
