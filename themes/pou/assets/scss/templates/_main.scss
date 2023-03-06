@@ -4,7 +4,7 @@
   height: 100%;
   text-align: center;
   width: 100%;
-  background: $brnsugar;
+  background: $woodland;
 
   margin: 0;
   padding: 0;
@@ -26,7 +26,7 @@
 }
 
 .announcement a:hover {
-  color: $gainsboro;
+  color: $sand;
 }
 
 /* card */
@@ -134,8 +134,8 @@
 .one-feature {
   padding: 3em;
   margin: 1em;
-  background: $gainsboro;
-  border: .8px solid $brnsugar;
+  background: $sand;
+  border: .8px solid $woodland;
   border-radius: 6%;
 }
 
@@ -326,13 +326,13 @@
 }
 
 figcaption {
-  color: $brnsugar;
+  color: $woodland;
   font-style: italic;
   text-align: center;
 }
 
 .make-art {
-  background: $gainsboro;
+  background: $sand;
   margin: 5em 0 0 0;
   padding: 3em;
 
@@ -405,7 +405,7 @@ figcaption {
 
   /* custom CSS */
   .page-item .page-link {
-    border: .5px solid $brnsugar; 
+    border: .5px solid $woodland; 
     border-top: 0;
     border-bottom: 0;
   }
@@ -579,11 +579,11 @@ figcaption {
     }
 
     thead {
-      background: darken($color: $ashgray, $amount: 2);
+      background: darken($color: $spruce, $amount: 2);
     }
 
     tbody {
-      background: $ashgray;
+      background: $spruce;
 
       td {
         text-align: left !important;
@@ -594,7 +594,7 @@ figcaption {
 
   blockquote {
     padding: 20px;
-    background: $gainsboro;
+    background: $sand;
     border-left: 3px solid $primary-color;
 
     p {
@@ -607,7 +607,7 @@ figcaption {
 
   pre {
     padding: 10px 20px;
-    background: $ashgray;
+    background: $spruce;
 
     code {
       border: 0;
@@ -626,7 +626,7 @@ figcaption {
 
   code {
     padding: 3px 5px;
-    background: $gainsboro;
+    background: $sand;
     border: 1px solid $border-color;
     border-radius: 3px;
     color: $text-color-dark;
@@ -641,7 +641,7 @@ footer {
 footer a {
   @extend .text-dark;
   &:hover {
-    color: $primary-color !important;
+    color: $moss !important;
   }
 }
 
@@ -679,12 +679,12 @@ hr {
 /* backgrounds */
 
 .gainsboro {
-  background-color: $gainsboro;
+  background-color: $sand;
   padding: 3rem;
 }
 
 .ashgrey {
-  background-color: $ashgray;
+  background-color: $spruce;
   padding: 3rem;
 }
 
@@ -696,7 +696,7 @@ hr {
 }
 
 .member-title {
-  color: $brnsugar;
+  color: $woodland;
   text-align: center;
   margin-bottom: 1em;
 }

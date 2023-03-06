@@ -1,5 +1,5 @@
 ---
-title: "Illustration"
+title: "Natural History Illustration"
 date: 2023-03-06T06:36:40-05:00
 author: "Susannah Fisher"
 draft: false
@@ -20,4 +20,5 @@ tag: "front"
 type: "work"
 ---
 
-Visual storytelling projects, including a select images from my weekly column Beautiful Ordinary Life on Substack. [For more information, click here.](https://beautifulordinarylife.substack.com "Beautiful Ordinary Life")
+Natural history illustration projects, including a select images from my weekly nature journaling column on Substack. [For more information, click here.](https://anaturalistsnotebook.substack.com "A Naturalist's Notebook")
+

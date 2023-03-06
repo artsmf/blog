@@ -31,7 +31,7 @@ tags:
   - "supplies"
   - "sketchbook"
 
-# post type - post or featured
+# post type
 type: "post"
 ---
 

@@ -15,9 +15,9 @@ description: "this is meta description"
 
 summary: ""
 
-tag: "featured-workshop"
+tag: ""
 
-type: "featured"
+type: "workshops"
 ---
 
 TK

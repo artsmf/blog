@@ -1,7 +1,7 @@
 .navstack {
   display: flex;
   flex-direction: column;
-  border-bottom: solid 1px $brnsugar;
+  border-bottom: solid 1px $primary-color;
 }
 
 .nav-item{
@@ -13,9 +13,9 @@
 }
 
 .navbar-white .navbar-nav .nav-link {
-  color: $text-color;
+  color: $berry;
   &:hover{
-    color: $primary-color;
+    color: $ltberry;
   }
 }
 
@@ -47,16 +47,16 @@
 }
 
 .navbar-brand {
-  color: $text-color;
+  color: $berry;
 }
 
 /* custom CSS navbar & footer border */
 .navigation .container .border-bottom {
-  border-bottom: .5px solid $primary-color !important;
+  border-bottom: .5px solid $berry !important;
 }
 
 .text-capitalize .container .border-top {
-  border-top: .2px solid $brnsugar !important;
+  border-top: .2px solid $woodland !important;
 }
 
 .mobile-view{

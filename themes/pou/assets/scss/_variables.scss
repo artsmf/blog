@@ -1,23 +1,25 @@
 // Color Variables
-$primary-color: #be6e46;
-$text-color: #373737;
-$text-color-dark: #373737;
-$text-color-light: #acbdba;
+$jet: #373737;
+$woodland: #462f27;
+$berry: #381825;
+$ltberry: #ce6c69;
+$spruce: #4a6255;
+$moss: #475822;
+$sand: #d3c8c2;
+
+$primary-color: $spruce;
+$text-color: $jet;
+$text-color-dark: $berry;
+$text-color-light: $sand;
 $body-color: #fff;
-$border-color: #e69872;
+$border-color: $primary-color;
 $black: #000;
 $white: #fff;
 
 $header: $text-color;
 $rule: $border-color;
-$link: $border-color;
-$link-hover: $primary-color;
-
-$jet: #373737;
-$ashgray: #acbdba;
-$gainsboro: #cddddd;
-$dkgoldenrod: #e69872;
-$brnsugar: #be6e46;
+$link: $primary-color;
+$link-hover: $moss;
 
 // Font Variables
 $primary-font: 'Montserrat', sans-serif;
