@@ -5,7 +5,7 @@ author: "Susannah Fisher"
 draft: true
 
 # post thumb
-image: "images/projects/placeholder.jpeg"
+image: "images/projects/placeholder.jpg"
 
 #alt-text
 alt_text:  "abc"

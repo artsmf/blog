@@ -61,6 +61,11 @@ name = "Natural History Illustration"
 URL = "work/naturalhistoryillustration/"
 weight = 2
 
+[[menu.main]]
+name = "Portraits"
+URL = "work/portraits/"
+weight = 3
+
 # Learn
 
 # [[menu.main]]
@@ -108,10 +113,10 @@ weight = 100
 
 #################### default parameters ################################
 [params]
-logo = "/images/cupcake.jpg"
+logo = "/images/namemark.png"
 home = "Home"
 # Meta data
-description = "Susannah Fisher is a figurative artist, illustrator and book artist."
+description = "Susannah Fisher is an illustrator and fine artist specializing in natural history illustration, nature journaling, visual journalism, and portrait painting."
 author = "Susannah Fisher"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
