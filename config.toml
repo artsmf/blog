@@ -113,7 +113,7 @@ weight = 100
 
 #################### default parameters ################################
 [params]
-logo = "/images/namemark.png"
+logo = ""
 home = "Home"
 # Meta data
 description = "Susannah Fisher is an illustrator and fine artist specializing in natural history illustration, nature journaling, visual journalism, and portrait painting."
