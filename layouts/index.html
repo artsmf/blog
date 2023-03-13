@@ -10,9 +10,14 @@
 {{ partial "gallery.html" . }}
 <!-- /projects -->
 
-<!-- email optin -->
-{{ "<!-- optin -->" | safeHTML }}
-<!-- {{ partial "optin.html" . }} -->
-<!-- /email optin -->
+<!-- substack optin -->
+{{ "<!-- substack -->" | safeHTML }}
+{{ partial "promos.html" . }}
+<!-- /substack optin -->
+
+<!-- ig feed -->
+{{ "<!-- ig -->" | safeHTML }}
+<!-- {{ partial "ig.html" . }} -->
+<!-- /ig feed -->
 
 {{ end }}

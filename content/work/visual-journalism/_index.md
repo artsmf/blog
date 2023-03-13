@@ -1,11 +1,11 @@
 ---
-title: "Illustration"
+title: "Visual Journalism"
 date: 2023-03-06T06:36:40-05:00
 author: "Susannah Fisher"
 draft: false
 
 # post thumb
-image: "images/work/illustration/placeholder.jpg"
+image: "images/work/visjour/placeholder.jpg"
 
 #alt-text
 alt_text:  "abc"

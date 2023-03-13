@@ -52,19 +52,38 @@ URL = "plugins/search/search.js"
 # Work
 
 [[menu.main]]
-name = "Illustration"
-URL = "work/illustration/"
-weight = 1
-
-[[menu.main]]
 name = "Natural History Illustration"
 URL = "work/naturalhistoryillustration/"
-weight = 2
+weight = 1
 
 [[menu.main]]
 name = "Portraits"
 URL = "work/portraits/"
+weight = 2
+
+[[menu.main]]
+name = "Visual Journalism"
+URL = "work/visual-journalism/"
 weight = 3
+
+[[menu.main]]
+identifier = 'substack'
+name = "Writing"
+url = ''
+weight = 4
+
+[[menu.main]]
+name = "Beautiful Ordinary Life"
+parent = 'substack'
+URL = "https://beautifulordinarylife.substack.com"
+weight = 1
+
+[[menu.main]]
+name = "A Naturalist's Notebook"
+parent = 'substack'
+URL = "https://anaturalistsnotebook.substack.com"
+weight = 2
+
 
 # Learn
 
@@ -86,7 +105,6 @@ weight = 8
 name = "About & Contact"
 URL = "about/"
 weight = 9
-
 
 # footer menu
 
@@ -125,7 +143,7 @@ mobile = ""
 email = "info@susannahfisher.art"
 location = ""
 # copyright
-copyright = "&copy; 2023 Susannah Fisher | All Rights Reserved <br> All artwork and images of artwork are the sole property of Susannah Fisher and may not be reproduced or sold for profit without written consent by the artist.<br>Web design & development by the artist using HUGO static site generator."
+copyright = "&copy; 2023 Susannah Fisher | All Rights Reserved <br> All artwork and images of artwork are the sole property of Susannah Fisher and may not be reproduced or sold for profit without written consent by the artist.<br>Web design & front-end development by the artist. Website built on the HUGO static site generator framework."
 
 # Preloader
 [params.preloader]

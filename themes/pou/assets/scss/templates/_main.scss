@@ -13,7 +13,7 @@
     p {
       padding-top: 1%;
       color: $white !important;
-      font-family: Montserrat, sans-serif;
+      font-family: $primary-font;
       font-size: 1em;
       font-weight: 500;
       letter-spacing: .2em;
@@ -22,7 +22,7 @@
 
 .announcement a { 
   color: $white;
-  font-weight: 500; 
+  font-weight: 700; 
 }
 
 .announcement a:hover {
