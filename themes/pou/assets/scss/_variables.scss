@@ -3,6 +3,7 @@ $jet: #373737;
 $woodland: #462f27;
 $berry: #381825;
 $ltberry: #ce6c69;
+$blue: #5380A7;
 $spruce: #4a6255;
 $moss: #475822;
 $sand: #d3c8c2;
@@ -12,14 +13,14 @@ $text-color: $jet;
 $text-color-dark: $berry;
 $text-color-light: $sand;
 $body-color: #fff;
-$border-color: $primary-color;
+$border-color: $blue;
 $black: #000;
 $white: #fff;
 
 $header: $text-color;
 $rule: $border-color;
 $link: $primary-color;
-$link-hover: $moss;
+$link-hover: $border-color;
 
 // Font Variables
 $primary-font: 'Cantarell', sans-serif;
