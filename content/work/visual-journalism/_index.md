@@ -20,4 +20,4 @@ tag: "front"
 type: "work"
 ---
 
-Visual storytelling projects, including a select images from my weekly column Beautiful Ordinary Life on Substack. [For more information, click here.](https://beautifulordinarylife.substack.com "Beautiful Ordinary Life")
+Visual storytelling projects, including images from my weekly illustrated essay Beautiful Ordinary Life on Substack. [For more information, click here.](https://beautifulordinarylife.substack.com "Beautiful Ordinary Life")
