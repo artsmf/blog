@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://susannahfisher.art/"
+baseURL = "https://portfolio.susannahfisher.art/"
 languageCode = "en-us"
 title = "Susannah Fisher"
 theme = "pou"
