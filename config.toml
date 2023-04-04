@@ -72,11 +72,11 @@ name = "Writing"
 url = ''
 weight = 4
 
-[[menu.main]]
-name = "Beautiful Ordinary Life"
-parent = 'substack'
-URL = "https://beautifulordinarylife.substack.com"
-weight = 1
+# [[menu.main]]
+# name = "Beautiful Ordinary Life"
+# parent = 'substack'
+# URL = "https://beautifulordinarylife.substack.com"
+# weight = 1
 
 [[menu.main]]
 name = "A Naturalist's Notebook"
@@ -108,10 +108,10 @@ weight = 9
 
 # footer menu
 
-[[menu.footer]]
-name = "Beautiful Ordinary Life Newsletter"
-URL = "https://beautifulordinarylife.substack.com/"
-weight = 10
+# [[menu.footer]]
+# name = "Beautiful Ordinary Life Newsletter"
+# URL = "https://beautifulordinarylife.substack.com/"
+# weight = 10
 
 [[menu.footer]]
 name = "A Naturalist's Notebook Newsletter"
