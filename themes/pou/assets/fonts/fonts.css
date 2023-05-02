@@ -1,0 +1,39 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3867246, 2020-12-16T11:57:38-0500
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Modum by The Northern Block
+ * URL: https://www.myfonts.com/products/modum-13
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: PhotoWall Sans Shadow by DearType
+ * URL: https://www.myfonts.com/products/photowall-sans-shadow
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ *
+ * Webfont: Montecatini by Louise Fili Ltd
+ * URL: https://www.myfonts.com/products/montecatini-4
+ * Copyright: Copyright © 2023 Monotype Imaging Inc. All rights reserved.
+ * 
+ * © 2023 MyFonts Inc. */
+
+
+  
+@font-face {
+  font-family: "Modum";
+  src: url('webFonts/Modum/font.woff2') format('woff2'), url('webFonts/Modum/font.woff') format('woff');
+}
+@font-face {
+  font-family: "PhotoWallSansShadow";
+  src: url('webFonts/PhotoWallSansShadow/font.woff2') format('woff2'), url('webFonts/PhotoWallSansShadow/font.woff') format('woff');
+}
+@font-face {
+  font-family: "Montecatini";
+  src: url('webFonts/Montecatini/font.woff2') format('woff2'), url('webFonts/Montecatini/font.woff') format('woff');
+}
+
