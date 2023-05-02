@@ -94,10 +94,10 @@ weight = 2
 
 # Shop
 
-[[menu.main]]
-name = "Shop"
-URL = "https://shop.susannahfisher.art/"
-weight = 8
+# [[menu.main]]
+# name = "Shop"
+# URL = "https://shop.susannahfisher.art/"
+# weight = 8
 
 # About
 
@@ -123,10 +123,10 @@ weight = 20
 # URL = "workshops/"
 # weight = 30
 
-[[menu.footer]]
-name = "Shop"
-URL = "https://shop.susannahfisher.art/"
-weight = 100
+# [[menu.footer]]
+# name = "Shop"
+# URL = "https://shop.susannahfisher.art/"
+# weight = 100
 
 
 #################### default parameters ################################
